@@ -156,10 +156,8 @@ The OODA loop is essential for effective in-field IT diagnostics, especially whe
 
 ## Visual Reference
 
-![OODA Loop Diagram](images/oodaloop.png)
+![OODA Loop Diagram](/images/oodaloop.png)
 *The OODA Loop cycle: Observe → Orient → Decide → Act → (repeat)*
-
-**Note**: To include the diagram image, create an `images/` folder in your `procedures/` directory and add your OODA loop diagram as `ooda-loop-diagram.png`. You can create a simple diagram showing the circular flow of the four stages.
 
 ---
 
