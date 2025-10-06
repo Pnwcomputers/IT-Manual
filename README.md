@@ -101,7 +101,7 @@ A centralized knowledge base for IT professionals providing:
 ## 🔧 Parts & Supplies
 
 ### Recommended Suppliers
-- **Amazon.com** - New build parts, laptop parts, storage, RAM (Brand storefronts only)
+- [Amazon.com](http://www.amazon.com) - New build parts, laptop parts, storage, RAM (Brand storefronts only)
 - **Laptopscreen.com** - Replacement laptop screens
 - **iFixit Parts Store** - Multi-brand parts and tools
 - **The Dell Parts People** - Dell-specific components
