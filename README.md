@@ -85,10 +85,10 @@ A centralized knowledge base for IT professionals providing:
 
 ## 📋 Company Information
 
-### PNWC/GIF Computers
-- **Hosted Sites**: Documentation available at pnwcomputers.info
-- **AI Help Desk**: pnwcomputers.xyz
-- **Remote Support**: helpmepnwc.com
+### PNWC/GIF Computers Hosted Sites: 
+- [Technician Resource Website](http://pnwcomputers.info)
+- [AI Help Desk](http://pnwcomputers.xyz)
+- [Remote Support](http://helpmepnwc.com)
 
 ### Important Links
 - [Terms of Service](./policies/Terms-of-Service.md)
