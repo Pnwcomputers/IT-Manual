@@ -102,12 +102,10 @@ A centralized knowledge base for IT professionals providing:
 
 ### Recommended Suppliers
 - [Amazon.com](http://www.amazon.com) - New build parts, laptop parts, storage, RAM (Brand storefronts only)
-- **Laptopscreen.com** - Replacement laptop screens
-- **iFixit Parts Store** - Multi-brand parts and tools
-- **The Dell Parts People** - Dell-specific components
-- **Lenovo Factory Direct** - OEM Lenovo parts
-- **ASUS Replacement Parts Store** - ASUS OEM parts
-- **OWC Mac** - Apple & Mac components
+- [Laptopscreen.com](https://www.laptopscreen.com/English/) - Replacement laptop screens
+- [iFixit Parts Store](https://www.ifixit.com/Store) - Multi-brand parts and tools
+- [The Dell Parts People](https://www.parts-people.com/) - Dell-specific components
+- [OWC Mac](https://www.owc.com/)) - Apple & Mac components
 
 **Note**: All parts should have a 30-day free return policy
 
