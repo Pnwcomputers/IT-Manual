@@ -22,55 +22,54 @@ A centralized knowledge base for IT professionals providing:
 ## 🎯 Quick Navigation
 
 ### Core Documentation
-- [General FAQ](./General-FAQ.md)
-- [How-To Procedures (Full List)](./How-To-Procedures-FULL-LIST.md)
-- [General Job Procedures](./General-Job-Procedures.md)
-- [Diagnostic & Repair Procedures](./Diagnostic-Repair-Procedures.md)
+- [General FAQ](./faq/General-FAQ.md)
+- [How-To Procedures (Full List)](./procedures/How-To-Procedures-FULL-LIST.md)
+- [General Job Procedures](./procedures/General-Job-Procedures.md)
 
 ### Service Types
-- [On-Site Service Procedures](./On-Site-Service-How-Its-Done.md)
-- [In-Shop Service Procedures](./In-Shop-Service-How-Its-Done.md)
+- [On-Site Service Procedures](./procedures/On-Site-Service-How-Its-Done.md)
+- [In-Shop Service Procedures](./procedures/In-Shop-Service-How-Its-Done.md)
 
 ### Resources
-- [Software We Install & Use](./Software-We-Install-Use.md)
-- [Tools Usage Guide](./Tools-Usage.md)
-- [Diagnostic Websites](./Websites-Diagnostics-Assistance.md)
+- [Software We Install & Use](./software/Software-We-Install-Use.md)
+- [Tools Usage Guide](./tools/Tools-Usage.md)
+- [Diagnostic Websites](./tools/Websites-Diagnostics-Assistance.md)
 
 ### Templates & Forms
-- [Work Order Forms](./work-orders/)
-- [SMS & Email Templates](./SMS-Email-Templates.md)
-- [Invoice Templates](./Invoice-Templates.md)
+- [Work Order Forms](./worksheets/)
+- [SMS & Email Templates](./templates/SMS-Email-Templates.md)
+- [Invoice Templates](./templates/Invoice-Templates.md)
 
 ---
 
 ## 🚀 Getting Started
 
 ### For New Technicians
-1. Review the [General FAQ](./General-FAQ.md)
-2. Familiarize yourself with [General Job Procedures](./General-Job-Procedures.md)
-3. Study the [Communication Guidelines](./Communication.md)
-4. Review [Notes & Documentation](./Notes-Documentation.md) best practices
+1. Review the [General FAQ](./faq/General-FAQ.md)
+2. Familiarize yourself with [General Job Procedures](./procedures/General-Job-Procedures.md)
+3. Study the [Communication Guidelines](./templates/Communication.md)
+4. Review [Notes & Documentation](./templates/Notes-Documentation.md) best practices
 
 ### For On-Site Service
-1. Check [On-Site Service: How It's Done](./On-Site-Service-How-Its-Done.md)
-2. Review [Parking Guidelines & Laws](./Parking-Guidelines-Laws.md)
+1. Check [On-Site Service: How It's Done](./procedures/On-Site-Service-How-Its-Done.md)
+2. Review [Parking Guidelines & Laws](./business/Parking-Guidelines-Laws.md)
 3. Prepare using the appropriate work order form
-4. Reference [Payment Processing](./Payment-Processing.md) procedures
+4. Reference [Payment Processing](./business/Payment-Processing.md) procedures
 
 ---
 
 ## 🛠️ Key Resources
 
 ### Diagnostic Tools
-- [General Diagnostic Procedures](./General-Diagnostic-Procedures.md)
-- [OODA Loop for Improvised Diagnostics](./Improvised-Diagnostics-OODA-Loop.md)
-- [Laptop Faults & Diagnostics](./Laptop-Faults-Diagnostics.md)
-- [Electronics Diagnostics - Multimeter Testing](./Electronics-Diagnostics-Multimeter-Testing.md)
+- [General Diagnostic Procedures](./diagnostics/General-Diagnostic-Procedures.md)
+- [OODA Loop for Improvised Diagnostics](./procedures/Improvised-Diagnostics-OODA-Loop.md)
+- [Laptop Faults & Diagnostics](./diagnostics/Laptop-Faults-Diagnostics.md)
+- [Electronics Diagnostics - Multimeter Testing](./diagnostics/Electronics-Diagnostics-Multimeter-Testing.md)
 
 ### Specialized Procedures
-- [New PC Setup/Migration Checklist](./New-PC-Setup-Migration-Checklist.md)
-- [New Network Setup/Migration](./work-orders/new-network-setup.md)
-- [POP to IMAP Email Migration](./work-orders/pop-to-imap-migration.md)
+- [New PC Setup/Migration Checklist](./setup-migration/New-PC-Setup-Migration-Checklist.md)
+- [New Network Setup/Migration](./setup-migration/Network-Migration-Old-to-New.md)
+- [POP to IMAP Email Migration](./setup-migration/POP-to-IMAP-Email-Migration.md)
 
 ---
 
@@ -92,10 +91,10 @@ A centralized knowledge base for IT professionals providing:
 - **Remote Support**: helpmepnwc.com
 
 ### Important Links
-- [Terms of Service](./Terms-of-Service.md)
-- [Client Confidentiality Policies](./Client-Confidentiality-Policies.md)
-- [Service Guarantee](./Our-Service-Guarantee.md)
-- [Disclaimers](./Disclaimers.md)
+- [Terms of Service](./policies/Terms-of-Service.md)
+- [Client Confidentiality Policies](./policies/Client-Confidentiality-Policies.md)
+- [Service Guarantee](./policies/Our-Service-Guarantee.md)
+- [Disclaimers](./policies/Disclaimers.md)
 
 ---
 
@@ -116,7 +115,7 @@ A centralized knowledge base for IT professionals providing:
 
 ## 📞 Support & Contact
 
-For questions, issues, or contributions to this handbook, please contact your team lead or refer to the [Employee Information](./Employee-Information.md) section.
+For questions, issues, or contributions to this handbook, please contact your team lead or refer to the [Employee Information](./faq/Employee-Information.md) section.
 
 ---
 
