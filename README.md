@@ -105,7 +105,7 @@ A centralized knowledge base for IT professionals providing:
 - [Laptopscreen.com](https://www.laptopscreen.com/English/) - Replacement laptop screens
 - [iFixit Parts Store](https://www.ifixit.com/Store) - Multi-brand parts and tools
 - [The Dell Parts People](https://www.parts-people.com/) - Dell-specific components
-- [OWC Mac](https://www.owc.com/)) - Apple & Mac components
+- [OWC Mac](https://www.owc.com/) - Apple & Mac components
 
 **Note**: All parts should have a 30-day free return policy
 
