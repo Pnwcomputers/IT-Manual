@@ -1,95 +1,90 @@
-🔌
-Electronics Diagnostics -
-Multimeter Testing
-https://www.youtube.com/watch?v=81o8OYPK5TQ&list=PLxZr2xn8pwU
-nh45_EFQ7K7bi5QTyYTdGf&index=11
-Resistors & Inductors Ω
-Resistance Mode Ω with Multimeter
-If a resistor is closed it will test as a dead short (no resistance)
-If a resistor is open, you are not going to get ANY resistance (open)
-Check and test if the devices are in series or parallel
-Can act like a fuse
-Variable Resistors Ω
-Resistance Mode Ω with Multimeter
-Sweep to measure resistance, or match to set rating
-Potentiometers, etc.
-Coils (Inductor) ၊၊||၊
-2 Terminals = +/-
-Test Continuity to make sure it is good
-No Continuity means the Coil is BAD
-Diodes “One Way Wire” →←
-Diode Mode →← with Multimeter
-Positive on the “dark” side, and ground on the “white” side to test
-Voltage drop measured
-Electronics Diagnostics - Multimeter Testing 1
-Bridge Rectifier
-- Pin A, + Pin B = Measure (Reverse polarity should be 0)
-- Pin A, + Pin C = Measure (Reverse polarity should be 0)
-+ Pin D, - Pin C = Measure (Reverse polarity should be 0)
-+ Pin D, - Pin B = Measure (Reverse polarity should be 0)
-Can act like a fuse
-Mosfets (Gate, Drain & Source) →←
-Diode Mode →← with Multimeter
-N Type (NPN)
-+ to Drain, - to Source = Increase power to Mosfet to turn OFF
-(OL)
-Charge the gate by taping it with +
-Go back to Drain with + and it should not be on (meter will beep)
-Let go and tap Drain with + again and it should now be charging
-to OFF like at the start.
-P Type (PNP)
-Opposite function of N type
-4Pin, 6Pin and 8Pin Types of Mosfets
-8Pin = 4 Drain, 3 Source, 1 Gate
-6Pin = 4 Drain, 1 Source, 1 Gate
-4Pin = 1 Base (Gate), 2 Collector (Source), 1 Emitter (Drain)
-PIN 1 (Drain) always has a marker - Such as a Dot
-Test a Mosfet between Drain and Source
-Any continuity means the Mosfet is bad.
-Transistors (made up of Diodes) →←
-Diode Mode →← with Multimeter
-NPN - (BCE; Base Collector Emitter)
-Base to Collector or the Other Way Around
-Electronics Diagnostics - Multimeter Testing 2
-Base to Emitter or the Other Way Around
-PNP
-Swap method of NPN around
-Any continuity means the Transistor is bad.
-Capacitors →←
-Diode Mode →← with Multimeter
-Better/Best: Use an ESR Meter
-Match readings to listed rating on Capacitor
-Short the +/- to discharge as needed
-If a CAP is charged, it’s voltage reading should match rated output
-If a cap’s resistance reading is more than 10% difference, replace.
-Test Continuity to make sure it is good
-Check and test if the devices are in series or parallel
-If a capacitor has ZERO/0 continuity means the it is bad/shorted
-Capacitors for/under Chips; GPU, CPU etc. Will have a very LOW
-resistance and will have continuity.
-Switches ၊၊||၊
-Continuity Mode ၊၊||၊|။ (Beep) with Multimeter
-Should beep when turned on only
-Fuses ၊၊||၊
-Continuity Mode ၊၊||၊|။ (Beep) with Multimeter
-Should beep indicating the Fuse is not blown
-Can be a Resistor or even a Diode
-No continuity means the fuse is BAD
-Integrated Circuits (IC)
-Clock Generator IC
-Electronics Diagnostics - Multimeter Testing 3
-Circuit Diagram Needed
-Crystal Oscillator is needed and needs to be functional
-Audio IC
-Circuit Diagram Needed
-RJ45 IC
-Circuit Diagram Needed
-Super IO
-Electronics Diagnostics - Multimeter Testing 4
-Circuit Diagram Needed
-Basically a big power management IC
-Check capacitors around a Super IO, any shorts means the IC is bad
-Charge Integrated Circuit (PWM IC)
-When testing an IC, if any of it’s capacitors test as shorted, the IC is
-shorted and needs to be replaced.
-Electronics Diagnostics - Multimeter Testing 5
+# 🔌 Electronics Diagnostics - Multimeter Testing
+
+This section outlines procedures for testing common electronic components using a multimeter, including resistance, continuity, and diode modes.
+
+---
+
+## Resistors & Inductors ($\Omega$)
+
+| Component | Test Mode | Procedure | Failure Sign |
+| :--- | :--- | :--- | :--- |
+| **Fixed Resistor** | Resistance ($\Omega$) | Measure resistance; compare to marked value. | **Closed:** Tests as a dead short ($0\Omega$). **Open:** Gives no resistance (OL). |
+| **Inductor (Coil)** | Continuity (🔊) | Test continuity between the two terminals. | **No Continuity:** The coil is bad/open. |
+| **Variable Resistor** (Potentiometer) | Resistance ($\Omega$) | Sweep the adjustment to measure resistance, or match to set rating. | Does not sweep or match the set rating. |
+
+* **Note:** Resistors and inductors can be in series or parallel circuits. A resistor can sometimes act like a **fuse**.
+
+---
+
+## Diodes and Rectifiers ($\rightarrow\leftarrow$)
+
+### Diodes ("One Way Wire")
+
+* **Test Mode:** Diode Mode ($\rightarrow\leftarrow$)
+* **Procedure:**
+    1.  Place the **Positive** lead on the "dark" (cathode) side and **Negative** lead on the "white" (anode) side. The meter should display a **voltage drop** (typically $0.5\text{V}-0.7\text{V}$).
+    2.  Reverse the leads (Negative on cathode, Positive on anode). The meter should display **OL** (Over Limit/Open) as current flow is blocked.
+
+### Bridge Rectifier
+
+* **Test Mode:** Diode Mode ($\rightarrow\leftarrow$).
+* **Procedure (Test between pins A, B, C, D):**
+    * Test: **- Pin A, + Pin B** = Measure (Reverse polarity should be $0$).
+    * Test: **- Pin A, + Pin C** = Measure (Reverse polarity should be $0$).
+    * Test: **+ Pin D, - Pin C** = Measure (Reverse polarity should be $0$).
+    * Test: **+ Pin D, - Pin B** = Measure (Reverse polarity should be $0$).
+* **Note:** A bridge rectifier can sometimes act like a **fuse** when severely shorted.
+
+---
+
+## Transistors, Mosfets, and Capacitors
+
+### Mosfets (Gate, Drain, Source)
+
+* **Test Mode:** Diode Mode ($\rightarrow\leftarrow$) or Continuity (🔊).
+* **Failure Sign:** **Any continuity** (or beep) between **Drain** and **Source** means the Mosfet is **bad/shorted**.
+* **Testing Procedure (N-Type NPN):**
+    1.  **Turn OFF:** Place **+** to Drain, **-** to Source. Meter should read **OL**.
+    2.  **Charge Gate (ON):** Momentarily tap the Gate with the **+** lead.
+    3.  **Test ON State:** Go back to Drain with **+** and Source with **-**. Meter should show continuity (beep).
+    4.  **Turn OFF (Discharge):** Tap the Drain with the **+** lead to discharge the Gate.
+    5.  **Test OFF State:** Go back to Drain with **+** and Source with **-**. Meter should return to **OL**.
+* **P-Type (PNP):** Opposite function/polarity of the N-Type.
+* **Pin Types:**
+    * **8-Pin:** 4 Drain, 3 Source, 1 Gate.
+    * **6-Pin:** 4 Drain, 1 Source, 1 Gate.
+    * **4-Pin:** 1 Base (Gate), 2 Collector (Source), 1 Emitter (Drain).
+    * **Note:** Pin 1 (Drain) always has a marker (e.g., a dot).
+
+### Transistors (made up of Diodes)
+
+* **Test Mode:** Diode Mode ($\rightarrow\leftarrow$).
+* **Procedure (NPN - Base, Collector, Emitter):** Test diode drop between Base to Collector and Base to Emitter (and reverse). A functioning NPN transistor should act like two diodes connected at the Base.
+* **Failure Sign:** **Any continuity** means the Transistor is **bad/shorted**.
+
+### Capacitors
+
+* **Test Mode:** Diode Mode ($\rightarrow\leftarrow$).
+* **Better/Best Test:** Use an **ESR Meter** to compare readings to the listed rating.
+* **Voltage Test:** If a capacitor is charged, its voltage reading should match its rated output.
+* **Resistance/Continuity:**
+    * **If a capacitor has ZERO ($0\Omega$) continuity/resistance, it is bad/shorted.**
+    * If a capacitor's resistance reading is more than $10\%$ different from expected, replace it.
+* **Low Resistance Exception:** Capacitors for/under chips (e.g., GPU, CPU) will naturally have very **LOW resistance** and will show continuity due to the low-resistance power plane they connect to.
+* **Safety:** **Short the $\pm$ leads** to fully discharge the capacitor before testing.
+
+---
+
+## Switches, Fuses, and Integrated Circuits (IC)
+
+| Component | Test Mode | Procedure | Failure Sign |
+| :--- | :--- | :--- | :--- |
+| **Switches** | Continuity (🔊) | Should beep when the switch is turned **ON** (closed) and only when ON. | Bleeps when OFF, or no beep when ON. |
+| **Fuses** | Continuity (🔊) | Should beep, indicating the fuse is **NOT blown**. | **No continuity** means the fuse is **BAD** (open circuit). |
+| **Integrated Circuits (IC)** | Varies | Requires a **Circuit Diagram** for pin-by-pin testing. | A short on any connected capacitor often indicates a **failed IC**. |
+
+### Integrated Circuits (IC)
+
+* **General Note:** Testing complex ICs (Clock Generator, Audio IC, RJ45 IC, Super IO, PWM IC) typically **requires a circuit diagram**.
+* **Super IO:** This is a big **power management IC**. Check capacitors around the Super IO; **any shorts** means the **IC is bad**.
+* **Charge Integrated Circuit (PWM IC):** If **any of its capacitors test as shorted**, the **IC is shorted** and needs replacement.
