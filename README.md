@@ -210,12 +210,29 @@ A centralized knowledge base for IT professionals providing:
 ## 🔧 Parts & Supplies
 
 ### Recommended Suppliers
-- [Amazon.com](http://www.amazon.com) - New build parts, laptop parts, storage, RAM (Brand storefronts only)
-- [Laptopscreen.com](https://www.laptopscreen.com/English/) - Replacement laptop screens
-- [iFixit Parts Store](https://www.ifixit.com/Store) - Multi-brand parts and tools
-- [The Dell Parts People](https://www.parts-people.com/) - Dell-specific components
-- [OWC Mac](https://www.owc.com/) - Apple & Mac components
+- [Amazon.com](http://www.amazon.com) - Tools, Manufacturer Warrantied Parts, Replacement Parts, Supplies, Test Equipment, etc. (Brand storefronts only)
 - [Amazon Recommended Items](https://www.amazon.com/finds/post/list/amzn1.ideas.1Y1NSR6E8P9B4) - *NOT AFFILIATE LINKS
+- [Laptopscreen.com](https://www.laptopscreen.com/English/) - Replacement laptop screens
+- [OWC Mac](https://www.owc.com/) - Apple & Mac components
+- [Apple Self Service Repair](https://support.apple.com/self-service-repair)
+- [The Dell Parts People](https://www.parts-people.com/) - Dell-specific components
+- [Dell Self-Repair Parts](https://www.dell.com/support/contents/en-us/article/warranty/self-repair)
+- [Samsung Self-Repair Program](https://www.samsung.com/us/support/self-repair/)
+- [Google Pixel Repair](https://repair.google.com/)
+- [Microsoft Surface Self Repair](https://support.microsoft.com/en-us/surface-recovery-image)
+- [Framework Laptop Marketplace](https://frame.work/marketplace)
+- [ASUS Self Replacement Solution](https://www.asus.com/us/support/faq/1051611/)
+- [ASUS Parts Shop](https://partshop.asus.com/us/)
+- [HP Parts Store](https://www.hp.com/us-en/parts-store)
+- [Lenovo Parts Lookup](https://support.lenovo.com/us/en/parts-lookup)
+- [Sony Self-Repair Services](https://sonyparts.com/pages/self-repair-services)
+- [iFixit Parts Store](https://www.ifixit.com/Store) - Multi-brand parts and tools
+- [Steam Deck Replacement Parts](https://www.ifixit.com/collaborations/steam-deck)
+- [Motorola Right to Repair (iFixit partnership)](https://en-us.support.motorola.com/app/right-to-repair)
+- [Fairphone Spare Parts](https://shop.fairphone.com/spare-parts)
+- [McMaster-Carr](https://www.mcmaster.com/) - DIY Engineering Components
+- [JLPCB](https://jlcpcb.com/) - PCB Manufacturing, 3D Printing, CNC & Laser Services, etc.
+
 
 **Note**: All parts should have a 30-day free return policy
 
