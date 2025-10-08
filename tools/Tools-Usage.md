@@ -15,7 +15,7 @@
 ---
 
 ## ⚡ Power Supply Unit (PSU) Tester
-
+![PSU Tester](/images/psu_tester.jpg)
 ### General Notes
 
 1.  It's typical for modern PSUs with **24-pin** power cables to **not have a -5v** rail.
@@ -23,7 +23,7 @@
     * **Older PSUs:** Rating should be no higher than $500$ ms and no lower than $200$ ms.
     * **Newer PSUs:** Rating should be no higher than $500$ ms and no lower than $100$ ms.
 
-
+![Bad PSU Test Results](/images/bad_psu.png)
 
 ---
 
@@ -31,9 +31,10 @@
 
 ### Compound Removal
 
-*(Details for compound removal were not provided in the original text.)*
+![How To Clean Off Thermal Paste](/images/Howtocleanthermalpasteoff.png)
 
 ### Compound Application
+![Ways To Apply Thermal Paste](/images/Howtoapplythermalpaste.png)
 
 We typically use the **"Five Dots"** or **"Buttered Toast"** application methods for large processors.
 
@@ -42,6 +43,7 @@ For smaller chips/chipsets, the **"Pea-Size"** application method works just fin
 ---
 
 ## 🔌 Pockethernet / Ethernet Testers
+![Pocket Ethernet Network Tester](/images/mp_pockethernet.jpg)
 
 ### Pockethernet: Wiremap Test
 
