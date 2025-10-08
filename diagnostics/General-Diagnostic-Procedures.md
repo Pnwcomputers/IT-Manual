@@ -2,15 +2,6 @@
 
 Standard computer diagnostics procedures generally fall into two categories: hardware diagnostics and software diagnostics.
 
-## Quick Links
-
-- 🏢 In-Shop Diagnostics Info
-- 📚 How-To Procedures (FULL LIST)
-- 🔍 Improvised Diagnostics: OODA Loop
-- 🌐 Websites (Diagnostics Assistance)
-- 💻 Laptop Faults & Diagnostics
-- 🔌 Electronics Diagnostics - Multimeter Testing
-
 ## 1. Hardware Diagnostics
 
 This involves testing the physical components of the computer. This can include:
