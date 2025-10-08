@@ -12,16 +12,46 @@
 | **Residential** | $100 Per Hour | 1-hour minimum | Charged in 10-minute increments after the first hour. |
 | **Business** | $120 Per Hour | 1-hour minimum | Charged in 10-minute increments after the first hour. |
 
-### Travel/Trip Fee (For jobs 15 miles or more from the office)
+# 🚋 Trip Fee Calculation for Jobs 15+ Miles
 
-* **Travel Radius:** Free 15-mile travel radius.
-* **Mileage Rate:** **$0.58 per mile** (round trip).
-    * *Calculation: Round-trip total miles traveled $\times 0.58 = \text{Mileage charge}$*
-* **Travel Time Rate:** **$0.73 per minute** (round trip).
-    * *Calculation: Round-trip total travel time in minutes $\times 0.73 = \text{Travel time charge}$*
-* **Total Trip Fee:** Add Mileage charge to Travel time charge.
+For jobs located **15 miles or more** from the office, a Trip Fee must be calculated and charged.
+
+* **Mileage Rate:** **$0.58 Per Mile**
+* **Travel Time Rate:** **$0.73 Per Minute**
+* **Tax Note:** Sales Tax is **not** charged or applied to travel/trip fees.
+
+---
+
+## Trip Fee Calculation Procedure
+
+1.  Multiply the total miles (roundtrip) by $0.58 to get the **Mileage Fee**. Record this total.
+2.  Multiply your travel time (in minutes) by $0.73 to get the **Time Fee**. Record this total.
+3.  Add the two totals together to get your final calculated **Total Trip Fee**.
+
+### Example Calculation
+
+| Component | Calculation | Fee |
+| :--- | :--- | :--- |
+| **Mileage Fee** | 40 miles x $0.58 | $23.20 |
+| **Time Fee** | 30 min travel time x $0.73 | $21.90 |
+| **Total Trip Fee** | $23.20 + $21.90 | **$45.10** |
+
+---
+
+## Travel Fee Calculation Table Examples
+
+| Client Location | Distance (miles) | Time (minutes) | Mileage Fee | Time Fee | Total Travel Fee |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Battle Ground** | 20 | 40 | $11.60 | $29.20 | **$40.80** |
+| **Washougal** | 40 | 44 | $23.20 | $32.12 | **$55.32** |
+| **Camas** | 34 | 40 | $19.72 | $29.20 | **$48.92** |
+| **La Center** | 34 | 40 | $19.72 | $29.20 | **$48.92** |
+| **Woodland** | 40 | 44 | $23.20 | $32.12 | **$55.32** |
+| **Kelso** | 80 | 80 | $46.40 | $58.40 | **$104.80** |
 
 ### Taxes & Processing
+
+There will be different tax rates depending on the states, cities and couties you visit for service. 
 
 | Location | Standard Tax Rate | Tax + 5% Processing (Online/Card) |
 | :--- | :--- | :--- |
@@ -30,24 +60,11 @@
 
 ---
 
-## 💻 AI Calculation Tool
-
-You can use the **PNWC ChatGPT AI Help Desk** to calculate onsite totals (trip fees, processing fees, and all).
-
-**@ChatGPT ChatGPT - PNW Computers AI Help Desk**
-
-**How You Can Use It (Examples):**
-* "Calculate trip fee for 50 miles and 40 minutes."
-* "Labor is 3 hours at $100/hr. Include sales tax and processing fee."
-* "Here’s the breakdown: 60 miles, 30 minutes travel, 2 labor hours at $125/hr. I need a total with everything included."
-
----
-
 ## Online and Card Payment Methods
 
 * **💸 Online Payment Methods:** PayPal, Venmo, CashApp, or Zelle.
-* **Square POS:** We use the Square Payments App for physical credit card processing.
-    * You will be assigned a user login and must install the Square App on your device.
+* **Square POS:** We use the Square Payments App for physical credit card processing and Invoicing.
+    * Employees are assigned an individual user login and they must install the Square App on their work device.
     * Square supports **NFC functions** for taking payments (often without a physical device). If NFC fails, you can manually enter card information.
 
 ---
