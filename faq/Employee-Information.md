@@ -14,9 +14,9 @@
 
 ---
 
-## Onboarding
+# Onboarding
 
-### Non-Disclosure & Non-Compete Agreements
+## Non-Disclosure & Non-Compete Agreements
 
 #### Non-Disclosure Agreement (NDA)
 [Non-Disclosure Agreement](/business/NDA-filename.md)
@@ -26,7 +26,7 @@
 
 ---
 
-### IT Field Service Technician 90-Day Probation Terms
+# IT Field Service Technician 90-Day Probation Terms
 
 This document outlines the expectations, evaluation criteria, and support provided to new IT Field Service Technicians during their initial **90-day probation period**.
 
@@ -121,7 +121,7 @@ Technicians will be using their **own personal vehicles** for getting to and fro
 
 ---
 
-## Communication:
+# Communication:
 
 The company utilizes specific digital and voice channels to maintain clear boundaries between professional and personal life, ensuring efficient internal support and proper client contact.
 
@@ -145,19 +145,19 @@ The company utilizes specific digital and voice channels to maintain clear bound
 
 ---
 
-## Tools Needed:
+# Required Tools:
 
 See: [Tools Usage](../tools/Tools-Usage.md)
 
 ---
 
-## [Code of Conduct](/business/Tools-Usage.md)
+# [Code of Conduct](/business/Tools-Usage.md)
 
-### [Dress Code & Appearance](/business/Dress_Code.md)
+## [Dress Code & Appearance](/business/Dress_Code.md)
 
-### [Lateness/Tardiness](/policies/Tardiness.md)
+## [Lateness/Tardiness](/policies/Tardiness.md)
 
-### [Time Off & Sick Days](/policies/Sick_Days.md)
+## [Time Off & Sick Days](/policies/Sick_Days.md)
 
 ---
 
@@ -195,7 +195,7 @@ Terms of termination outline the conditions under which a technician's employmen
 
 ---
 
-## [Dispute Resolution](/business/Disputes.md)
+# [Dispute Resolution](/business/Disputes.md)
 
 ---
 
