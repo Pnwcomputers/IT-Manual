@@ -41,7 +41,7 @@ A centralized knowledge base for IT professionals providing:
 - [Mac/Apple - System Log Diagnostics](./diagnostics/Mac-Apple-System-Log-Diagnostics.md)
 - [Hardware Testing Programs](./diagnostics/Hardware-Testing-Programs.md)
 - [Software Download & Reinstall](./diagnostics/Software-Download-Reinstall.md)
-- **Blog:** [Complete Diagnostic Tools Guide](https://pnwcomputers.blogspot.com/search/label/diagnostics)
+- **Blog:** [USB Diagnostic Tools Guide](https://pnwcomputers.blogspot.com/search/label/diagnostics)
 
 ### 🔧 Hardware
 - [BIOS Access Guide](./hardware/BIOS_Access.md)
