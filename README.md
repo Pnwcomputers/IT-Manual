@@ -215,7 +215,7 @@ A centralized knowledge base for IT professionals providing:
 - [iFixit Parts Store](https://www.ifixit.com/Store) - Multi-brand parts and tools
 - [The Dell Parts People](https://www.parts-people.com/) - Dell-specific components
 - [OWC Mac](https://www.owc.com/) - Apple & Mac components
-- [Amazon Recommended Items (NON-AFFILIATE)](https://www.amazon.com/finds/post/list/amzn1.ideas.1Y1NSR6E8P9B4)
+- [Amazon Recommended Items (*NOT AFFILIATE LINKS)](https://www.amazon.com/finds/post/list/amzn1.ideas.1Y1NSR6E8P9B4)
 
 **Note**: All parts should have a 30-day free return policy
 
