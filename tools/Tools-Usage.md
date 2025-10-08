@@ -1,5 +1,5 @@
 # 🛠️ General Tools and Usage
-
+![General Tool Kit](/images/toolkit.jpg)
 ## General Toolset Notes
 
 * **Torx Bits:** Can be used for **Allen Key** bolts and screws.
@@ -8,7 +8,7 @@
 ---
 
 ## Screwdrivers and Assembly
-
+![Electric Screwdriver](/images/electric_screwdriver.jpg)
 1.  **Electronic Screwdrivers** are great for general work and tear-down.
 2.  I recommend using **manual drivers for re-assembly**, especially for delicate parts and assemblies, to avoid stripping threads or over-tightening.
 
