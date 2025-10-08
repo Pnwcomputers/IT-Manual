@@ -212,9 +212,11 @@ For questions, issues, or contributions to this handbook, please contact Jon Pie
 
 ---
 
-## 📄 License
+## Copyright & License
 
-This handbook is proprietary and confidential. Unauthorized distribution is prohibited.
+© 2025 Pacific NW Computers. All rights reserved.
+
+This handbook is proprietary and confidential. Unauthorized distribution, modification, or use is prohibited without express written permission.
 
 ---
 
