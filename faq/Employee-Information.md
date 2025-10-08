@@ -3,14 +3,12 @@
 ## Table of Contents
 
 - [Onboarding](#onboarding)
-- [Hours, Availability & Pay](#hours-availability--pay)
 - [Transportation](#transportation)
 - [Communication](#communication)
-- [Tools & Supplies](#tools--supplies)
-- [Code of Conduct](#code-of-conduct)
+- [Tools & Supplies](/business/Tools-Usage.md)
+- [Code of Conduct](/business/Code_of_Conduct.md)
 - [Client Confidentiality Policies](#client-confidentiality-policies)
-- [Technician Liability](#technician-liability)
-- [Scope of Service](#scope-of-service)
+- [Technician Liability & Scope of Service](/business/Service_Scope.md)
 - [Terms of Termination](#terms-of-termination)
 - [Dispute Resolution](#dispute-resolution)
 
@@ -105,7 +103,7 @@ The 90-day probation period is designed to ensure that new IT Field Service Tech
 
 ---
 
-## Transportation
+# Transportation
 
 Technicians will be using their **own personal vehicles** for getting to and from jobs.
 
@@ -118,7 +116,8 @@ Technicians will be using their **own personal vehicles** for getting to and fro
 
 * You will **NOT** be transporting any devices, products, or other equipment.
 * Your travel consists simply of going from **point A (your location) to point B (the job site)**. This is an important detail when discussing coverage with your insurance provider.
-* See: [Parking Guidelines](../business/Parking-Guidelines-Laws.md)
+  
+## [Parking Guidelines](../business/Parking-Guidelines-Laws.md)
 
 ---
 
