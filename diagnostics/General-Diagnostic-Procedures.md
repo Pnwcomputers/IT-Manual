@@ -1,4 +1,4 @@
-# 🔍 General Diagnostic Procedures
+# 🔍 General Diagnostic 101
 
 Standard computer diagnostics procedures generally fall into two categories: hardware diagnostics and software diagnostics.
 
