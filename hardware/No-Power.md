@@ -16,7 +16,7 @@
 
    - A power supply tester should indicate a good +3V, +5V and +12V power rails.
 
-   ![Power Supply Tester](images/power-supply-tester-1.jpg)
+   ![Power Supply Tester](../images/psu_tester.jpg)
    *Power supply tester showing voltage readings*
 
    - The PG rating should be no lower than 200 and no more than 500.
@@ -25,7 +25,7 @@
 
    - If a power supply tester shows NO power or signal at all, that usually indicates a full failure or the computer's power supply.
 
-   ![LCD Power Supply Tester](images/power-supply-tester-2.jpg)
+   ![LCD Power Supply Tester](../images/psu_tester.jpg)
    *LCD Power Supply Tester showing rail voltages*
 
 4. Check that power is actually making it into the device.

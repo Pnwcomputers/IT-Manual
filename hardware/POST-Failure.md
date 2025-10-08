@@ -12,7 +12,7 @@ After checking the PSU, we need to see if the motherboard is trying to tell us s
 
 To do this, make sure there is an onboard speaker, or you hook up your own speaker to the motherboard's speaker header, to hear any BIOS beep codes the motherboard might be trying to emit.
 
-![Motherboard Speaker Header](images/speaker-header.jpg)
+![Motherboard Speaker Header](../images/motherboard_speaker.jpg)
 *Motherboard speaker header location and speaker types*
 
 Listen for any beep code patterns; such as 1 long and 3 short beeps, or 3 short beeps, etc.
@@ -33,7 +33,7 @@ Google is your friend! Google the beep pattern (1 long 3 short) along with the m
 
 - If the system emits NO beeps STILL, attempt a CMOS reset of the motherboard.
 
-![CMOS Battery](images/cmos-battery.jpg)
+![CMOS Battery](../images/cmos_battery.png)
 *CMOS battery location on motherboard*
 
 - If STILL NO BEEPS, the motherboard has an issue/has failed and needs to be replaced.

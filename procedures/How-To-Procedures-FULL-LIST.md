@@ -13,8 +13,8 @@ Right out of the gate (if it applies) make sure all connections are good and/or 
 
 **Related Resources:**
 - [Improvised Diagnostics: OODA Loop](./Improvised-Diagnostics-OODA-Loop.md)
-- [HWInfo - System Log Diagnostics](./HWInfo-System-Log-Diagnostics.md)
-- [Tools Usage](./Tools-Usage.md)
+- [HWInfo - System Log Diagnostics](../diagnostics/HWInfo-System-Log-Diagnostics.md)
+- [Tools Usage](../tools/Tools-Usage.md)
 
 ---
 
@@ -49,114 +49,114 @@ Right out of the gate (if it applies) make sure all connections are good and/or 
 
 ## Software/Utilities We Use
 
-- [Software We Install & Use](./Software-We-Install-Use.md)
-- [Hardware Testing Programs](./Hardware-Testing-Programs.md)
-- [Bootable USB (How-To)](./Bootable-USB-How-To.md)
+- [Software We Install & Use](../software/Software-We-Install-Use.md)
+- [Hardware Testing Programs](../diagnostics/Hardware-Testing-Programs.md)
+- [Bootable USB (How-To)](../tools/Bootable-USB.md)
 
 ---
 
 ## Data Backup (Local & Cloud)
 
-- [Online Backup Services/Ransomware Protection](./Online-Backup-Services-Ransomware-Protection.md)
-- [Data Backup/Restore (PC)](./Data-Backup-Restore-PC.md)
-- [Data Backup/Restore (Mac)](./Data-Backup-Restore-Mac.md)
+- [Online Backup Services/Ransomware Protection](../security/Online-Backup-Services-Ransomware-Protection.md)
+- [Data Backup/Restore (PC)](../setup-migration/Data-Backup-Restore-PC.md)
+- [Data Backup/Restore (Mac)](../mac/Data-Backup-Restore-Mac.md)
 
 ---
 
 ## Email
 
-- [Email Address Change To-Do List](./Email-Address-Change-To-Do-List.md)
-- [POP to IMAP Email Migration](./POP-to-IMAP-Email-Migration.md)
+- [Email Address Change To-Do List](../setup-migration/Email-Address-Change-To-Do-List.md)
+- [POP to IMAP Email Migration](../setup-migration/POP-to-IMAP-Email-Migration.md)
 
 ---
 
 ## HDD & SSD Disk Cloning
 
-- [Clone a Hard Drive: Hardware & Software Methods](./Clone-Hard-Drive-Hardware-Software-Methods.md)
+- [Clone a Hard Drive: Hardware & Software Methods](../hardware/Clone-Hard-Drive-Hardware-Software-Methods.md)
 
 ---
 
 ## Hardware Troubleshooting
 
-- [How to Test a Power Supply (PSU)](./How-to-Test-Power-Supply-PSU.md)
-- [No Power](./No-Power.md)
-- [POST Failure: Power, On, Self, Test](./POST-Failure.md)
-- [Motherboard BIOS/UEFI Reset](./Motherboard-BIOS-UEFI-Reset.md)
-- [Motherboard Testing](./Motherboard-Testing.md)
-- [HDD/SSD Health Checking](./HDD-SSD-Health-Checking.md)
-- [Hardware Testing Programs](./Hardware-Testing-Programs.md)
-- [Bootable USB (How-To)](./Bootable-USB-How-To.md)
-- [HWInfo - System Log Diagnostics](./HWInfo-System-Log-Diagnostics.md)
-- [Mac/Apple - System Log Diagnostics](./Mac-Apple-System-Log-Diagnostics.md)
+- [How to Test a Power Supply (PSU)](../hardware/How-to-Test-Power-Supply-PSU.md)
+- [No Power](../hardware/No-Power.md)
+- [POST Failure: Power, On, Self, Test](../hardware/POST-Failure.md)
+- [Motherboard BIOS/UEFI Reset](../hardware/BIOS_Access.md)
+- [Motherboard Testing](../hardware/Motherboard-Testing.md)
+- [HDD/SSD Health Checking](../hardware/HDD-SSD-Health-Checking.md)
+- [Hardware Testing Programs](../diagnostics/Hardware-Testing-Programs.md)
+- [Bootable USB (How-To)](../tools/Bootable-USB.md)
+- [HWInfo - System Log Diagnostics](../diagnostics/HWInfo-System-Log-Diagnostics.md)
+- [Mac/Apple - System Log Diagnostics](../mac/Mac-Apple-System-Log-Diagnostics.md)
 
 ---
 
 ## Devices & Printers
 
-- [Printer/New Printer Setup (PC & Mac)](./Printer-New-Printer-Setup-PC-Mac.md)
-- [Printer Troubleshooting Windows OS](./Printer-Troubleshooting-Windows-OS.md)
-- [Printer Installation (OSX)](./Printer-Installation-OSX.md)
-- [Printer Troubleshooting (OSX)](./Printer-Troubleshooting-OSX.md)
+- [Printer/New Printer Setup (PC & Mac)](../printers/Printer-New-Printer-Setup-PC-Mac.md)
+- [Printer Troubleshooting Windows OS](../printers/Printer-Troubleshooting-Windows-OS.md)
+- [Printer Installation (OSX)](../printers/Printer-Installation-OSX.md)
+- [Printer Troubleshooting (OSX)](../printers/Printer-Troubleshooting-OSX.md)
 
 ---
 
 ## Networks/Networking
 
-- [Networking 101](./Networking-101.md)
-- [Router/Modem Access](./Router-Modem-Access.md)
-- [Modem Installation: How-To](./Modem-Installation-How-To.md)
-- [Router Setup](./Router-Setup.md)
-- [Network Migration (Old → New)](./Network-Migration-Old-to-New.md)
-- [Setting Network Location (Private/Public) - Windows 10/11](./Setting-Network-Location-Private-Public-Windows-10-11.md)
-- [Windows File & Print Sharing](./Windows-File-Print-Sharing.md)
+- [Networking 101](../networking/Networking-101.md)
+- [Router/Modem Access](../networking/Router-Modem-Access.md)
+- [Modem Installation: How-To](../networking/Modem-Installation-How-To.md)
+- [Router Setup](../networking/Router-Setup.md)
+- [Network Migration (Old → New)](../networking/Network-Migration-Old-to-New.md)
+- [Setting Network Location (Private/Public) - Windows 10/11](../windows/Setting-Network-Location-Private-Public-Windows-10-11.md)
+- [Windows File & Print Sharing](../windows/Windows-File-Print-Sharing.md)
 
 ---
 
 ## Online Account Troubleshooting, Account Access, Login Help, etc.
 
-- [Account Recovery Support; and Limitations](./Account-Recovery-Support-Limitations.md)
-- [General Account(s) Login Issues](./General-Accounts-Login-Issues.md)
-- [Microsoft Account Issues](./Microsoft-Account-Issues.md)
-- [Find Passwords/Password Help](./Find-Passwords-Password-Help.md)
-- [Local Wifi, Network Info; Logins, etc.](./Local-Wifi-Network-Info-Logins.md)
+- [Account Recovery Support; and Limitations](../accounts/Account-Recovery-Support-Limitations.md)
+- [General Account(s) Login Issues](../accounts/General-Accounts-Login-Issues.md)
+- [Microsoft Account Issues](../accounts/Microsoft-Account-Issues.md)
+- [Find Passwords/Password Help](../accounts/Find-Passwords-Password-Help.md)
+- [Local Wifi, Network Info; Logins, etc.](../networking/Local-Wifi-Network-Info-Logins.md)
 
 ---
 
 ## OSX - Apple Computers
 
-- [Mac/Apple - System Log Diagnostics](./Mac-Apple-System-Log-Diagnostics.md)
-- [HDD/SSD Health Checking](./HDD-SSD-Health-Checking.md)
-- [Data Backup/Restore (Mac)](./Data-Backup-Restore-Mac.md)
-- [Apple ID - Login Troubleshooting](./Apple-ID-Login-Troubleshooting.md)
-- [Mac Computer Start-up Repair(s)](./Mac-Computer-Start-up-Repairs.md)
-- [Printer Installation (OSX)](./Printer-Installation-OSX.md)
-- [Printer Troubleshooting (OSX)](./Printer-Troubleshooting-OSX.md)
-- [Mac System Clean-Up - MBAM Free & Onyx](./Mac-System-Clean-Up-MBAM-Free-Onyx.md)
-- [Mac - MS Office Troubleshooting](./Mac-MS-Office-Troubleshooting.md)
-- [Mac - Outlook Troubleshooting](./Mac-Outlook-Troubleshooting.md)
+- [Mac/Apple - System Log Diagnostics](../mac/Mac-Apple-System-Log-Diagnostics.md)
+- [HDD/SSD Health Checking](../hardware/HDD-SSD-Health-Checking.md)
+- [Data Backup/Restore (Mac)](../mac/Data-Backup-Restore-Mac.md)
+- [Apple ID - Login Troubleshooting](../accounts/Apple-ID-Login-Troubleshooting.md)
+- [Mac Computer Start-up Repair(s)](../mac/Mac-Computer-Start-up-Repairs.md)
+- [Printer Installation (OSX)](../printers/Printer-Installation-OSX.md)
+- [Printer Troubleshooting (OSX)](../printers/Printer-Troubleshooting-OSX.md)
+- [Mac System Clean-Up - MBAM Free & Onyx](../mac/Mac-System-Clean-Up-MBAM-Free-Onyx.md)
+- [Mac - MS Office Troubleshooting](../mac/Mac-MS-Office-Troubleshooting.md)
+- [Mac - Outlook Troubleshooting](../mac/Mac-Outlook-Troubleshooting.md)
 
 ---
 
 ## Virus Removal & Tune-Up/Clean-Up Procedures
 
-- [Eliminate Start-up Programs](./Eliminate-Start-up-Programs.md)
-- [Software to Remove if Found](./Software-to-Remove-if-Found.md)
+- [Eliminate Start-up Programs](../security/Eliminate-Start-up-Programs.md)
+- [Software to Remove if Found](../software/Software-to-Remove-if-Found.md)
 - [Clean-up Temp & Junk Data](./Clean-up-Temp-Junk-Data.md)
-- [Check for Malware and Adware](./Check-for-Malware-and-Adware.md)
-- [Mac System Clean-Up - MBAM Free & Onyx](./Mac-System-Clean-Up-MBAM-Free-Onyx.md)
+- [Check for Malware and Adware](../security/Check-for-Malware-and-Adware.md)
+- [Mac System Clean-Up - MBAM Free & Onyx](../mac/Mac-System-Clean-Up-MBAM-Free-Onyx.md)
 
 ---
 
 ## Windows 10 & 11
 
-- [Windows 10/11 Failing To Boot](./Windows-10-11-Failing-To-Boot.md)
-- [Windows 11 Product Key Retrieval](./Windows-11-Product-Key-Retrieval.md)
-- [Setting Network Location (Private/Public) - Windows 10/11](./Setting-Network-Location-Private-Public-Windows-10-11.md)
-- [Windows File & Print Sharing](./Windows-File-Print-Sharing.md)
-- [Editing Windows Host File](./Editing-Windows-Host-File.md)
-- [Windows Update Troubleshooting](./Windows-Update-Troubleshooting.md)
-- [Printer Troubleshooting](./Printer-Troubleshooting.md)
-- [HWInfo - System Log Diagnostics](./HWInfo-System-Log-Diagnostics.md)
+- [Windows 10/11 Failing To Boot](../windows/Windows-10-11-Failing-To-Boot.md)
+- [Windows 11 Product Key Retrieval](../windows/Windows-11-Product-Key-Retrieval.md)
+- [Setting Network Location (Private/Public) - Windows 10/11](../windows/Setting-Network-Location-Private-Public-Windows-10-11.md)
+- [Windows File & Print Sharing](../windows/Windows-File-Print-Sharing.md)
+- [Editing Windows Host File](../windows/Editing-Windows-Host-File.md)
+- [Windows Update Troubleshooting](../windows/Windows-Update-Troubleshooting.md)
+- [Printer Troubleshooting](../printers/Printer-Troubleshooting-Windows-OS.md)
+- [HWInfo - System Log Diagnostics](../diagnostics/HWInfo-System-Log-Diagnostics.md)
 
 ---
 
@@ -164,11 +164,11 @@ Right out of the gate (if it applies) make sure all connections are good and/or 
 
 ### Microsoft Office/Office 365 Troubleshooting (PC & Mac)
 
-- [Find MS Office Product/License Key](./Find-MS-Office-Product-License-Key.md)
-- [MS Office/MS Account Troubleshooting](./MS-Office-MS-Account-Troubleshooting.md)
-- [Microsoft Outlook Troubleshooting](./Microsoft-Outlook-Troubleshooting.md)
-- [Mac - MS Office Troubleshooting](./Mac-MS-Office-Troubleshooting.md)
-- [Mac - Outlook Troubleshooting](./Mac-Outlook-Troubleshooting.md)
+- [Find MS Office Product/License Key](../software/Find-MS-Office-Product-License-Key.md)
+- [MS Office/MS Account Troubleshooting](../software/Microsoft-Outlook-Troubleshooting.md)
+- [Microsoft Outlook Troubleshooting](../software/Microsoft-Outlook-Troubleshooting.md)
+- [Mac - MS Office Troubleshooting](../mac/Mac-MS-Office-Troubleshooting.md)
+- [Mac - Outlook Troubleshooting](../mac/Mac-Outlook-Troubleshooting.md)
 
 ---
 

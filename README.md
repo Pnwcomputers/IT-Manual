@@ -68,7 +68,7 @@ A centralized knowledge base for IT professionals providing:
 
 ### Specialized Procedures
 - [New PC Setup/Migration Checklist](./setup-migration/New-PC-Setup-Migration-Checklist.md)
-- [New Network Setup/Migration](./setup-migration/Network-Migration-Old-to-New.md)
+- [New Network Setup/Migration](./networking/Network-Migration-Old-to-New.md)
 - [POP to IMAP Email Migration](./setup-migration/POP-to-IMAP-Email-Migration.md)
 
 ---

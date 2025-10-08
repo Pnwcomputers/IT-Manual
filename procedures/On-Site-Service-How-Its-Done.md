@@ -58,7 +58,7 @@ Perform the repair, installation, or diagnostics as per the service request. Kee
 Take notes or document any major actions or changes made (e.g., replaced hardware, software reinstalled, settings reconfigured).
 
 ### Upselling Opportunities
-See [Upselling Guide](./Upselling.md) for how to and ways to upsell recommended products and services.
+See [Upselling Guide](../business/Upselling.md) for how to and ways to upsell recommended products and services.
 
 ---
 
@@ -104,7 +104,7 @@ Ask the client if they're satisfied with the work or if they have any final conc
 Go over the total cost of the service, explaining labor charges, parts used, trip fees, and any other relevant fees. Present the client with a clear breakdown.
 
 ### Payment Collection
-See [Payment Processing](./Payment-Processing.md) for full details.
+See [Payment Processing](../business/Payment-Processing.md) for full details.
 
 **Accepted methods**: Cash, check, credit card, PayPal, Venmo, Zelle, etc.
 
