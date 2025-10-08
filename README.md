@@ -223,12 +223,9 @@ A centralized knowledge base for IT professionals providing:
 
 ## 📋 Author & Company Information:
 
-### Pacific Northwest Computers & GIF Computers
-- [Linktr.ee](http://www.linktr.ee/pnwcomputers)
+## Pacific Northwest Computers & GIF Computers - [Linktree](http://www.linktr.ee/pnwcomputers)
 
-## 📞 Contact
-
-For questions, issues, or contributions to this handbook, please contact Jon Pienkowski: www.linktr.ee/pnwcomputers
+For questions, issues, or contributions to this handbook, please contact Jon Pienkowski: support@pnwcomputers.com
 
 ---
 
