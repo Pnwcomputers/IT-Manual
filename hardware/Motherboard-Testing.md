@@ -3,6 +3,7 @@
 ## "RAM Pull" Motherboard Functionality Test
 
 - Install a speaker on the motherboard's speaker header if a speaker is not already present.
+![Electric Screwdriver](/images/motherboard_speaker.jpg)
 
 - Pull the RAM from the system and the motherboard should generate a BIOS beep code error for missing RAM (it will do the same for a bad CPU, GPU, etc.)
 
@@ -12,7 +13,8 @@
 
 ## Test a Motherboard Using a POST Code Diagnostic Card
 
-![POST Diagnostic Card](images/post-diagnostic-card.jpg)
+![Electric Screwdriver](/images/pci_card_tester.png)
+
 *Multi-Purpose Debug Card with LED display for POST codes*
 
 ### Step 1: Prepare the System
