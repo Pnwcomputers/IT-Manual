@@ -207,16 +207,6 @@ A centralized knowledge base for IT professionals providing:
 
 ---
 
-## 📋 Company Information
-
-### PNWC/GIF Computers Hosted Sites
-- [Technician Resource Website](http://pnwcomputers.info)
-- [AI Help Desk](http://pnwcomputers.xyz)
-- [Remote Support](http://helpmepnwc.com)
-- [Company Blog](https://pnwcomputers.blogspot.com)
-
----
-
 ## 🔧 Parts & Supplies
 
 ### Recommended Suppliers
@@ -225,12 +215,20 @@ A centralized knowledge base for IT professionals providing:
 - [iFixit Parts Store](https://www.ifixit.com/Store) - Multi-brand parts and tools
 - [The Dell Parts People](https://www.parts-people.com/) - Dell-specific components
 - [OWC Mac](https://www.owc.com/) - Apple & Mac components
+- [OWC Mac](https://www.owc.com/) - Apple & Mac components
 
 **Note**: All parts should have a 30-day free return policy
 
 ---
 
-## 📞 Support & Contact
+## 📋 Author & Company Information:
+
+### Pacific Northwest Computers & GIF Computers
+- [Linktr.ee](http://www.linktr.ee/pnwcomputers)
+- [Amazon Recommended Items (NON-AFFILIATE)](https://www.amazon.com/finds/post/list/amzn1.ideas.1Y1NSR6E8P9B4)
+
+
+## 📞 Contact
 
 For questions, issues, or contributions to this handbook, please contact Jon Pienkowski: www.linktr.ee/pnwcomputers
 
