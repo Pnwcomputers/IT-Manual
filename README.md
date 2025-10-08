@@ -92,7 +92,7 @@ Essential reading for new technicians:
 > — Mark Twain
 
 > "In technology, mastery is an illusion. There's only the pursuit of understanding. After 20 years, I'm still learning every day. I don't claim to know it all, only to give it my all."  
-> — Jon P.
+> — Jon Pienkowski
 
 > "There are no mistakes; only opportunities for improvement."
 
