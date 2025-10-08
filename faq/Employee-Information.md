@@ -21,19 +21,12 @@
 ### Non-Disclosure & Non-Compete Agreements
 
 #### Non-Disclosure Agreement (NDA)
-*To be completed*
+[Non-Disclosure Agreement](../business/NDA-filename.md)
 
 #### Non-Compete Agreement (NCA)
-*To be completed*
+[Non-Compete Agreement](../business/NCA-filename.md)
 
 ---
-
-## Hours, Availability & Pay
-
-*To be completed*
-
-### Social Security Primer
-*To be completed*
 
 ### Initial Probation Period
 *To be completed*
