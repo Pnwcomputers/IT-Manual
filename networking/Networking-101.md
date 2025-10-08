@@ -28,7 +28,7 @@
 6. Presentation - WMV, JPEG, MOV, (media files)
 7. Application - HTTP, SMTP, SSH, etc
 
-![OSI Model Layers](images/osi-model-layers.jpg)
+![OSI Model Layers](../images/osi-model-layers.png)
 *OSI Model 7 Layers diagram*
 
 ## ▼ Common Networking, Ports & Protocols, Etc.
@@ -120,7 +120,7 @@ Your router acts as a middleman, replacing private IP addresses with its public 
 | 5 | FIN | This packet is used to cleanly (properly) close the connection after it has been complete. |
 | # | RST | This packet abruptly ends all communication. This is the last resort and indicates there was some problem during the process. For example, if the service or application is not working correctly, or the system has faults such as low resources. |
 
-![TCP 3-Way Handshake](images/tcp-handshake.jpg)
+![TCP 3-Way Handshake](../images/tcp-handshake.png)
 *TCP 3-way handshake between Alice and Bob*
 
 1. SYN - Client: Here's my Initial Sequence Number(ISN) to SYNchronise with (0)
@@ -140,7 +140,7 @@ Your router acts as a middleman, replacing private IP addresses with its public 
 | Destination Port | This value is the port number that an application or service is running on the remote host (the one receiving the data); for example, a webserver running on port 80. Unlike the source port, this value is not chosen at random. |
 | Data | This header is where data, i.e. bytes of a file that is being transmitted, is stored. |
 
-![UDP Communication](images/udp-communication.jpg)
+![UDP Communication](../images/udp-communication.png)
 *UDP request/response between Alice and Bob*
 
 ### Ports
@@ -198,7 +198,7 @@ It also provides other network details like the **subnet mask, gateway,** and **
 
 5. An authoritative DNS server is the server that is responsible for storing the DNS records for a particular domain name and where any updates to your domain name DNS records would be made. Depending on the record type, the DNS record is then sent back to the Recursive DNS Server, where a local copy will be cached for future requests and then relayed back to the original client that made the request. DNS records all come with a TTL (Time To Live) value. This value is a number represented in seconds that the response should be saved for locally until you have to look it up again. Caching saves on having to make a DNS request every time you communicate with a server.
 
-![DNS Request Flow](images/dns-request-flow.jpg)
+![DNS Request Flow](../images/dns-request-flow.jpg)
 *DNS request process from client through recursive, root, and authoritative servers*
 
 ### ▼ DNS Records
@@ -440,7 +440,7 @@ Input sanitization is very important in keeping a website secure, as information
 
 When a user has control of how their input is displayed, they can submit HTML (or JavaScript) code, and the browser will use it on the page, allowing the user to control the page's appearance and functionality.
 
-![HTML Injection Example](images/html-injection-example.jpg)
+![HTML Injection Example](../images/html-injection-example.jpg)
 *Example of HTML injection through a form input*
 
 The general rule is never to trust user input. To prevent malicious input, the website developer should sanitize everything the user enters before using it in the JavaScript function; in this case, the developer could remove any HTML tags.
@@ -453,7 +453,7 @@ When a website's traffic starts getting quite large or is running an application
 
 When you request a website with a load balancer, the load balancer will receive your request first and then forward it to one of the multiple servers behind it. The load balancer uses different algorithms to help it decide which server is best to deal with the request. A couple of examples of these algorithms are **round-robin**, which sends it to each server in turn, or **weighted**, which checks how many requests a server is currently dealing with and sends it to the least busy server.
 
-![Load Balancer Diagram](images/load-balancer.jpg)
+![Load Balancer Diagram](../images/load-balancer.jpg)
 *Load balancer distributing traffic across multiple servers*
 
 Load balancers also perform periodic checks with each server to ensure they are running correctly; this is called a **health check**. If a server doesn't respond appropriately or doesn't respond, the load balancer will stop sending traffic until it responds appropriately again.
@@ -470,7 +470,7 @@ Often websites will need a way of storing information for their users. Webserver
 
 A WAF sits between your web request and the web server; its primary purpose is to protect the webserver from hacking or denial of service attacks. It analyses the web requests for common attack techniques, whether the request is from a real browser rather than a bot. It also checks if an excessive amount of web requests are being sent by utilising something called rate limiting, which will only allow a certain amount of requests from an IP per second. If a request is deemed a potential attack, it will be dropped and never sent to the webserver.
 
-![WAF Diagram](images/waf-diagram.jpg)
+![WAF Diagram](../images/waf-diagram.png)
 *Web Application Firewall protecting a web server*
 
 ## ▼ HTTP - HyperText Transfer Protocol
@@ -520,7 +520,7 @@ These status codes can be broken down into 5 different ranges:
 
 A Uniform Resource Locator (URL) is predominantly an instruction on how to access a resource on the internet.
 
-![URL Structure](images/url-structure.jpg)
+![URL Structure](../images/url-structure.jpg)
 *URL structure showing scheme, user, host, port, path, query string, and fragment*
 
 - **Scheme:** This instructs on what protocol to use for accessing the resource such as HTTP, HTTPS, FTP (File Transfer Protocol).
@@ -535,7 +535,7 @@ A Uniform Resource Locator (URL) is predominantly an instruction on how to acces
 
 It's possible to make a request to a web server with just one line **"GET / HTTP/1.1"**
 
-![HTTP Request Method](images/http-request-method.jpg)
+![HTTP Request Method](../images/http-request-method.jpg)
 *Diagram showing HTTP request components*
 
 #### ▼ Example Request:
@@ -609,7 +609,7 @@ These are the headers that are returned to the client from the server after a re
 
 Cookies are saved when you receive a "Set-Cookie" header from a web server. Then every further request you make, you'll send the cookie data back to the web server. Because HTTP is stateless (doesn't keep track of your previous requests), cookies can be used to remind the web server who you are, some personal settings for the website or whether you've been to the website before.
 
-![Cookie Example](images/cookie-example.jpg)
+![Cookie Example](../images/cookie-example.jpg)
 *Example showing how cookies are set and used across multiple requests*
 
 ## ▼ Websites

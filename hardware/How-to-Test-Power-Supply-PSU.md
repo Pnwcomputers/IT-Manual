@@ -26,7 +26,7 @@ You will need a paper clip or a PSU jumper to perform this test.
 
    **Note:** Many Corsair PSUs have a zero-RPM feature that results in the fan only spinning for a moment after the PSU is powered on. This still indicates that the PSU is functioning normally.
 
-![24-Pin Connector with Paperclip](images/24-pin-paperclip.jpg)
+![24-Pin Connector with Paperclip](../images/bad_psu.png)
 *24-pin connector showing pin locations for testing*
 
 ## Test a PSU with a Multimeter
@@ -80,7 +80,7 @@ To test your PSU with a multimeter, use the following chart and continue from th
 
 Another way to test your PSU is to use a power supply tester, like the one pictured (others can be used, this is just the most common). To use one, follow the steps below:
 
-![Power Supply Tester](images/psu-tester.jpg)
+![Power Supply Tester](../images/psu_tester.jpg)
 *Power supply tester with LCD display*
 
 1. Shut off the computer and make sure the PSU is turned off.
