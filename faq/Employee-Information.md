@@ -150,7 +150,6 @@ The company utilizes specific digital and voice channels to maintain clear bound
 
 See: [Tools Usage](../tools/Tools-Usage.md)
 
-
 ---
 
 ## [Code of Conduct](/business/Tools-Usage.md)
@@ -163,35 +162,42 @@ See: [Tools Usage](../tools/Tools-Usage.md)
 
 ---
 
-## Client Confidentiality Policies
-
-See: [Client Confidentiality Policies](../policies/Client-Confidentiality-Policies.md)
-
+## [Client Confidentiality Policies](../policies/Client-Confidentiality-Policies.md)
 
 ---
 
-## Technician Liability
-
-*To be completed*
+## [Technician Liability & Scope of Service](/business/Service_Scope.md)
 
 ---
 
-## Scope of Service
+# Terms of Termination
 
-*To be completed*
-
----
-
-## Terms of Termination
-
-*To be completed*
+Terms of termination outline the conditions under which a technician's employment can be ended, providing clarity and fairness for both the employee and the company.
 
 ---
 
-## Dispute Resolution
+## Conditions of Termination
 
-*To be completed*
+1.  [cite_start]**Termination Without Cause:** Pacific Northwest Computers/GIF Computers reserves the right to terminate the technician's employment or contract without specifying a reason[cite: 1]. [cite_start]This will typically include advance notice or severance pay as required by employment laws or contract terms[cite: 1].
+2.  [cite_start]**Termination for Cause:** The technician may be terminated immediately for specific reasons, such as gross misconduct, violation of company policies, failure to perform duties satisfactorily, or ethical breaches[cite: 1].
+3.  [cite_start]**Notice Period:** Technicians are asked to give at least a **two-week notice** when leaving their position[cite: 1].
+4.  [cite_start]**Severance Pay or Benefits:** None will be provided[cite: 1].
+
+## Post-Termination Obligations
+
+1.  **Return of Company Property:** Technicians will have **48 hours** to return ALL equipment, tools, uniforms, or confidential information upon termination.
+2.  **Final Compensation:** Any compensation due to an employee for work completed will be paid within **48 hours** upon termination.
+3.  **Non-Compete and Non-Disclosure Obligations:** Employees agree to and will abide by any non-compete/non-disclosure agreements/contracts they may have signed while employed at Pacific Northwest Computers/GIF Computers.
+4.  **References and Future Employment:** We will gratefully and happily provide references and recommendations for previous employees who have abided by and adhered to these terms, conditions, and policies.
+
+## Governing Law
+
+* The company and its employees agree to and will abide by all governing termination laws for **Local State, County, and the City of the company**
 
 ---
 
-**Note**: This document is a work in progress. Sections marked "To be completed" will be expanded with detailed information.
+## [Dispute Resolution](/business/Disputes.md)
+
+---
+
+**Note**: This document is a continual work in progress.
