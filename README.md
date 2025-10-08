@@ -41,6 +41,7 @@ A centralized knowledge base for IT professionals providing:
 - [Mac/Apple - System Log Diagnostics](./diagnostics/Mac-Apple-System-Log-Diagnostics.md)
 - [Hardware Testing Programs](./diagnostics/Hardware-Testing-Programs.md)
 - [Software Download & Reinstall](./diagnostics/Software-Download-Reinstall.md)
+- **Blog:** [Complete Diagnostic Tools Guide](https://pnwcomputers.blogspot.com/search/label/diagnostics)
 
 ### 🔧 Hardware
 - [BIOS Access Guide](./hardware/BIOS_Access.md)
@@ -59,6 +60,8 @@ A centralized knowledge base for IT professionals providing:
 - [Network Migration (Old → New)](./networking/Network-Migration-Old-to-New.md)
 - [Network Location Settings](./networking/Network_Location.md)
 - [Local WiFi Network Info & Logins](./networking/Local-Wifi-Network-Info-Logins.md)
+- **Blog:** [Windows File & Print Sharing Troubleshooting](https://pnwcomputers.blogspot.com/search/label/file%20sharing)
+- **Blog:** [Wireless IoT Devices Troubleshooting](https://pnwcomputers.blogspot.com/search/label/wireless)
 
 ### 🖥️ Windows
 - [Windows 10/11 Failing To Boot](./windows/Windows-10-11-Failing-To-Boot.md)
@@ -68,6 +71,8 @@ A centralized knowledge base for IT professionals providing:
 - [Editing Windows Host File](./windows/Editing-Windows-Host-File.md)
 - [Setting Network Location (Private/Public)](./windows/Setting-Network-Location-Private-Public-Windows-10-11.md)
 - [Diagnostic Websites & Assistance](./windows/Websites-Diagnostics-Assistance.md)
+- **Blog:** [Windows 10 ESU Program: Free & Paid Options](https://pnwcomputers.blogspot.com/)
+- **Blog:** [Windows 10 & 11: Security Policies Block Unauthenticated](https://pnwcomputers.blogspot.com/search/label/windows)
 
 ### 🍎 Mac/Apple
 - [Apple ID Login Troubleshooting](./mac/Apple-ID-Login-Troubleshooting.md)
@@ -79,6 +84,7 @@ A centralized knowledge base for IT professionals providing:
 - [Data Backup/Restore (Mac)](./mac/Data-Backup-Restore-Mac.md)
 - [New Printer Setup (Mac)](./mac/New-Printer-Setup-Mac.md)
 - [Printer Troubleshooting (OSX)](./mac/Printer-Troubleshooting-OSX.md)
+- **Blog:** [How to Clean Up a Slow Mac](https://pnwcomputers.blogspot.com/search/label/clean%20my%20pc)
 
 ### 🖨️ Printers
 - [Printer/New Printer Setup (PC & Mac)](./printers/Printer-New-Printer-Setup-PC-Mac.md)
@@ -87,12 +93,15 @@ A centralized knowledge base for IT professionals providing:
 - [Printer Troubleshooting (OSX)](./printers/Printer-Troubleshooting-OSX.md)
 - [Printer/Scanner Support Sites](./printers/Printer-Scanner-Support-Sites.md)
 - [Static IP & Hostname Setup](./printers/Static-IP-Hostname-Setup.md)
+- **Blog:** [Printer Driver Downloads & Support Sites](https://pnwcomputers.blogspot.com/search/label/Brother%20printer%20support)
 
 ### 💻 Software
 - [Software We Install & Use](./software/Software-We-Install-Use.md)
 - [Software to Remove if Found](./software/Software-to-Remove-if-Found.md)
 - [Microsoft Outlook Troubleshooting](./software/Microsoft-Outlook-Troubleshooting.md)
 - [Find MS Office Product/License Key](./software/Find-MS-Office-Product-License-Key.md)
+- **Blog:** [Recommended PC Apps, Programs & Utilities](https://pnwcomputers.blogspot.com/)
+- **Blog:** [OneDrive for Business Troubleshooting](https://pnwcomputers.blogspot.com/search/label/file%20sharing)
 
 ### 🔐 Security
 - [Check for Malware and Adware](./security/Check-for-Malware-and-Adware.md)
@@ -100,6 +109,14 @@ A centralized knowledge base for IT professionals providing:
 - [Clean-up Temp & Junk Data](./security/Clean-up-Temp-Junk-Data.md)
 - [Eliminate Start-up Programs](./security/Eliminate-Start-up-Programs.md)
 - [Online Backup Services/Ransomware Protection](./security/Online-Backup-Services-Ransomware-Protection.md)
+- **Blog:** [Windows PC Clean-up and Tune-up Guide - 2025 Update](https://pnwcomputers.blogspot.com/2024/07/how-to-do-tune-upclean-up-with-virus.html)
+- **Blog:** [Browser Redirect Virus Fix](https://pnwcomputers.blogspot.com/2013/10/browser-redirect-virus-fix-search.html)
+- **Blog:** [How Am I Getting Infected?](https://pnwcomputers.blogspot.com/2024/07/how-am-i-getting-infected.html)
+- **Blog:** [WannaCry Ransomware Protection](https://pnwcomputers.blogspot.com/2017/05/wannacry-ransomware-virus.html)
+- **Blog:** [Ransomware Protection & 3-2-1 Backup Rule](https://pnwcomputers.blogspot.com/search/label/ransomware)
+- **Blog:** [Fake Tech Support Scam: What You Should Do](https://pnwcomputers.blogspot.com/2024/07/fake-tech-support-scam-what-you-should.html)
+- **Blog:** [I Think Someone Is Accessing My Accounts/Devices](https://pnwcomputers.blogspot.com/2024/07/i-think-someone-is-accessing-my.html)
+- **Blog:** [Supply Chain Attacks & Security](https://pnwcomputers.blogspot.com/search/label/security)
 
 ### 🔑 Accounts & Login
 - [General Accounts & Login Issues](./accounts/General-Accounts-Login-Issues.md)
@@ -115,12 +132,16 @@ A centralized knowledge base for IT professionals providing:
 - [Data Backup/Restore (PC)](./setup-migration/Data-Backup-Restore-PC.md)
 - [Email Address Change To-Do List](./setup-migration/Email-Address-Change-To-Do-List.md)
 - [POP to IMAP Email Migration](./setup-migration/POP-to-IMAP-Email-Migration.md)
+- **Blog:** [New Computer Software To Have & Use](https://pnwcomputers.blogspot.com/search/label/new)
 
 ### 🛠️ Tools & Resources
 - [Tools Usage Guide](./tools/Tools-Usage.md)
 - [General Tools](./tools/General_Tools.md)
 - [Bootable USB Creation](./tools/Bootable-USB.md)
 - [Diagnostic Websites & Assistance](./tools/Websites-Diagnostics-Assistance.md)
+- **Blog:** [Snappy Driver Installer Origin (SDIO)](https://pnwcomputers.blogspot.com/search/label/portable-tools)
+- **Blog:** [Hardware Testing & Diagnostic Tools](https://pnwcomputers.blogspot.com/search/label/Cinebench)
+- **Blog:** [PNW Computers' Links & Recommended Software](https://pnwcomputers.blogspot.com/)
 
 ### 📝 Templates & Forms
 - [Communication Guidelines](./templates/Communication.md)
@@ -140,6 +161,7 @@ A centralized knowledge base for IT professionals providing:
 - [Disputes](./business/Disputes.md)
 - [NDA (Non-Disclosure Agreement)](./business/NDA.md)
 - [NCA (Non-Compete Agreement)](./business/NCA.md)
+- **Blog:** [Social Media Marketing for Small Business](https://pnwcomputers.blogspot.com/)
 
 ### 📋 Policies & Disclaimers
 - [Client Confidentiality Policies](./policies/Client-Confidentiality-Policies.md)
@@ -147,6 +169,7 @@ A centralized knowledge base for IT professionals providing:
 - [General Disclaimers](./policies/Disclaimers.md)
 - [3rd Party Software Support Disclaimer](./policies/3rd-Party-Software-Support-Disclaimer.md)
 - [Tardiness Policy](./policies/Tardiness.md)
+- **Blog:** [Preventative Maintenance Isn't Optional](https://pnwcomputers.blogspot.com/search/label/maintenance)
 
 ---
 
@@ -190,6 +213,7 @@ A centralized knowledge base for IT professionals providing:
 - [Technician Resource Website](http://pnwcomputers.info)
 - [AI Help Desk](http://pnwcomputers.xyz)
 - [Remote Support](http://helpmepnwc.com)
+- [Company Blog](https://pnwcomputers.blogspot.com)
 
 ---
 
@@ -222,4 +246,4 @@ This handbook is proprietary and confidential. Unauthorized distribution, modifi
 
 **Last Updated**: October 2025
 
-**Total Resources**: 106 documents across 17 categories
+**Total Resources**: 106 documents across 17 categories + 20+ blog articles
