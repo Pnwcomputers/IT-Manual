@@ -40,6 +40,8 @@ We typically use the **"Five Dots"** or **"Buttered Toast"** application methods
 
 For smaller chips/chipsets, the **"Pea-Size"** application method works just fine.
 
+![Ways To Apply Thermal Paste](/images/thermal_compund.jpg)
+
 ---
 
 ## 🔌 Pockethernet / Ethernet Testers
