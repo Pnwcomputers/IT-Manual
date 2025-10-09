@@ -6,13 +6,13 @@ This guide details the internal and external communication platforms and contact
 
 ## Internal Messaging
 
-* We use **Google Chat** and **Signal** for internal messaging and communication.
+* We recommend using **Google Chat** or **Signal** for internal messaging and communication.
 
 ---
 
 ## Employee Work Phones (Google Voice)
 
-**Google Voice** is used for employees to create and use as a work phone number.
+**Google Voice** is recommend to be used for employees to create and use as a work phone number.
 
 * **Policy:** Employees will **NEVER** give out their personal phone numbers to customers/clients.
 * **Availability:** The Google Voice mobile app allows for **“Do Not Disturb”** mode to enable/disable when you are and are not working.
@@ -21,7 +21,9 @@ This guide details the internal and external communication platforms and contact
 
 ## Email
 
-* All email is hosted by **Google Workspace/Gmail** - `www.gmail.com`
+* We recommend work email to be hosted by: 
+- **Google Workspace/Gmail** - 'https://workspace.google.com/'
+- **Microsoft Office 365** - `https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-online'
 
 ---
 
@@ -29,8 +31,8 @@ This guide details the internal and external communication platforms and contact
 
 | Number | Use Case | Notes |
 | :--- | :--- | :--- |
-| **Office/Reception: 360-624-7379** | **External:** The number you will give out to customers/clients if asked. | This is the primary customer contact number. |
-| **Jon’s Direct Cell: 503-583-2380** | **Internal:** The number you will call/text if: | (Call & SMS) |
+| **Office/Reception:** | **External:** The number you will give out to customers/clients if asked. | This is the primary customer contact number. |
+| **Manager Direct Cell: 503-583-2380** | **Internal:** The number you will call/text if: | (Call & SMS) |
 | | - You are calling in sick | |
 | | - You are running late | |
 | | - You have a question, or you need help during a job | |
