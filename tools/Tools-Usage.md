@@ -332,9 +332,9 @@ The device uses a simple screen and indicator lights for instant feedback, with 
 
 ### PocketEthernet
 
-* **Manual:** `https://pockethernet.com/manual-pockethernet-1/`
+* **Manual:** https://pockethernet.com/manual-pockethernet-1/
 
 ### Netool.io Lite
 
-* **Manual:** `https://docs.netool.io/en/lite/manual'
+* **Manual:** https://docs.netool.io/en/lite/manual
 
