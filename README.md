@@ -166,6 +166,7 @@ A centralized knowledge base for IT professionals providing:
 - [Disputes](./business/Disputes.md)
 - [NDA (Non-Disclosure Agreement)](./business/NDA.md)
 - [NCA (Non-Compete Agreement)](./business/NCA.md)
+- ["IT Disaster Plan Template](https://github.com/Pnwcomputers/Technical-Support-DR-Template)
 - **Blog:** [Social Media Marketing for Small Business](https://pnwcomputers.blogspot.com/)
 
 ### 📋 Policies & Disclaimers
