@@ -99,7 +99,7 @@ This document outlines a comprehensive, step-by-step procedure for diagnosing la
     * Set Multimeter to **DC voltage mode**.
     * Plug the adapter in (not into the laptop).
     * Measure voltage: **Red probe** on the inside (center pin), **Black probe** on the outer part.
-    * **Result:** Compare the reading to the voltage output listed on the adapter label (e.g., $19.5\text{V}$). A significantly lower or fluctuating voltage indicates a faulty adapter.
+    * **Result:** Compare the reading to the voltage output listed on the adapter label (e.g., 19.5V). A significantly lower or fluctuating voltage indicates a faulty adapter.
 
 ### Testing the DC Jack
 1.  **Physical Check:** Inspect the DC jack for damage/debris.
@@ -161,7 +161,7 @@ This document outlines a comprehensive, step-by-step procedure for diagnosing la
 * **Diagnosis:**
     1.  **Test External Monitor:** If external display works, the internal screen/cable is the issue. If external display fails, the **GPU is likely the problem**.
     2.  **Drivers:** Update or roll back graphics drivers via Windows Update or the manufacturer's website (NVIDIA, AMD, Intel).
-    3.  **Stress Testing:** Use **FurMark** or **Unigine Heaven** to check for artifacts and monitor temperatures (limit: $85-90^\circ\text{C}$).
+    3.  **Stress Testing:** Use **FurMark** or **Unigine Heaven** to check for artifacts and monitor temperatures (limit: 85-90C).
     4.  **Event Viewer Logs:** Look for critical errors related to "Display" or specific driver files.
 
 ---
@@ -181,7 +181,7 @@ This document outlines a comprehensive, step-by-step procedure for diagnosing la
 * **Note:** Liquid capacitors can leak their fluid from their base onto the PCB even without bulging.
 
 ## Failed Switches (aka Mosfets)
-* **Diagnosis:** Check power going **into** the Mosfet and coming **out**. If $19\text{V}$ comes in but $0\text{V}$ comes out, and it's not a connection issue, the **Mosfet is likely bad**.
+* **Diagnosis:** Check power going **into** the Mosfet and coming **out**. If 19V comes in but 0V comes out, and it's not a connection issue, the **Mosfet is likely bad**.
 * Check the drain of Mosfets for a **short**.
 
 ## Short Circuits
@@ -202,14 +202,14 @@ This document outlines a comprehensive, step-by-step procedure for diagnosing la
 
 | Voltage Rail | Typical Range | Components Powered |
 | :--- | :--- | :--- |
-| **Main Input (Adapter)** | $19\text{V}$ (or $18-20\text{V}$) | Battery Charging, Input to Step-Down Regulators. |
-| **CPU Power ($\text{V}\_\text{Core}$)** | $\sim 1.0\text{V} - 1.3\text{V}$ | CPU core (Regulated by VRM). |
-| **RAM Power ($\text{V}\_\text{DDR}$)** | $1.1\text{V}, 1.2\text{V}, 1.35\text{V}, 1.5\text{V}$ | RAM modules. |
-| **PCH/Chipset Power** | $\sim 1.05\text{V}$ | Platform Controller Hub. |
-| **System Management** | $3.3\text{V}$ and $5\text{V}$ | Control circuits, logic components, USB ports, sensors. |
-| **BIOS/CMOS Battery (RTC)** | $3.0\text{V}$ | BIOS settings, Real-Time Clock. |
-| **Display Backlight** | $12\text{V}$ or $19\text{V}$ | LED Backlight. |
+| **Main Input (Adapter)** | 19V (or 18-20V) | Battery Charging, Input to Step-Down Regulators. |
+| **CPU Power** | 1.0V - 1.3V | CPU core (Regulated by VRM). |
+| **RAMPowerr** | 1.1V, 1.2V, 1.35V, 1.5V | RAM modules. |
+| **PCH/Chipset Power** | 1.05V | Platform Controller Hub. |
+| **System Management** | 3.3V and 5V | Control circuits, logic components, USB ports, sensors. |
+| **BIOS/CMOS Battery (RTC)** | 3.0V | BIOS settings, Real-Time Clock. |
+| **Display Backlight** | 12V or 19V | LED Backlight. |
 
-**Voltage Regulation Components:** **MOSFETs** and **Step-Down Voltage Regulators** are key to converting the $19\text{V}$ input to all the required lower voltages.
+**Voltage Regulation Components:** **MOSFETs** and **Step-Down Voltage Regulators** are key to converting the 19V input to all the required lower voltages.
 
 **Diagnosis and Testing:** Use a multimeter to check voltage rails at designated test points. Refer to the laptop’s schematic (if available) for exact locations and expected voltages.
