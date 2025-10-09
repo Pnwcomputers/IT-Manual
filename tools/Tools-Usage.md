@@ -44,7 +44,7 @@ For smaller chips/chipsets, the **"Pea-Size"** application method works just fin
 
 ---
 
-## 🔌 Pockethernet / Ethernet Testers
+# 🔌 Pockethernet / Ethernet Testers
 ![Pocket Ethernet Network Tester](/images/mp_pockethernet.jpg)
 
 ### Pockethernet: Wiremap Test
@@ -74,10 +74,6 @@ The status summary line tells you the type of cable connected or the fault.
 * **Short Circuits:** Shown with a **red vertical connection**.
 * **Opens:** Shown in the middle as a **break in the line**.
 * The pair numberings and colors are based on the **TIA colour scheme** selected in the tools $\Rightarrow$ settings menu.
-
-
-
-
 
 ---
 
@@ -249,18 +245,95 @@ Allows basic network status testing **without the app**.
 
 ---
 
+# 🔌 netool.io Lite / Network Testers
+
+### netool.io Lite: Link Layer Information (LLDP/CDP/Vendor)
+
+The netool.io Lite automatically gathers link-layer information from the connected switch or router.
+
+**Purpose:** Identifies the connected port, device, and other diagnostic data.
+
+* **CDP (Cisco Discovery Protocol) / LLDP (Link Layer Discovery Protocol):** Displays detailed information fields (TLVs) broadcast by the switch, which can include:
+    * **Port ID**
+    * **System Name** (Device Hostname)
+    * **Management IP Address**
+    * **VLAN Information**
+    * **Model/Capabilities**
+* **Vendor Discovery:** In the absence of CDP/LLDP, netool.io Lite can often determine the manufacturer and model of the connected switch or access point (AP) based on its MAC address or unique characteristics.
+
+---
+
+### netool.io Lite: IP Information (DHCP, Static, & Ping)
+
+This feature tests the network's IP configuration and connectivity.
+
+* **DHCPv4/v6:**
+    * Automatically attempts to receive an **IPv4** configuration via **DHCP**.
+    * Displays the assigned **IP Address**, **Subnet Mask**, **Default Gateway**, and **DNS Server(s)**.
+    * Can also test for **IPv6 SLAAC** (Stateless Address Autoconfiguration) or **DHCPv6** availability.
+* **Static IP:** Allows setting a **static IPv4 address** for use in subsequent connectivity tests if DHCP fails or isn't desired.
+* **Ping Test:** Performs a connectivity test to specified targets to check reachability and measure latency.
+    * Default targets usually include the **Default Gateway** and **DNS Server**.
+
+---
+
+### netool.io Lite: Power over Ethernet (PoE) Test
+
+This test verifies the presence and type of PoE supply on the connected cable.
+
+* **PoE Detection:** Automatically detects standard and proprietary PoE supplies.
+    * Identifies standard types like **802.3af (PoE)**, **802.3at (PoE+)**, and potentially newer standards like **802.3bt (PoE++)**.
+    * Detects **Passive PoE** ("always-on").
+* **Measurements:** Measures the applied **voltage** and determines the **PoE mode** (Mode A/Endspan, Mode B/Midspan, or 4-Pair).
+* **Maximum Power Class:** Determines the **maximum power class** the Power Sourcing Equipment (PSE) is advertising.
+
+---
+
+### netool.io Lite: VLAN Test
+
+This feature helps identify VLAN tagging on the port and allows the user to test connectivity within specific VLANs.
+
+* **VLAN Identification:** Displays the **VLAN ID(s)** received in tagged packets or reported by CDP/LLDP.
+* **Outgoing VLAN Tagging:** Allows the user to manually set an **outgoing VLAN tag** (e.g., VLAN 10) for all outgoing traffic (DHCP, Ping, etc.) to test if a specific VLAN is correctly configured and working.
+
+---
+
+### netool.io Lite: Switch Port Information
+
+Identifies the physical characteristics and speed of the connected switch port.
+
+* **Link Speed & Duplex:** Confirms the established **link speed** (e.g., 10/100/1000 Mbps) and **duplex setting** (Half or Full).
+* **Advertised Speeds:** Lists the speeds the connected switch port is advertising its capability to support.
+
+---
+
+### netool.io Lite: Wi-Fi Hotspot & Cloud Features
+
+Unlike many traditional handheld testers, the netool.io Lite operates primarily through an app and provides remote and cloud functionality.
+
+* **Internal Wi-Fi Hotspot:** The netool.io Lite creates its own **Wi-Fi hotspot** to allow the user's mobile device (phone/tablet) to connect and run the app-based tests.
+* **Cloud Functionality (netool.cloud):**
+    * **Save/Share Results:** Test results can be saved to the cloud for later review, documentation, and sharing with colleagues.
+    * **Remote Access:** Allows for **remote connection** to a netool.io Lite that is already connected to the network and configured, enabling troubleshooting from a different location.
+
+---
+
+### netool.io Lite: Display & Operation
+
+The device uses a simple screen and indicator lights for instant feedback, with detailed results delivered via the companion app.
+
+* **On-Device Display:** A small, integrated screen provides **instant information** such as Link Status, PoE presence, and IP address.
+* **App Integration:** All detailed test results, including CDP/LLDP information, full DHCP details, and advanced settings, are displayed within the **netool.io app** on the connected smartphone or tablet.
+
+---
+
 ## 🧰 Reference Manuals
 
-### Klein VDV Scout Pro 3
+### PocketEthernet
 
-* **Manual:** `https://data.kleintools.com/sites/all/product_assets/documents/instructions/klein/VDV501-851_Manual.pdf`
+* **Manual:** `https://pockethernet.com/manual-pockethernet-1/`
 
-### ESR Meters
+### Netool.io Lite
 
-#### MESR-100
+* **Manual:** `https://docs.netool.io/en/lite/manual'
 
-* **Manual:** `https://www.gotronik.pl/images/mesr100-maual.pdf`
-
-#### VC480C+
-
-* **Datasheet:** `https://aidetek.com/VC480C_datasheet.pdf`
