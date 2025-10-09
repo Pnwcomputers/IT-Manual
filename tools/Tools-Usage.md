@@ -44,7 +44,7 @@ For smaller chips/chipsets, the **"Pea-Size"** application method works just fin
 
 ---
 
-# 🔌 Pockethernet / Ethernet Testers
+# 🔌 Pockethernet Ethernet & Network Tester
 ![Pocket Ethernet Network Tester](/images/mp_pockethernet.jpg)
 
 ### Pockethernet: Wiremap Test
@@ -245,7 +245,8 @@ Allows basic network status testing **without the app**.
 
 ---
 
-# 🔌 netool.io Lite / Network Testers
+# 🔌 netool.io Lite Network Tester
+![Netool.io Lite](/images/netoollite.png)
 
 ### netool.io Lite: Link Layer Information (LLDP/CDP/Vendor)
 
