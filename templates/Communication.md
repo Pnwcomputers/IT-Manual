@@ -32,7 +32,7 @@ This guide details the internal and external communication platforms and contact
 | Number | Use Case | Notes |
 | :--- | :--- | :--- |
 | **Office/Reception:** | **External:** The number you will give out to customers/clients if asked. | This is the primary customer contact number. |
-| **Manager Direct Cell: 503-583-2380** | **Internal:** The number you will call/text if: | (Call & SMS) |
+| **Manager Direct Cell:** | **Internal:** The number you will call/text if: | (Call & SMS) |
 | | - You are calling in sick | |
 | | - You are running late | |
 | | - You have a question, or you need help during a job | |
