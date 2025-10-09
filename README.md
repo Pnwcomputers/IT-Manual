@@ -44,6 +44,7 @@ A centralized knowledge base for IT professionals providing:
 - **Blog:** [USB Diagnostic Tools Guide](https://pnwcomputers.blogspot.com/search/label/diagnostics)
 
 ### 🔧 Hardware
+- ["SystemTester" Sysinternals Testing/Diagnotics Utility](https://github.com/Pnwcomputers/SystemTester)
 - [BIOS Access Guide](./hardware/BIOS_Access.md)
 - [Clone Hard Drive: Hardware & Software Methods](./hardware/Clone-Hard-Drive-Hardware-Software-Methods.md)
 - [HDD/SSD Health Checking](./hardware/HDD-SSD-Health-Checking.md)
@@ -127,6 +128,7 @@ A centralized knowledge base for IT professionals providing:
 - [Account Recovery Support & Limitations](./accounts/Account-Recovery-Support-Limitations.md)
 
 ### 🚚 Setup & Migration
+- ["DeployWorkstation" Debloat/System Setup/Basic App Install Utility](https://github.com/Pnwcomputers/DeployWorkstation)
 - [New PC Setup/Migration Checklist](./setup-migration/New-PC-Setup-Migration-Checklist.md)
 - [New Computer Set-up (Detailed)](./setup-migration/New-Computer-Set-up-Detailed.md)
 - [New PC Client To-Do List](./setup-migration/New-PC-Client-To-Do-List.md)
@@ -140,6 +142,8 @@ A centralized knowledge base for IT professionals providing:
 - [General Tools](./tools/General_Tools.md)
 - [Bootable USB Creation](./tools/Bootable-USB.md)
 - [Diagnostic Websites & Assistance](./tools/Websites-Diagnostics-Assistance.md)
+- ["DeployWorkstation" Debloat/System Setup/Basic App Install Utility](https://github.com/Pnwcomputers/DeployWorkstation)
+- ["SystemTester" Sysinternals Testing/Diagnotics Utility](https://github.com/Pnwcomputers/SystemTester)
 - **Blog:** [Snappy Driver Installer Origin (SDIO)](https://pnwcomputers.blogspot.com/search/label/portable-tools)
 - **Blog:** [Hardware Testing & Diagnostic Tools](https://pnwcomputers.blogspot.com/search/label/Cinebench)
 - **Blog:** [PNW Computers' Links & Recommended Software](https://pnwcomputers.blogspot.com/)
