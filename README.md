@@ -214,23 +214,23 @@ A centralized knowledge base for IT professionals providing:
 - [Amazon Recommended Items](https://www.amazon.com/finds/post/list/amzn1.ideas.1Y1NSR6E8P9B4) - *NOT AFFILIATE LINKS
 - [Laptopscreen.com](https://www.laptopscreen.com/English/) - Replacement laptop screens
 - [OWC Mac](https://www.owc.com/) - Apple & Mac components
-- [Apple Self Service Repair](https://support.apple.com/self-service-repair)
-- [The Dell Parts People](https://www.parts-people.com/) - Dell-specific components
-- [Dell Self-Repair Parts](https://www.dell.com/support/contents/en-us/article/warranty/self-repair)
-- [Samsung Self-Repair Program](https://www.samsung.com/us/support/self-repair/)
-- [Google Pixel Repair](https://repair.google.com/)
-- [Microsoft Surface Self Repair](https://support.microsoft.com/en-us/surface-recovery-image)
-- [Framework Laptop Marketplace](https://frame.work/marketplace)
-- [ASUS Self Replacement Solution](https://www.asus.com/us/support/faq/1051611/)
-- [ASUS Parts Shop](https://partshop.asus.com/us/)
-- [HP Parts Store](https://www.hp.com/us-en/parts-store)
-- [Lenovo Parts Lookup](https://support.lenovo.com/us/en/parts-lookup)
-- [Sony Self-Repair Services](https://sonyparts.com/pages/self-repair-services)
+- [Apple Self Service Repair](https://support.apple.com/self-service-repair) - Apple self-service repair program
+- [The Dell Parts People](https://www.parts-people.com/) - Dell-specific component reseller
+- [Dell Self-Repair Parts](https://www.dell.com/support/contents/en-us/article/warranty/self-repair) - Dell self-repair program
+- [Samsung Self-Repair Program](https://www.samsung.com/us/support/self-repair/) - Samsung self-repair program
+- [Google Pixel Repair](https://repair.google.com/) - Google Pixle replacment parts/self-repair
+- [Microsoft Surface Self Repair](https://support.microsoft.com/en-us/surface-recovery-image) - Microsoft Surface self-repair program
+- [Framework Laptop Marketplace](https://frame.work/marketplace) - Framework Laptop specific components
+- [ASUS Self Replacement Solution](https://www.asus.com/us/support/faq/1051611/) - Asus Self-Replacment site
+- [ASUS Parts Shop](https://partshop.asus.com/us/) - Asus-specific components
+- [HP Parts Store](https://www.hp.com/us-en/parts-store) - HP-specific components
+- [Lenovo Parts Lookup](https://support.lenovo.com/us/en/parts-lookup) - Lenovo-specific components
+- [Sony Self-Repair Services](https://sonyparts.com/pages/self-repair-services) - Sony-specific components
 - [iFixit Parts Store](https://www.ifixit.com/Store) - Multi-brand parts and tools
-- [Steam Deck Replacement Parts](https://www.ifixit.com/collaborations/steam-deck)
-- [Motorola Right to Repair (iFixit partnership)](https://en-us.support.motorola.com/app/right-to-repair)
-- [Fairphone Spare Parts](https://shop.fairphone.com/spare-parts)
+- [Steam Deck Replacement Parts](https://www.ifixit.com/collaborations/steam-deck) - Steam/iFixit Collaboration for parts/self-repair
+- [Motorola Right to Repair (iFixit partnership)](https://en-us.support.motorola.com/app/right-to-repair) - Motorola/iFixit Collaboration for parts/self-repair
 - [McMaster-Carr](https://www.mcmaster.com/) - DIY Engineering Components
+- [Mouser](https://www.mouser.com/) - Elecronic components; SMD & Through-hole components, Transistors, Capacitors, Diodes, Chipsets, Tools/Equipment, Supplies, etc.
 - [JLPCB](https://jlcpcb.com/) - PCB Manufacturing, 3D Printing, CNC & Laser Services, etc.
 
 
