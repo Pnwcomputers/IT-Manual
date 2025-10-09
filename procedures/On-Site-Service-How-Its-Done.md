@@ -139,10 +139,4 @@ Leave the site professionally and promptly, ensuring you've gathered all tools a
 
 ---
 
-## Questions or Issues?
-
-For any questions or issues, Jon is available at **503-583-2380**
-
----
-
 This structured approach ensures that field service visits are professional, thorough, and customer-focused.
