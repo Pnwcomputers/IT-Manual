@@ -55,15 +55,3 @@
 - [Data Backup/Restore (Mac)](../mac/Data-Backup-Restore-Mac.md)
 
 ---
-
-## Specialty Repairs
-
-### HDMI Port/Power Port Repair
-**Cost**: $150 + tax
-
-**Applicable to:**
-- Gaming Consoles
-- Portable Devices
-- **NOT** including phones or tablets
-
----
