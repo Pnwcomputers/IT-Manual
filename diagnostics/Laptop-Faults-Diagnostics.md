@@ -142,11 +142,11 @@ This document outlines a comprehensive, step-by-step procedure for diagnosing la
 ## RAM Failure
 * **Diagnosis:** Physically check and reseat the RAM module(s). Run testing software such as **MemTest86+** or stress testing software.
 * **Expected RAM Voltages:**
-    * DDR: $2.5\text{V}$
-    * DDR2: $1.8\text{V}$
-    * DDR3: $1.5\text{V}$
-    * DDR4: $1.2\text{V}$
-    * DDR5: $1.1\text{V}$
+    * DDR: 2.5V
+    * DDR2: 1.8V
+    * DDR3: 1.5V
+    * DDR4: 1.2V
+    * DDR5: 1.1V
 
 ## Hard Drive Issues / Failure (HDD or SSD)
 * **Common Signs:** Frequent crashes, slow performance, clicking/grinding noises (HDD), disappearing/corrupted files, boot errors.
