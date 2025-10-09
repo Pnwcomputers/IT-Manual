@@ -230,7 +230,7 @@ A centralized knowledge base for IT professionals providing:
 - [Steam Deck Replacement Parts](https://www.ifixit.com/collaborations/steam-deck) - Steam/iFixit Collaboration for parts/self-repair
 - [Motorola Right to Repair (iFixit partnership)](https://en-us.support.motorola.com/app/right-to-repair) - Motorola/iFixit Collaboration for parts/self-repair
 - [McMaster-Carr](https://www.mcmaster.com/) - DIY Engineering Components
-- [Mouser](https://www.mouser.com/) - Elecronic components; SMD & Through-hole components, Transistors, Capacitors, Diodes, Chipsets, Tools/Equipment, Supplies, etc.
+- [Mouser](https://www.mouser.com/) - Elecronic components; SMD & Through-hole components, Transistors, Capacitors, Diodes, Chips, Tools & Equipment, etc.
 - [JLPCB](https://jlcpcb.com/) - PCB Manufacturing, 3D Printing, CNC & Laser Services, etc.
 
 
