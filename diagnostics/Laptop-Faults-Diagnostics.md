@@ -130,7 +130,7 @@ This document outlines a comprehensive, step-by-step procedure for diagnosing la
     * **Caution:** Advanced users may manually short the power pins on the motherboard connector to test if the button mechanism is the fault.
 * **Multimeter Test:** Set to **Continuity mode**. Place probes on button terminals. If there is **no continuity when pressed**, the button is defective.
 
-## CMOS Battery ($\mathbf{3.3\text{V}}$)
+## CMOSBattery
 * **Issue:** Old or expired CMOS batteries can cause motherboard issues, including time/date resets and failure to save BIOS settings.
 * **Fix:** **Just replace if in doubt.**
 
