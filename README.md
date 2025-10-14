@@ -2,7 +2,7 @@
 
 > **Your Comprehensive Guide For IT Fieldwork**
 
-This handbook is designed to equip IT technicians with essential resources, troubleshooting tips, standard operating procedures, and best practices for efficient on-site service. Access guidelines for diagnostics, repair, and system optimization, along with quick-reference materials for hardware, software, and network troubleshooting.
+This handbook is designed to equip independent IT technicians with essential resources, troubleshooting tips, standard operating procedures, and best practices for efficient on-site service. Access guidelines for diagnostics, repair, and system optimization, along with quick-reference materials for hardware, software, and network troubleshooting.
 
 ---
 
