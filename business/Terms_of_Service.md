@@ -77,14 +77,14 @@ For companies and clients that decide to use our IT services, here are our Terms
 
 ### Data Backup Responsibility
 
-[cite_start]Pacific Northwest Computers is **not responsible for any data loss** during service[cite: 3]. [cite_start]**Clients are responsible** for creating a complete backup of all critical data prior to service, unless a specific data backup arrangement has been contracted in advance[cite: 3].
+[cite_start]We (the Company)  is **not responsible for any data loss** during service[cite: 3]. [cite_start]**Clients are responsible** for creating a complete backup of all critical data prior to service, unless a specific data backup arrangement has been contracted in advance[cite: 3].
 
 ### Limitations on Liability
 
-* [cite_start]Pacific Northwest Computers is not liable for delays or failures in service due to events beyond its control (**Force Majeure**)[cite: 3].
+* [cite_start]We (the Company)  is not liable for delays or failures in service due to events beyond its control (**Force Majeure**)[cite: 3].
 * [cite_start]We are not liable for: re-infection of viruses or malware following service [cite: 3][cite_start], damage from misuse, power surges, or water damage [cite: 3][cite_start], or any damage that does not directly result from the repair or work performed[cite: 3].
-* [cite_start]The **Limitation of Liability caps the liability** of Pacific Northwest Computers to the **total amount paid for services rendered**[cite: 3].
-* [cite_start]Clients agree to indemnify and hold harmless Pacific Northwest Computers from any claims or damages related to the **misuse** of the system(s) or software[cite: 3].
+* [cite_start]The **Limitation of Liability caps the liability** of We (the Company)  to the **total amount paid for services rendered**[cite: 3].
+* [cite_start]Clients agree to indemnify and hold harmless We (the Company)  from any claims or damages related to the **misuse** of the system(s) or software[cite: 3].
 * [cite_start]These terms are governed by the jurisdiction(s) of **Washington State, the City of Vancouver Washington, and/or Clark County Washington**[cite: 4].
 
 ---
@@ -105,7 +105,7 @@ For companies and clients that decide to use our IT services, here are our Terms
 When a system is brought in for service, we use technical, physical, and administrative security measures, including:
 
 * [cite_start]Firewalls; to help prevent outside unauthorized access[cite: 5].
-* [cite_start]Data Encryption; for any information transmitted between a client and Pacific Northwest Computers[cite: 5].
+* [cite_start]Data Encryption; for any information transmitted between a client and We (the Company) [cite: 5].
 * [cite_start]Physical access controls; for where computers will be stored and worked on when brought in-shop[cite: 5].
 
 ---
@@ -124,7 +124,7 @@ When a system is brought in for service, we use technical, physical, and adminis
 ## General Terms and Recommendations
 
 * [cite_start]**Scheduling Appointments:** We generally schedule non-emergency services **3-5 days in advance**[cite: 5]. [cite_start]Scheduling in advance is **HIGHLY recommended**[cite: 5].
-* [cite_start]**Licensing and Insurance:** Pacific Northwest Computers is **fully insured and licensed** to provide computer services in Washington State and in other states where applicable[cite: 4]. [cite_start]In some states, services may be subject to Washington State sales tax unless the client is tax-exempt[cite: 4].
-* [cite_start]**Non-Solicitation:** Clients should **not solicit** any of our technicians for direct employment or services outside of Pacific Northwest Computers[cite: 5].
+* [cite_start]**Licensing and Insurance:** We (the Company)  is **fully insured and licensed** to provide computer services in Washington State and in other states where applicable[cite: 4]. [cite_start]In some states, services may be subject to Washington State sales tax unless the client is tax-exempt[cite: 4].
+* [cite_start]**Non-Solicitation:** Clients should **not solicit** any of our technicians for direct employment or services outside of We (the Company) [cite: 5].
 
 [cite_start]**Final Acknowledgment:** The client is ultimately responsible for keeping any/all of their data & information safe and secure[cite: 6]. [cite_start]Clients who use our services acknowledge that they understand the services provided, the limitations, and their own responsibilities regarding data, service warranty/guarantee, scope of support, fee structures, response times, etc.[cite: 6].
