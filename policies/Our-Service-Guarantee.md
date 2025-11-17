@@ -1,6 +1,6 @@
 # 📝 Our Service Guarantee
 
-This guarantee applies to all repair and service work performed by PNW Computers.
+This guarantee applies to all repair and service work performed.
 
 ---
 
