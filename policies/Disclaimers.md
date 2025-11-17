@@ -1,12 +1,12 @@
 # 📝 Disclaimers
 
-These disclaimers outline the limits of liability for the service provider regarding general service work, client data, and remote support sessions.
+These disclaimers outline the limits of liability for general service work, client data, and remote support sessions.
 
 ---
 
 ## General Disclaimer
 
-The service provider cannot be responsible for **re-infections with viruses or malware**, or any **hardware or software failures that occurred after a repair**. Liability does not extend to damage resulting from **misuse, water damage, power surges, dropping damage, fire, flood, tornado, or other acts of God**.
+We the service provider cannot be responsible for **re-infections with viruses or malware**, or any **hardware or software failures that occurred after a repair**. Our liability does not extend to damage resulting from **misuse, water damage, power surges, dropping damage, fire, flood, tornado, or other acts of God**.
 
 The provider is not responsible for damage that does not directly result from the actual repair work performed.
 

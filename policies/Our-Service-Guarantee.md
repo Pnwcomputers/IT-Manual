@@ -1,6 +1,6 @@
 # 📝 Our Service Guarantee
 
-This guarantee applies to all repair and service work performed by the service provider.
+This guarantee applies to all repair and service work performed.
 
 ---
 

@@ -4,18 +4,18 @@
 
 ### Onsite or Remote Support Rates
 
-**Residential Clients**: $100/hour
+**Residential Clients**: $HourlyRate
 - 1 hour is usually enough time for most residential jobs!
 
-**Business Clients**: $120/hour (flat rate)
+**Business Clients**: $HourlyRate (flat rate)
 
 **Trip Fee**: For business or residential clients more than 15 miles from our office, we charge a trip fee calculated based on total distance and travel time.
 
 ### In-Shop Service Rates
 
-**Standard Rate**: $80/hour
+**Standard Rate**: $HourlyRate
 
-**Diagnostics**: $40-$80 if extensive testing is required to identify the issue
+**Diagnostics**: $Fee-$FeeMax if extensive testing is required to identify the issue
 - Diagnostics completed in under 15 minutes are **FREE**!
 
 **Important**: Please schedule all drop-offs ahead of time to ensure someone is available at the office to check in your system.
