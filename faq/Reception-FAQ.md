@@ -4,17 +4,17 @@
 
 ### Onsite/Remote Support Rates
 
-**Residential**: $HourlyRateHourlyRate with a 1-hour minimum charge
+**Residential**: $HourlyRate with a 1-hour minimum charge
 
-**Business**: $HourlyRateHourlyRate with a 1-hour minimum charge
+**Business**: $HourlyRate with a 1-hour minimum charge
 
 **Emergency Service** (if needed):
-- Residential: $HourlyRateHourlyRate
-- Business: $HourlyRateHourlyRate
+- Residential: $HourlyRate
+- Business: $HourlyRate
 
 ### In-shop Rates
 
-**Standard Rate**: $HourlyRateHourlyRate
+**Standard Rate**: $HourlyRate
 
 **Diagnostics Fee**: $HourlyRateFee-$HourlyRateFeeMax for customers who are not certain what's wrong with their computer and we need to diagnose/figure out the issue
 
@@ -72,7 +72,7 @@ We can also set up, clean up, and fix software issues with tablets and smartphon
 
 ### Process
 
-**Initial Drive Assessment**: $HourlyRateHourlyRateFee
+**Initial Drive Assessment**: $HourlyRateFee
 - Allows us to properly diagnose the hard drive's issues
 - We assess if we can access any data using different software and hardware methods
 
