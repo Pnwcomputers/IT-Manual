@@ -2,27 +2,27 @@
 
 ## General Disclaimer
 
-PNW Computers cannot be responsible for re-infections with viruses or malware, water or power damage, misuse, or any other damage not resulting in the actual repair work done by Pacific Northwest Computers. Pacific Northwest Computers will not be responsible for viruses, malware or other computer hardware or software failures that occurred after a repair. We cannot be responsible for other issues arising from misuse; kids shoving mac and cheese in the CD Drive, beating on it with a hammer, water damage, dropping damage, fire, flood, tornado, or other acts of God.
+We (the Company) cannot be responsible for re-infections with viruses or malware, water or power damage, misuse, or any other damage not resulting in the actual repair work done by we (the Company) . We (the Company)  will not be responsible for viruses, malware or other computer hardware or software failures that occurred after a repair. We cannot be responsible for other issues arising from misuse; kids shoving mac and cheese in the CD Drive, beating on it with a hammer, water damage, dropping damage, fire, flood, tornado, or other acts of God.
 
 ## Data Disclaimer
 
-Clients are **solely responsible** for any and all of their computer data and data backups. During service or repair, PNW Computers may complete a data backup or data transfer or data recovery service for our clients. **However**, no responsibility is accepted by Pacific Northwest Computers, or any of its subsidiaries, for any data loss or data damage arising from any backup, transfer or recovery work, and/or any other service(s) that we have completed on a client's system.
+Clients are **solely responsible** for any and all of their computer data and data backups. During service or repair, we (the Company) may complete a data backup or data transfer or data recovery service for our clients. **However**, no responsibility is accepted by we (the Company) , or any of its subsidiaries, for any data loss or data damage arising from any backup, transfer or recovery work, and/or any other service(s) that we have completed on a client's system.
 
 ## Remote Support Disclaimer
 
-By requesting and accepting a remote session from a Pacific NW Computers representative to remotely assist you with a technical-related issue, you accept responsibility for any changes made to the desktop content or system settings.
+By requesting and accepting a remote session from a we (the Company)  representative to remotely assist you with a technical-related issue, you accept responsibility for any changes made to the desktop content or system settings.
 
 ### Liability and Responsibility
 
-* Pacific NW Computers **does not assume and is not responsible** for any liability for the linking and viewing of any desktop content, the operation of the Pacific NW Computers installed software, or system performance.
-* Pacific NW Computers will **not be held responsible for any data loss** if any occurred during or after a remote session. If you require help in setting up a backup procedure for your data, please do not hesitate to contact us for further assistance.
-* Pacific NW Computers continuously undertakes to take the utmost care when in use of your computer. However, Pacific NW Computers **cannot guarantee that our service will resolve your problem** or that attempting to rectify your technical issue will not cause additional problems.
+* We (the Company) **do not assume and is not responsible** for any liability for the linking and viewing of any desktop content, the operation of the we (the Company)  installed software, or system performance.
+* We (the Company) will **not be held responsible for any data loss** if any occurred during or after a remote session. If you require help in setting up a backup procedure for your data, please do not hesitate to contact us for further assistance.
+* We (the Company) continuously undertakes to take the utmost care when in use of your computer. However, We (the Company) **cannot guarantee that our service will resolve your problem** or that attempting to rectify your technical issue will not cause additional problems.
 
 ### Client Recommendations
 
-* Pacific NW Computers recommends for your security and privacy that you **exit any applications you have open** that are displaying content such as personal or confidential information before allowing the operator to initiate a remote support session.
-* Pacific NW Computers further recommends that you **remain seated at your desktop** throughout the entire remote session.
-* Pacific NW Computers will **email instructions** before any session is established and agreed upon.
+* We (the Company) recommends for your security and privacy that you **exit any applications you have open** that are displaying content such as personal or confidential information before allowing the operator to initiate a remote support session.
+* We (the Company) further recommends that you **remain seated at your desktop** throughout the entire remote session.
+* We (the Company) will **email instructions** before any session is established and agreed upon.
 
 ---
 
