@@ -105,7 +105,7 @@ For companies and clients that decide to use our IT services, here are our Terms
 When a system is brought in for service, we use technical, physical, and administrative security measures, including:
 
 * [cite_start]Firewalls; to help prevent outside unauthorized access[cite: 5].
-* [cite_start]Data Encryption; for any information transmitted between a client and the service provider[cite: 5].
+* [cite_start]Data Encryption; for any information transmitted between a client and We (the Company) [cite: 5].
 * [cite_start]Physical access controls; for where computers will be stored and worked on when brought in-shop[cite: 5].
 
 ---
