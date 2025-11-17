@@ -1,6 +1,6 @@
 # Non-Compete Agreement (NCA)
 
-This Non-Compete Agreement ("Agreement") is between Pacific Northwest Computers ("Company") and any/all Field Service Technician (“Employee" or "Recipient").
+This Non-Compete Agreement ("Agreement") is between we the Company ("Company") and any/all Field Service Technician (“Employee" or "Recipient").
 
 ---
 
