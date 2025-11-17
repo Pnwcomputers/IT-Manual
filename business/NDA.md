@@ -1,6 +1,6 @@
 # Non-Disclosure Agreement (NDA)
 
-This Non-Disclosure Agreement ("Agreement") is between Pacific Northwest Computers ("Company") and any/all Field Service Technician ("Recipient").
+This Non-Disclosure Agreement ("Agreement") is between we the Company ("Company") and any/all Field Service Technician ("Recipient").
 
 ---
 
