@@ -16,7 +16,7 @@
 
 **Standard Rate**: $HourlyRate
 
-**Diagnostics Fee**: $HourlyRateFee-$HourlyRateFeeMax for customers who are not certain what's wrong with their computer and we need to diagnose/figure out the issue
+**Diagnostics Fee**: $Fee-$FeeMax for customers who are not certain what's wrong with their computer and we need to diagnose/figure out the issue
 
 **Scheduling**: We ask that clients call ahead to schedule any and all drop-offs. Due to our onsite schedule, there isn't always someone here at the office. We typically schedule drop-offs and pick-ups for:
 - Around 10am when we first open
@@ -72,15 +72,15 @@ We can also set up, clean up, and fix software issues with tablets and smartphon
 
 ### Process
 
-**Initial Drive Assessment**: $HourlyRateFee
+**Initial Drive Assessment**: $Fee
 - Allows us to properly diagnose the hard drive's issues
 - We assess if we can access any data using different software and hardware methods
 
 **Recovery Cost** (if successful):
-- Initial assessment fee ($HourlyRateFee)
+- Initial assessment fee ($Fee)
 - Plus $HourlyRate80 per day for recovery
 
-**Typical Cost**: Most data recovery services take 1-2 days to complete and usually cost between $HourlyRateFee-$HourlyRateFeeMax (plus taxes)
+**Typical Cost**: Most data recovery services take 1-2 days to complete and usually cost between $Fee-$FeeMax (plus taxes)
 
 **Extended Recovery**: If the hard drive has significant issues or there's a lot of data to recover, the process could take longer
 
