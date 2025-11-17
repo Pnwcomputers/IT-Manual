@@ -1,6 +1,6 @@
 # Dress Code & Appearance Guidelines
 
-Guidelines for workplace appearance help maintain a professional environment and ensures clarity and consistency. Here are the guidelines for working at Pacific Northwest Computers:
+Guidelines for workplace appearance help maintain a professional environment and ensures clarity and consistency. Here are the guidelines for working as a field service technician.
 
 ---
 
