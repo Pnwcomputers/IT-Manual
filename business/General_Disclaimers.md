@@ -2,7 +2,7 @@
 
 ## General Disclaimer
 
-We (the Company) cannot be responsible for re-infections with viruses or malware, water or power damage, misuse, or any other damage not resulting in the actual repair work done by we (the Company) . We (the Company)  will not be responsible for viruses, malware or other computer hardware or software failures that occurred after a repair. We cannot be responsible for other issues arising from misuse; kids shoving mac and cheese in the CD Drive, beating on it with a hammer, water damage, dropping damage, fire, flood, tornado, or other acts of God.
+We the service provider, cannot be responsible for re-infections with viruses or malware, water or power damage, misuse, or any other damage not resulting in the actual repair work done by we (the Company). We the service provider, will not be responsible for viruses, malware or other computer hardware or software failures that occurred after a repair. We cannot be responsible for other issues arising from misuse; kids shoving mac and cheese in the CD Drive, beating on it with a hammer, water damage, dropping damage, fire, flood, tornado, or other acts of God.
 
 ## Data Disclaimer
 
