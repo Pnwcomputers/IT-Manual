@@ -107,9 +107,15 @@ The company utilizes specific digital and voice channels to maintain clear bound
 * **Work Phone:** Employees use a **Google Voice** number as their dedicated work phone.
     * You **must never** give out your personal phone number to clients or customers.
     * The tool includes a **"Do Not Disturb"** mode to manage availability outside of work hours.
-* **Client Contact:** If a client requests a number, provide the **Office/Reception** line (360-624-7379).
+* **Client Contact:** If a client requests a number, provide the **Office/Reception** line listed in the current contact roster.
 
-### Supervisor Contact
+## Supervisor Contact
+* **Immediate Needs:** Use the designated on-call supervisor line for all immediate needs requiring management attention.
+* This direct line is specifically for urgent issues like calling in sick, reporting that you are running late, or needing help/having questions during a job. Reference your onboarding packet for the current number.
+
+* See: [Communication Guidelines](../templates/Communication.md)
+
+---
 
 * **Immediate Needs:** Use Jon’s Direct Cell (503-583-2380) for all immediate needs requiring supervisor attention (e.g., calling in sick, reporting that you are running late, or needing help/having questions during a job).
 
@@ -153,7 +159,7 @@ Terms of termination outline the conditions under which a technician's employmen
 
 1.  **Return of Company Property:** Technicians will have **48 hours** to return ALL equipment, tools, uniforms, or confidential information upon termination.
 2.  **Final Compensation:** Any compensation due to an employee for work completed will be paid within **48 hours** upon termination.
-3.  **Non-Compete and Non-Disclosure Obligations:** Employees agree to and will abide by any non-compete/non-disclosure agreements/contracts they may have signed while employed.
+3.  **Non-Compete and Non-Disclosure Obligations:** Employees agree to and will abide by any non-compete/non-disclosure agreements/contracts they may have signed while employed by the service provider or any affiliated partner.
 4.  **References and Future Employment:** We will gratefully and happily provide references and recommendations for previous employees who have abided by and adhered to these terms, conditions, and policies.
 
 ### Governing Law

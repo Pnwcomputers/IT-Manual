@@ -40,4 +40,4 @@ When working as a field service technician, parking considerations are important
 
 ---
 
-*For additional information or assistance, contact a manager*
+*For additional information or assistance, contact the on-call supervisor using the number listed in the internal directory.*

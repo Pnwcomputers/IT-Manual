@@ -1,6 +1,6 @@
 # 📜 Terms of Service (10-2024)
 
-These Terms of Service govern the provision of IT services by Pacific Northwest Computers. By utilizing our services, clients acknowledge, understand, and agree to the service scope, fee structures, response times, limitations, and responsibilities outlined below.
+These Terms of Service govern the provision of IT services by the service provider. By utilizing these services, clients acknowledge, understand, and agree to the service scope, fee structures, response times, limitations, and responsibilities outlined below.
 
 ---
 
@@ -35,7 +35,7 @@ Emergency support is subject to availability and must be clearly requested as su
 * Consultation services are charged at the respective standard hourly rate and are subject to the same **one-hour minimum charge**.
 
 ### Phone Support Policy
-* **We Do Not Provide Phone Support:** Pacific Northwest Computers does not provide technical support over the phone for troubleshooting or problem resolution. All technical assistance is offered either **in-person or through scheduled remote support sessions**. This ensures the most accurate support utilizing necessary diagnostic tools.
+* **We Do Not Provide Phone Support:** the service provider does not provide technical support over the phone for troubleshooting or problem resolution. All technical assistance is offered either **in-person or through scheduled remote support sessions**. This ensures the most accurate support utilizing necessary diagnostic tools.
 
 ---
 
@@ -48,7 +48,7 @@ Emergency support is subject to availability and must be clearly requested as su
 
 ## III. Data and Backup Responsibility
 
-* **Client Responsibility:** **Pacific Northwest Computers is not responsible for any data loss during service.** Clients are **responsible for creating a complete backup of all critical data** prior to service unless a specific data backup arrangement has been contracted in advance.
+* **Client Responsibility:** **The service provider is not responsible for any data loss during service.** Clients are **responsible for creating a complete backup of all critical data** prior to service unless a specific data backup arrangement has been contracted in advance.
 * **Client Data Security:** When a system is serviced (in-shop or on-site), we utilize technical, physical, and administrative security measures (firewalls, data encryption, physical access controls) to keep personal data secure.
 
 ---
@@ -65,10 +65,10 @@ Emergency support is subject to availability and must be clearly requested as su
 * **Force Majeure:** We are not liable for delays or failures in service due to events beyond our control (e.g., natural disasters, supplier issues, supply chain issues).
 
 ### Limitations on Liability
-**Pacific Northwest Computers is not liable for:**
+**the service provider is not liable for:**
 * Re-infection of viruses or malware following service.
 * Damage from misuse, power surges, or water damage.
-* Any damage that does not directly result from the repair or work performed by Pacific Northwest Computers.
+* Any damage that does not directly result from the repair or work performed by the service provider.
 * The **Limitation of Liability** is capped at the total amount paid for services rendered.
 
 ---
@@ -82,8 +82,8 @@ Emergency support is subject to availability and must be clearly requested as su
 * **Data Removal:** If a client decides to no longer use our services, all stored information regarding the client and their technical setup will be returned and removed from our systems permanently.
 
 ### Licensing and Insurance
-* **Service Coverage:** Pacific Northwest Computers is fully **insured and licensed** to provide computer services in Washington State and in other states where applicable.
-* *Note: In some states (e.g., Oregon), services may be subject to Washington State sales tax unless the client is tax-exempt.*
+* **Service Coverage:** the service provider is fully **insured and licensed** to provide computer services within the applicable jurisdictions where business is conducted.
+* *Note: Some regions may require collecting sales tax unless the client is tax-exempt.*
 
 ---
 
@@ -98,8 +98,8 @@ Emergency support is subject to availability and must be clearly requested as su
 * We can be hired to work directly with any product/software vendor’s/provider's technical support on your behalf. This service is charged at the appropriate residential/business hourly rate plus any associated fees.
 
 ### Jurisdiction
-* The jurisdiction(s) of **Washington State, the City of Vancouver Washington, and/or Clark County Washington**, will govern these terms of service.
+* The jurisdiction(s) of the **state(s) and municipalities in which the service provider operates** will govern these terms of service.
 
 ### Non-Solicitation
-* Clients agree not to solicit any of our technicians for direct employment or services outside of Pacific Northwest Computers.
+* Clients agree not to solicit any technicians for direct employment or services outside of the service provider.
 

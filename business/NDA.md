@@ -1,6 +1,6 @@
 # Non-Disclosure Agreement (NDA)
 
-This Non-Disclosure Agreement ("Agreement") is between the Company ("Company") and the Field Service Technician ("Recipient").
+This Non-Disclosure Agreement ("Agreement") is between the service provider ("Company") and any/all Field Service Technician ("Recipient").
 
 ---
 
@@ -75,7 +75,7 @@ This Agreement does not grant the Recipient any ownership rights, licenses, or i
 
 ## 10. Governing Law
 
-This Agreement shall be governed by and construed in accordance with the laws of the **state of Washington, in Clark County and the City of Vancouver, WA**.
+[cite_start]This Agreement shall be governed by and construed in accordance with the laws of the **state(s), counties, and municipalities in which the service provider operates**[cite: 10].
 
 ---
 

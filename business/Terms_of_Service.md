@@ -77,7 +77,7 @@ Our service guarantee is for up to **14 days** from the completion date of the j
 
 ### Data Backup Responsibility
 
-The Company is **not responsible for any data loss** during service. **Clients are responsible** for creating a complete backup of all critical data prior to service, unless a specific data backup arrangement has been contracted in advance.
+The service company is **not responsible for any data loss** during service. **Clients are responsible** for creating a complete backup of all critical data prior to service, unless a specific data backup arrangement has been contracted in advance.
 
 ### Limitations on Liability
 

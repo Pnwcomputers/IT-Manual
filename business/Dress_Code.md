@@ -1,6 +1,6 @@
 # Dress Code & Appearance Guidelines
 
-Guidelines for workplace appearance help maintain a professional environment and ensures clarity and consistency. Here are the guidelines for working as a field service technician.
+Guidelines for workplace appearance help maintain a professional environment and ensures clarity and consistency. These guidelines outline expectations for technicians representing the service provider:
 
 ---
 

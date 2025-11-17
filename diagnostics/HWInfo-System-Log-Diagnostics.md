@@ -37,8 +37,8 @@ The goal is to log a crash or performance issue, even if it's temperature￾rela
 If monitoring over a long period, adjust the logging interval in Settings →
 Safety → Logging Interval (default is 1000ms).
 6.Send Us the Log File
-Once you've experienced a system issue, email us the saved CSV file, and
-we'll analyze the logs to help diagnose the problem, and then will get back
-to the client with a report!
-support@pnwcomputers.com
+Once you've experienced a system issue, email the saved CSV file to the
+support mailbox (for example, **support@example.com**).
+The engineering team will analyze the logs to help diagnose the problem and
+will follow up with a report.
 HWInfo - System Log Diagnostics 2

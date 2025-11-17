@@ -12,7 +12,7 @@ A well-structured check-in process for in-shop customer interactions ensures pro
 ### Professional Introduction
 Greet the client with a friendly introduction, mentioning your name and company.
 
-**Example**: *"Hi, I'm [Your Name] from Pacific Northwest Computers. We have an appointment to help you with your computer/tech issues!"*
+**Example**: *"Hi, I'm [Your Name] from the service provider. We have an appointment to help you with your computer/tech issues!"*
 
 ### Confirm Appointment and Service
 Briefly confirm the service details to ensure alignment and clarity on the work expected.
@@ -162,7 +162,7 @@ Offer any relevant documentation, such as service notes or a payment receipt.
 ### Express Gratitude
 Thank the client for choosing your services.
 
-**Example**: *"Thank you for choosing Pacific Northwest Computers. We appreciate your business!"*
+**Example**: *"Thank you for choosing the service provider. We appreciate your business!"*
 
 ### Offer Further Assistance
 Let the client know how to reach you for future assistance, reminding them of contact information or follow-up processes.

@@ -25,8 +25,8 @@ Remove unnecessary browser extensions unless a customer specifies not to remove 
 
 ## Additional Resource
 
-**Blog Article Reference**:  
-[Browser Redirect Virus Fix](https://pnwcomputers.blogspot.com/2013/10/browser-redirect-virus-fix-search.html)
+**Blog Article Reference**:
+**External Example:** [Browser Redirect Virus Fix](https://pnwcomputers.blogspot.com/2013/10/browser-redirect-virus-fix-search.html) – substitute with any equivalent internal or vendor resource your team prefers.
 
 ---
 

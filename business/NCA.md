@@ -1,12 +1,12 @@
 # Non-Compete Agreement (NCA)
 
-This Non-Compete Agreement ("Agreement") is between we the Company ("Company") and any/all Field Service Technician (“Employee" or "Recipient").
+This Non-Compete Agreement ("Agreement") is between the service provider ("Company") and any/all Field Service Technician (“Employee" or "Recipient").
 
 ---
 
 ## 1. Purpose
 
-The purpose of this Agreement is to protect the legitimate business interests of Pacific Northwest Computers, including but not limited to client relationships, trade secrets, and proprietary information that the Employee may access during their employment.
+The purpose of this Agreement is to protect the legitimate business interests of the service provider, including but not limited to client relationships, trade secrets, and proprietary information that the Employee may access during their employment.
 
 ---
 
@@ -22,7 +22,7 @@ In consideration of employment and continued access to Confidential Information,
 
 ## 3. Scope of Agreement
 
-* **Geographic Scope:** This non-compete applies within a **50-mile radius** of the Company’s office located at 1104 W 39 St in Vancouver, WA or any location where the Company conducts business.
+* **Geographic Scope:** This non-compete applies within a **50-mile radius** of any office, service hub, or geographic area where the Company conducts business.
 * **Duration:** The non-compete restrictions shall be in effect during the Employee’s term of employment and for **one (1) year** after the employment ends.
 
 ---
@@ -63,7 +63,7 @@ In the event of a breach or threatened breach, the Company shall be entitled to 
 
 ## 9. Governing Law
 
-This Agreement shall be governed by and construed in accordance with the laws of the **state of Washington, in Clark County and the City of Vancouver, WA**.
+This Agreement shall be governed by and construed in accordance with the laws of the **state(s), counties, and municipalities in which the Company operates**.
 
 ---
 
