@@ -1,4 +1,4 @@
-# 📜 Terms of Service (10-2024)
+# 📜 Terms of Service General Outline
 
 For companies and clients that decide to use our IT services, here are our Terms of Service.
 
