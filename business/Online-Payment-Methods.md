@@ -25,16 +25,16 @@
 
 | Location | Standard Tax Rate | Tax + 5% Processing (Online/Card) |
 | :--- | :--- | :--- |
-| **Brush Prairie, Hockinson, Battle Ground (outside city limits), Clark County** | $7.9\%$ (or $0.079$) | $12.9\%$ (or $0.129$) |
-| **Vancouver, Battle Ground (inside city limits), Camas, Washougal, Woodland, Ridgefield, etc.** | $8.8\%$ (or $0.088$) | $13.8\%$ (or $0.138$) |
+| **Example Suburban/Rural Tax Rate** | $7.9\%$ (or $0.079$) | $12.9\%$ (or $0.129$) |
+| **Example Urban Tax Rate** | $8.8\%$ (or $0.088$) | $13.8\%$ (or $0.138$) |
 
 ---
 
 ## 💻 AI Calculation Tool
 
-You can use the **PNWC ChatGPT AI Help Desk** to calculate onsite totals (trip fees, processing fees, and all).
+An internal AI assistant or calculator can be used to estimate onsite totals (trip fees, processing fees, and all).
 
-**@ChatGPT ChatGPT - PNW Computers AI Help Desk**
+**Example prompt:** *"Use the AI help desk to calculate today's trip fee."*
 
 **How You Can Use It (Examples):**
 * "Calculate trip fee for 50 miles and 40 minutes."

@@ -14,7 +14,7 @@
 
 * Uninstall **“Free Trial”** software.
 * Uninstall **Obvious junk programs & toolbars** (One Search, Driver Support, One Bar, etc.).
-* Use the **PNW Computers “Browser Hi-jack” blog article** as a reference to find and remove software malicious Adware Programs.
+* Reference the organization’s approved “Browser Hi-jack” guide or equivalent resource to identify and remove malicious adware programs.
 * Computers that are heavily infected should be checked with **‘TDSKiller’** to rule out the presence of a **Rootkit BEFORE** any cleaning procedures begin. (*Unless cleaning is needed to run the utility.*)
 
 ### 2. Install/Update Essential Programs

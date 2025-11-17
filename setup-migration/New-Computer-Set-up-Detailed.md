@@ -13,7 +13,7 @@ This guide outlines a methodical procedure for setting up a new PC, performing n
 2.  **Uninstall all obvious Bloatware:**
     * "Free Trial" software.
     * Obvious junk programs & toolbars.
-3.  **Adware/Malicious Programs:** Use the PNW Computers “Browser Hi-jack” blog article as a reference to find and remove malicious Adware Programs.
+3.  **Adware/Malicious Programs:** Reference the organization’s preferred “Browser Hi-jack” guide or equivalent knowledge-base article to find and remove malicious adware programs.
 
 ### 2. Install/Update Essential Programs 🌐
 1.  **Ninite.com Installation:** Use Ninite to install the following (or any other requested software):

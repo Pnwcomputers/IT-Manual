@@ -21,4 +21,4 @@ Though we are not able to guarantee success with regaining access to your accoun
 
 ## Official Blog Post Covering General Procedures & Resources:
 
-* [Your Online Accounts Got Hacked! What Do I Do?](https://pnwcomputers.blogspot.com/2024/10/your-online-accounts-got-hacked-what-do.html)
+* **External Resource Example:** [Your Online Accounts Got Hacked! What Do I Do?](https://pnwcomputers.blogspot.com/2024/10/your-online-accounts-got-hacked-what-do.html) – outlines general recovery steps and can be substituted with any equivalent best-practice article your organization prefers.

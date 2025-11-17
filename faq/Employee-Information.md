@@ -135,11 +135,11 @@ The company utilizes specific digital and voice channels to maintain clear bound
 * **Work Phone:** Employees use a **Google Voice** number as their dedicated work phone.
     * You **must never** give out your personal phone number to clients or customers.
     * The tool includes a **"Do Not Disturb"** mode to manage availability outside of work hours.
-* **Client Contact:** If a client requests a number, provide the **Office/Reception** line (360-624-7379).
+* **Client Contact:** If a client requests a number, provide the **Office/Reception** line listed in the current contact roster.
 
 ## Supervisor Contact
-* **Immediate Needs:** Use Jon’s Direct Cell (503-583-2380) for all immediate needs requiring supervisor attention.
-* This direct line is specifically for urgent issues like calling in sick, reporting that you are running late, or needing help/having questions during a job.
+* **Immediate Needs:** Use the designated on-call supervisor line for all immediate needs requiring management attention.
+* This direct line is specifically for urgent issues like calling in sick, reporting that you are running late, or needing help/having questions during a job. Reference your onboarding packet for the current number.
 
 * See: [Communication Guidelines](../templates/Communication.md)
 
@@ -177,7 +177,7 @@ Terms of termination outline the conditions under which a technician's employmen
 
 ## Conditions of Termination
 
-1.  [cite_start]**Termination Without Cause:** Pacific Northwest Computers/GIF Computers reserves the right to terminate the technician's employment or contract without specifying a reason[cite: 1]. [cite_start]This will typically include advance notice or severance pay as required by employment laws or contract terms[cite: 1].
+1.  [cite_start]**Termination Without Cause:** the service provider or its affiliated partners reserve the right to terminate the technician's employment or contract without specifying a reason[cite: 1]. [cite_start]This will typically include advance notice or severance pay as required by employment laws or contract terms[cite: 1].
 2.  [cite_start]**Termination for Cause:** The technician may be terminated immediately for specific reasons, such as gross misconduct, violation of company policies, failure to perform duties satisfactorily, or ethical breaches[cite: 1].
 3.  [cite_start]**Notice Period:** Technicians are asked to give at least a **two-week notice** when leaving their position[cite: 1].
 4.  [cite_start]**Severance Pay or Benefits:** None will be provided[cite: 1].
@@ -186,7 +186,7 @@ Terms of termination outline the conditions under which a technician's employmen
 
 1.  **Return of Company Property:** Technicians will have **48 hours** to return ALL equipment, tools, uniforms, or confidential information upon termination.
 2.  **Final Compensation:** Any compensation due to an employee for work completed will be paid within **48 hours** upon termination.
-3.  **Non-Compete and Non-Disclosure Obligations:** Employees agree to and will abide by any non-compete/non-disclosure agreements/contracts they may have signed while employed at Pacific Northwest Computers/GIF Computers.
+3.  **Non-Compete and Non-Disclosure Obligations:** Employees agree to and will abide by any non-compete/non-disclosure agreements/contracts they may have signed while employed by the service provider or any affiliated partner.
 4.  **References and Future Employment:** We will gratefully and happily provide references and recommendations for previous employees who have abided by and adhered to these terms, conditions, and policies.
 
 ## Governing Law

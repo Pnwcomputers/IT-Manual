@@ -40,4 +40,4 @@ When working as a field service technician, parking considerations are important
 
 ---
 
-*For additional information or assistance, contact Jon at 503-583-2380.*
+*For additional information or assistance, contact the on-call supervisor using the number listed in the internal directory.*

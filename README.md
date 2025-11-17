@@ -41,10 +41,10 @@ A centralized knowledge base for IT professionals providing:
 - [Mac/Apple - System Log Diagnostics](./diagnostics/Mac-Apple-System-Log-Diagnostics.md)
 - [Hardware Testing Programs](./diagnostics/Hardware-Testing-Programs.md)
 - [Software Download & Reinstall](./diagnostics/Software-Download-Reinstall.md)
-- **Blog:** [USB Diagnostic Tools Guide](https://pnwcomputers.blogspot.com/search/label/diagnostics)
+- **External Blog Resource:** [USB Diagnostic Tools Guide](https://pnwcomputers.blogspot.com/search/label/diagnostics)
 
 ### 🔧 Hardware
-- ["SystemTester" Sysinternals Testing/Diagnotics Utility](https://github.com/Pnwcomputers/SystemTester)
+- ["SystemTester" Sysinternals Testing/Diagnotics Utility](https://github.com/Pnwcomputers/SystemTester) *(example open-source toolkit)*
 - [BIOS Access Guide](./hardware/BIOS_Access.md)
 - [Clone Hard Drive: Hardware & Software Methods](./hardware/Clone-Hard-Drive-Hardware-Software-Methods.md)
 - [HDD/SSD Health Checking](./hardware/HDD-SSD-Health-Checking.md)
@@ -62,8 +62,8 @@ A centralized knowledge base for IT professionals providing:
 - [Network Location Settings](./networking/Network_Location.md)
 - [Local WiFi Network Info & Logins](./networking/Local-Wifi-Network-Info-Logins.md)
 - [Networking Diagnostic & Testing Tool(s) Usage](./tools/Tools-Usage.md)
-- **Blog:** [Windows File & Print Sharing Troubleshooting](https://pnwcomputers.blogspot.com/search/label/file%20sharing)
-- **Blog:** [Wireless IoT Devices Troubleshooting](https://pnwcomputers.blogspot.com/search/label/wireless)
+- **External Blog Resource:** [Windows File & Print Sharing Troubleshooting](https://pnwcomputers.blogspot.com/search/label/file%20sharing)
+- **External Blog Resource:** [Wireless IoT Devices Troubleshooting](https://pnwcomputers.blogspot.com/search/label/wireless)
 
 ### 🖥️ Windows
 - [Windows 10/11 Failing To Boot](./windows/Windows-10-11-Failing-To-Boot.md)
@@ -73,8 +73,8 @@ A centralized knowledge base for IT professionals providing:
 - [Editing Windows Host File](./windows/Editing-Windows-Host-File.md)
 - [Setting Network Location (Private/Public)](./windows/Setting-Network-Location-Private-Public-Windows-10-11.md)
 - [Diagnostic Websites & Assistance](./windows/Websites-Diagnostics-Assistance.md)
-- **Blog:** [Windows 10 ESU Program: Free & Paid Options](https://pnwcomputers.blogspot.com/)
-- **Blog:** [Windows 10 & 11: Security Policies Block Unauthenticated](https://pnwcomputers.blogspot.com/search/label/windows)
+- **External Blog Resource:** [Windows 10 ESU Program: Free & Paid Options](https://pnwcomputers.blogspot.com/)
+- **External Blog Resource:** [Windows 10 & 11: Security Policies Block Unauthenticated](https://pnwcomputers.blogspot.com/search/label/windows)
 
 ### 🍎 Mac/Apple
 - [Apple ID Login Troubleshooting](./mac/Apple-ID-Login-Troubleshooting.md)
@@ -86,7 +86,7 @@ A centralized knowledge base for IT professionals providing:
 - [Data Backup/Restore (Mac)](./mac/Data-Backup-Restore-Mac.md)
 - [New Printer Setup (Mac)](./mac/New-Printer-Setup-Mac.md)
 - [Printer Troubleshooting (OSX)](./mac/Printer-Troubleshooting-OSX.md)
-- **Blog:** [How to Clean Up a Slow Mac](https://pnwcomputers.blogspot.com/search/label/clean%20my%20pc)
+- **External Blog Resource:** [How to Clean Up a Slow Mac](https://pnwcomputers.blogspot.com/search/label/clean%20my%20pc)
 
 ### 🖨️ Printers
 - [Printer/New Printer Setup (PC & Mac)](./printers/Printer-New-Printer-Setup-PC-Mac.md)
@@ -95,15 +95,15 @@ A centralized knowledge base for IT professionals providing:
 - [Printer Troubleshooting (OSX)](./printers/Printer-Troubleshooting-OSX.md)
 - [Printer/Scanner Support Sites](./printers/Printer-Scanner-Support-Sites.md)
 - [Static IP & Hostname Setup](./printers/Static-IP-Hostname-Setup.md)
-- **Blog:** [Printer Driver Downloads & Support Sites](https://pnwcomputers.blogspot.com/search/label/Brother%20printer%20support)
+- **External Blog Resource:** [Printer Driver Downloads & Support Sites](https://pnwcomputers.blogspot.com/search/label/Brother%20printer%20support)
 
 ### 💻 Software
 - [Software We Install & Use](./software/Software-We-Install-Use.md)
 - [Software to Remove if Found](./software/Software-to-Remove-if-Found.md)
 - [Microsoft Outlook Troubleshooting](./software/Microsoft-Outlook-Troubleshooting.md)
 - [Find MS Office Product/License Key](./software/Find-MS-Office-Product-License-Key.md)
-- **Blog:** [Recommended PC Apps, Programs & Utilities](https://pnwcomputers.blogspot.com/)
-- **Blog:** [OneDrive for Business Troubleshooting](https://pnwcomputers.blogspot.com/search/label/file%20sharing)
+- **External Blog Resource:** [Recommended PC Apps, Programs & Utilities](https://pnwcomputers.blogspot.com/)
+- **External Blog Resource:** [OneDrive for Business Troubleshooting](https://pnwcomputers.blogspot.com/search/label/file%20sharing)
 
 ### 🔐 Security
 - [Check for Malware and Adware](./security/Check-for-Malware-and-Adware.md)
@@ -111,14 +111,14 @@ A centralized knowledge base for IT professionals providing:
 - [Clean-up Temp & Junk Data](./security/Clean-up-Temp-Junk-Data.md)
 - [Eliminate Start-up Programs](./security/Eliminate-Start-up-Programs.md)
 - [Online Backup Services/Ransomware Protection](./security/Online-Backup-Services-Ransomware-Protection.md)
-- **Blog:** [Windows PC Clean-up and Tune-up Guide - 2025 Update](https://pnwcomputers.blogspot.com/2024/07/how-to-do-tune-upclean-up-with-virus.html)
-- **Blog:** [Browser Redirect Virus Fix](https://pnwcomputers.blogspot.com/2013/10/browser-redirect-virus-fix-search.html)
-- **Blog:** [How Am I Getting Infected?](https://pnwcomputers.blogspot.com/2024/07/how-am-i-getting-infected.html)
-- **Blog:** [WannaCry Ransomware Protection](https://pnwcomputers.blogspot.com/2017/05/wannacry-ransomware-virus.html)
-- **Blog:** [Ransomware Protection & 3-2-1 Backup Rule](https://pnwcomputers.blogspot.com/search/label/ransomware)
-- **Blog:** [Fake Tech Support Scam: What You Should Do](https://pnwcomputers.blogspot.com/2024/07/fake-tech-support-scam-what-you-should.html)
-- **Blog:** [I Think Someone Is Accessing My Accounts/Devices](https://pnwcomputers.blogspot.com/2024/07/i-think-someone-is-accessing-my.html)
-- **Blog:** [Supply Chain Attacks & Security](https://pnwcomputers.blogspot.com/search/label/security)
+- **External Blog Resource:** [Windows PC Clean-up and Tune-up Guide - 2025 Update](https://pnwcomputers.blogspot.com/2024/07/how-to-do-tune-upclean-up-with-virus.html)
+- **External Blog Resource:** [Browser Redirect Virus Fix](https://pnwcomputers.blogspot.com/2013/10/browser-redirect-virus-fix-search.html)
+- **External Blog Resource:** [How Am I Getting Infected?](https://pnwcomputers.blogspot.com/2024/07/how-am-i-getting-infected.html)
+- **External Blog Resource:** [WannaCry Ransomware Protection](https://pnwcomputers.blogspot.com/2017/05/wannacry-ransomware-virus.html)
+- **External Blog Resource:** [Ransomware Protection & 3-2-1 Backup Rule](https://pnwcomputers.blogspot.com/search/label/ransomware)
+- **External Blog Resource:** [Fake Tech Support Scam: What You Should Do](https://pnwcomputers.blogspot.com/2024/07/fake-tech-support-scam-what-you-should.html)
+- **External Blog Resource:** [I Think Someone Is Accessing My Accounts/Devices](https://pnwcomputers.blogspot.com/2024/07/i-think-someone-is-accessing-my.html)
+- **External Blog Resource:** [Supply Chain Attacks & Security](https://pnwcomputers.blogspot.com/search/label/security)
 
 ### 🔑 Accounts & Login
 - [General Accounts & Login Issues](./accounts/General-Accounts-Login-Issues.md)
@@ -128,25 +128,25 @@ A centralized knowledge base for IT professionals providing:
 - [Account Recovery Support & Limitations](./accounts/Account-Recovery-Support-Limitations.md)
 
 ### 🚚 Setup & Migration
-- ["DeployWorkstation" Debloat/System Setup/Basic App Install Utility](https://github.com/Pnwcomputers/DeployWorkstation)
+- ["DeployWorkstation" Debloat/System Setup/Basic App Install Utility](https://github.com/Pnwcomputers/DeployWorkstation) *(example open-source toolkit)*
 - [New PC Setup/Migration Checklist](./setup-migration/New-PC-Setup-Migration-Checklist.md)
 - [New Computer Set-up (Detailed)](./setup-migration/New-Computer-Set-up-Detailed.md)
 - [New PC Client To-Do List](./setup-migration/New-PC-Client-To-Do-List.md)
 - [Data Backup/Restore (PC)](./setup-migration/Data-Backup-Restore-PC.md)
 - [Email Address Change To-Do List](./setup-migration/Email-Address-Change-To-Do-List.md)
 - [POP to IMAP Email Migration](./setup-migration/POP-to-IMAP-Email-Migration.md)
-- **Blog:** [New Computer Software To Have & Use](https://pnwcomputers.blogspot.com/search/label/new)
+- **External Blog Resource:** [New Computer Software To Have & Use](https://pnwcomputers.blogspot.com/search/label/new)
 
 ### 🛠️ Tools & Resources
 - [Tools Usage Guide](./tools/Tools-Usage.md)
 - [General Tools](./tools/General_Tools.md)
 - [Bootable USB Creation](./tools/Bootable-USB.md)
 - [Diagnostic Websites & Assistance](./tools/Websites-Diagnostics-Assistance.md)
-- ["DeployWorkstation" Debloat/System Setup/Basic App Install Utility](https://github.com/Pnwcomputers/DeployWorkstation)
-- ["SystemTester" Sysinternals Testing/Diagnotics Utility](https://github.com/Pnwcomputers/SystemTester)
-- **Blog:** [Snappy Driver Installer Origin (SDIO)](https://pnwcomputers.blogspot.com/search/label/portable-tools)
-- **Blog:** [Hardware Testing & Diagnostic Tools](https://pnwcomputers.blogspot.com/search/label/Cinebench)
-- **Blog:** [PNW Computers' Links & Recommended Software](https://pnwcomputers.blogspot.com/)
+- ["DeployWorkstation" Debloat/System Setup/Basic App Install Utility](https://github.com/Pnwcomputers/DeployWorkstation) *(example open-source toolkit)*
+- ["SystemTester" Sysinternals Testing/Diagnotics Utility](https://github.com/Pnwcomputers/SystemTester) *(example open-source toolkit)*
+- **External Blog Resource:** [Snappy Driver Installer Origin (SDIO)](https://pnwcomputers.blogspot.com/search/label/portable-tools)
+- **External Blog Resource:** [Hardware Testing & Diagnostic Tools](https://pnwcomputers.blogspot.com/search/label/Cinebench)
+- **External Blog Resource:** [Links & Recommended Software](https://pnwcomputers.blogspot.com/)
 
 ### 📝 Templates & Forms
 - [Communication Guidelines](./templates/Communication.md)
@@ -166,8 +166,8 @@ A centralized knowledge base for IT professionals providing:
 - [Disputes](./business/Disputes.md)
 - [NDA (Non-Disclosure Agreement)](./business/NDA.md)
 - [NCA (Non-Compete Agreement)](./business/NCA.md)
-- [IT Disaster Plan - Template](https://github.com/Pnwcomputers/Technical-Support-DR-Template)
-- **Blog:** [Social Media Marketing for Small Business](https://pnwcomputers.blogspot.com/)
+- [IT Disaster Plan - Template](https://github.com/Pnwcomputers/Technical-Support-DR-Template) *(example template repository)*
+- **External Blog Resource:** [Social Media Marketing for Small Business](https://pnwcomputers.blogspot.com/)
 
 ### 📋 Policies & Disclaimers
 - [Client Confidentiality Policies](./policies/Client-Confidentiality-Policies.md)
@@ -175,7 +175,7 @@ A centralized knowledge base for IT professionals providing:
 - [General Disclaimers](./policies/Disclaimers.md)
 - [3rd Party Software Support Disclaimer](./policies/3rd-Party-Software-Support-Disclaimer.md)
 - [Tardiness Policy](./policies/Tardiness.md)
-- **Blog:** [Preventative Maintenance Isn't Optional](https://pnwcomputers.blogspot.com/search/label/maintenance)
+- **External Blog Resource:** [Preventative Maintenance Isn't Optional](https://pnwcomputers.blogspot.com/search/label/maintenance)
 
 ---
 
@@ -207,7 +207,7 @@ A centralized knowledge base for IT professionals providing:
 
 > "It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so." - Mark Twain
 
-> "In technology, mastery is an illusion. There's only the pursuit of understanding. After 20 years, I'm still learning every day. I don't claim to know it all, only to give it my all." - Jon P.
+> "In technology, mastery is an illusion. There's only the pursuit of understanding. After 20 years, I'm still learning every day. I don't claim to know it all, only to give it my all." - Senior Field Technician
 
 > "There are no mistakes; only opportunities for improvement."
 
@@ -244,17 +244,17 @@ A centralized knowledge base for IT professionals providing:
 
 ---
 
-## 📋 Author & Company Information:
+## 📋 Resource & Contact Information:
 
-## Pacific Northwest Computers & GIF Computers - [Linktree](http://www.linktr.ee/pnwcomputers)
+## Field Service Resource Hub - [Linktree](http://www.linktr.ee/pnwcomputers) *(example curated link collection)*
 
-For questions, issues, or contributions to this handbook, please contact Jon Pienkowski: support@pnwcomputers.com
+For questions, issues, or contributions to this handbook, contact the documentation maintainer via the primary support mailbox (e.g., **support@example.com**).
 
 ---
 
 ## Copyright & License
 
-© 2025 Pacific NW Computers. All rights reserved.
+© 2025 Field Service Reference. All rights reserved.
 
 This handbook is proprietary and confidential. Unauthorized distribution, modification, or use is prohibited without express written permission.
 

@@ -104,4 +104,4 @@ There will be different tax rates depending on the states, cities and couties yo
 * **Online Payment Confirmation:** If an online payment method is used, ensure:
     * A payment confirmation is received and/or visible on their device.
     * The confirmation has the **correct total** and **username/payment destination** listed.
-* **Verification:** If you have ANY doubts, contact Jon directly by phone, text, Chat, or email to confirm the payment has gone through successfully.
+* **Verification:** If you have ANY doubts, contact the designated supervisor or accounting contact by phone, text, chat, or email to confirm the payment has gone through successfully.

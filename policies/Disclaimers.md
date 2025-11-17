@@ -1,14 +1,14 @@
 # 📝 Disclaimers
 
-These disclaimers outline the limits of liability for Pacific Northwest Computers regarding general service work, client data, and remote support sessions.
+These disclaimers outline the limits of liability for the service provider regarding general service work, client data, and remote support sessions.
 
 ---
 
 ## General Disclaimer
 
-PNW Computers cannot be responsible for **re-infections with viruses or malware**, or any **hardware or software failures that occurred after a repair**. Our liability does not extend to damage resulting from **misuse, water damage, power surges, dropping damage, fire, flood, tornado, or other acts of God**.
+The service provider cannot be responsible for **re-infections with viruses or malware**, or any **hardware or software failures that occurred after a repair**. Liability does not extend to damage resulting from **misuse, water damage, power surges, dropping damage, fire, flood, tornado, or other acts of God**.
 
-We are not responsible for damage that does not directly result from the actual repair work performed by Pacific Northwest Computers.
+The provider is not responsible for damage that does not directly result from the actual repair work performed.
 
 ---
 
@@ -16,7 +16,7 @@ We are not responsible for damage that does not directly result from the actual 
 
 **Clients are solely responsible for any and all of their computer data and data backups.**
 
-While PNW Computers may complete a data backup, transfer, or recovery service, **no responsibility is accepted** by Pacific Northwest Computers, or any of its subsidiaries, for **any data loss or data damage** arising from any backup, transfer, recovery work, or any other service completed on a client's system.
+While the provider may complete a data backup, transfer, or recovery service, **no responsibility is accepted** for **any data loss or data damage** arising from any backup, transfer, recovery work, or any other service completed on a client's system.
 
 ---
 
@@ -26,15 +26,15 @@ By requesting and accepting a remote session, you agree to the following terms:
 
 ### Client Responsibility and Privacy
 * **Acceptance of Responsibility:** You accept responsibility for any changes made to the desktop content or system settings during the session.
-* **Privacy and Security:** We recommend for your security and privacy that you **exit any applications displaying personal or confidential information** before allowing our operator to initiate a remote session.
-* **Presence:** We further recommend that you **remain seated at your desktop throughout the entire remote session.**
-* **Session Start:** Pacific NW Computers will email instructions before any remote session is established and agreed upon.
+* **Privacy and Security:** For your security and privacy, **exit any applications displaying personal or confidential information** before allowing the operator to initiate a remote session.
+* **Presence:** It is recommended to **remain seated at your desktop throughout the entire remote session.**
+* **Session Start:** The service provider will email instructions before any remote session is established and agreed upon.
 
 ### Liability Limitations
-* **No Guarantee:** Pacific NW Computers cannot guarantee that our service will resolve your problem or that attempting to rectify your technical issue will not cause additional problems.
-* **No Assumption of Liability:** Pacific NW Computers does not assume and is not responsible for any liability for the linking and viewing of any desktop content, the operation of installed software, or system performance.
-* **Data Loss:** Pacific NW Computers **will not be held responsible for any data loss** if any occurred during or after a remote session.
+* **No Guarantee:** The service provider cannot guarantee that any service will resolve a problem or that attempting to rectify a technical issue will not cause additional problems.
+* **No Assumption of Liability:** The service provider does not assume and is not responsible for any liability for the linking and viewing of any desktop content, the operation of installed software, or system performance.
+* **Data Loss:** The service provider **will not be held responsible for any data loss** if any occurred during or after a remote session.
 
 ---
 
-**Data Backup Note:** Your data is important to us. It is up to you to ensure that you backup your data on a regular basis. If you require help in setting up a backup procedure, please do not hesitate to contact us.
+**Data Backup Note:** Your data is important. It is up to you to ensure that you back up your data on a regular basis. If you require help in setting up a backup procedure, contact your preferred service provider.

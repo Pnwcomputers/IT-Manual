@@ -1,6 +1,6 @@
 # Non-Disclosure Agreement (NDA)
 
-This Non-Disclosure Agreement ("Agreement") is between Pacific Northwest Computers ("Company") and any/all Field Service Technician ("Recipient").
+This Non-Disclosure Agreement ("Agreement") is between the service provider ("Company") and any/all Field Service Technician ("Recipient").
 
 ---
 
@@ -75,6 +75,6 @@ The Recipient agrees to:
 
 ## 10. Governing Law
 
-[cite_start]This Agreement shall be governed by and construed in accordance with the laws of the **state of Washington, in Clark County and the City of Vancouver, WA**[cite: 10].
+[cite_start]This Agreement shall be governed by and construed in accordance with the laws of the **state(s), counties, and municipalities in which the service provider operates**[cite: 10].
 
 [cite_start]Employees/Recipients acknowledge that they have read, understood, and agree to abide by the terms and conditions of this Agreement[cite: 11]. [cite_start]This NDA ensures that both the company's and the client’s confidential information are protected[cite: 12].
