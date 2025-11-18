@@ -28,16 +28,15 @@ A centralized knowledge base for IT professionals providing:
 - [General Job Procedures](./procedures/General-Job-Procedures.md)
 - [On-Site Service: How It's Done](./procedures/On-Site-Service-How-Its-Done.md)
 - [In-Shop Service: How It's Done](./procedures/In-Shop-Service-How-Its-Done.md)
-- [Improvised Diagnostics: OODA Loop](./procedures/Improvised-Diagnostics-OODA-Loop.md)
 
 ### 🔍 Diagnostics
 - [General Diagnostic Procedures](./diagnostics/General-Diagnostic-Procedures.md)
+- [Improvised Diagnostics: OODA Loop](./procedures/Improvised-Diagnostics-OODA-Loop.md)
 - [Laptop Faults & Diagnostics](./diagnostics/Laptop-Faults-Diagnostics.md)
 - [Electronics Diagnostics - Multimeter Testing](./diagnostics/Electronics-Diagnostics-Multimeter-Testing.md)
 - [HWInfo - System Log Diagnostics](./diagnostics/HWInfo-System-Log-Diagnostics.md)
 - [Mac/Apple - System Log Diagnostics](./diagnostics/Mac-Apple-System-Log-Diagnostics.md)
 - [Hardware Testing Programs](./diagnostics/Hardware-Testing-Programs.md)
-- [Software Download & Reinstall](./diagnostics/Software-Download-Reinstall.md)
 - **External Blog Resource:** [USB Diagnostic Tools Guide](https://pnwcomputers.blogspot.com/search/label/diagnostics)
 
 ### 🔧 Hardware
@@ -70,6 +69,7 @@ A centralized knowledge base for IT professionals providing:
 - [Editing Windows Host File](./windows/Editing-Windows-Host-File.md)
 - [Setting Network Location (Private/Public)](./windows/Setting-Network-Location-Private-Public-Windows-10-11.md)
 - [Diagnostic Websites & Assistance](./windows/Websites-Diagnostics-Assistance.md)
+- [Microsoft Outlook Troubleshooting](./software/Microsoft-Outlook-Troubleshooting.md)
 - **External Blog Resource:** [Windows 10 ESU Program: Free & Paid Options](https://pnwcomputers.blogspot.com/)
 - **External Blog Resource:** [Windows 10 & 11: Security Policies Block Unauthenticated](https://pnwcomputers.blogspot.com/search/label/windows)
 
@@ -97,7 +97,7 @@ A centralized knowledge base for IT professionals providing:
 ### 💻 Software
 - [Software We Install & Use](./software/Software-We-Install-Use.md)
 - [Software to Remove if Found](./software/Software-to-Remove-if-Found.md)
-- [Microsoft Outlook Troubleshooting](./software/Microsoft-Outlook-Troubleshooting.md)
+- [Software Download & Reinstall](./diagnostics/Software-Download-Reinstall.md)
 - [Find MS Office Product/License Key](./software/Find-MS-Office-Product-License-Key.md)
 - **External Blog Resource:** [Recommended PC Apps, Programs & Utilities](https://pnwcomputers.blogspot.com/)
 - **External Blog Resource:** [OneDrive for Business Troubleshooting](https://pnwcomputers.blogspot.com/search/label/file%20sharing)
@@ -186,24 +186,34 @@ A centralized knowledge base for IT professionals providing:
 ## 🎯 Quick Start Guide
 
 ### For New Technicians
-1. Review the [General FAQ](./faq/General-FAQ.md)
-2. Familiarize yourself with [General Job Procedures](./procedures/General-Job-Procedures.md)
-3. Study the [Communication Guidelines](./templates/Communication.md)
-4. Review [Notes & Documentation](./templates/Notes-Documentation.md) best practices
-5. Read through [Employee Information](./faq/Employee-Information.md)
+1. Familiarize yourself with [General Job Procedures](./procedures/General-Job-Procedures.md)
+2. Study the [Communication Guidelines](./templates/Communication.md)
+3. Review [Notes & Documentation](./templates/Notes-Documentation.md) best practices
+4. Review our recommended [Code of Conduct](./business/Code_of_Conduct.md)
+5. Review our recommended [Dress Code](./business/Dress_Code.md)
+6. Reference relevant diagnostic procedures as needed
+7. Follow proper documentation protocols
 
 ### For On-Site Service
 1. Check [On-Site Service: How It's Done](./procedures/On-Site-Service-How-Its-Done.md)
 2. Review [Parking Guidelines & Laws](./business/Parking-Guidelines-Laws.md)
-3. Prepare using the appropriate work order form
-4. Reference [Payment Processing](./business/Payment-Processing.md) procedures
-5. Have [Communication Guidelines](./templates/Communication.md) handy
+3. Have [Communication Guidelines](./templates/Communication.md) handy
+4. Review our recommended [Code of Conduct](./business/Code_of_Conduct.md)
+5. Review our recommended [Dress Code](./business/Dress_Code.md)
+6. Prepare for job/work using the appropriate work order form
+7. Reference [Payment Processing](./business/Payment-Processing.md) procedures
+8. Reference relevant diagnostic procedures
+9. Follow proper documentation protocols
 
 ### For In-Shop Service
 1. Read [In-Shop Service: How It's Done](./procedures/In-Shop-Service-How-Its-Done.md)
 2. Review [In-Shop PC Check-Out & Payments](./business/In-Shop-PC-Check-Out-Payments.md)
-3. Reference relevant diagnostic procedures
-4. Follow proper documentation protocols
+3. Have [Communication Guidelines](./templates/Communication.md) handy
+4. Review our recommended [Code of Conduct](./business/Code_of_Conduct.md)
+5. Review our recommended [Dress Code](./business/Dress_Code.md)
+6. Prepare for job/work using the appropriate work order form
+8. Reference relevant diagnostic procedures
+9. Follow proper documentation protocols
 
 ---
 
