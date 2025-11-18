@@ -22,9 +22,6 @@ A centralized knowledge base for IT professionals providing:
 ## 📑 Table of Contents
 
 ### 🚀 Getting Started
-- [General FAQ](./faq/General-FAQ.md)
-- [Employee Information](./faq/Employee-Information.md)
-- [Reception FAQ](./faq/Reception-FAQ.md)
 - [How-To Procedures (Full List)](./procedures/How-To-Procedures-FULL-LIST.md)
 
 ### 👨‍💼 Service Procedures
@@ -154,19 +151,18 @@ A centralized knowledge base for IT professionals providing:
 - [SMS & Email Templates](./templates/SMS-Email-Templates.md)
 - [Invoice Templates](./templates/Invoice-Templates.md)
 
-### 💼 Business & Policies
+### 💼 Business/Company Standards of Practice
+- [General FAQ](./faq/General-FAQ.md)
+- [Reception FAQ](./faq/Reception-FAQ.md)
 - [Terms of Service](./business/Terms_of_Service.md)
-- [Code of Conduct](./business/Code_of_Conduct.md)
-- [Dress Code](./business/Dress_Code.md)
+- [Service Agreement](./business/Service_Agreement.md)
 - [Payment Processing](./business/Payment-Processing.md)
 - [Online Payment Methods](./business/Online-Payment-Methods.md)
 - [In-Shop PC Check-Out & Payments](./business/In-Shop-PC-Check-Out-Payments.md)
 - [Parking Guidelines & Laws](./business/Parking-Guidelines-Laws.md)
 - [Upselling Guide](./business/Upselling.md)
-- [Disputes](./business/Disputes.md)
-- [NDA (Non-Disclosure Agreement)](./business/NDA.md)
-- [NCA (Non-Compete Agreement)](./business/NCA.md)
 - [IT Disaster Plan - Template](https://github.com/Pnwcomputers/Technical-Support-DR-Template) *(example template repository)*
+- **External Blog Resource:** [Preventative Maintenance Isn't Optional](https://pnwcomputers.blogspot.com/search/label/maintenance)
 - **External Blog Resource:** [Social Media Marketing for Small Business](https://pnwcomputers.blogspot.com/)
 
 ### 📋 Policies & Disclaimers
@@ -174,8 +170,16 @@ A centralized knowledge base for IT professionals providing:
 - [Our Service Guarantee](./policies/Our-Service-Guarantee.md)
 - [General Disclaimers](./policies/Disclaimers.md)
 - [3rd Party Software Support Disclaimer](./policies/3rd-Party-Software-Support-Disclaimer.md)
+- [Employee Information](./faq/Employee-Information.md)
+- [Code of Conduct](./business/Code_of_Conduct.md)
+- [Dress Code](./business/Dress_Code.md)
 - [Tardiness Policy](./policies/Tardiness.md)
-- **External Blog Resource:** [Preventative Maintenance Isn't Optional](https://pnwcomputers.blogspot.com/search/label/maintenance)
+- [NDA (Non-Disclosure Agreement)](./business/NDA.md)
+- [NCA (Non-Compete Agreement)](./business/NCA.md)
+- [Dispute Resolution](./business/Disputes.md)
+
+
+
 
 ---
 
