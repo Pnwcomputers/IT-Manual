@@ -76,17 +76,23 @@ A centralized knowledge base for IT professionals providing:
 ### 🍎 Mac/Apple
 - [Apple ID Login Troubleshooting](./mac/Apple-ID-Login-Troubleshooting.md)
 - [Mac Computer Start-up Repairs](./mac/Mac-Computer-Start-up-Repairs.md)
+- [Mac/Apple - System Log Diagnostics](./diagnostics/Mac-Apple-System-Log-Diagnostics.md)
 - [Mac System Clean-Up - MBAM Free & Onyx](./mac/Mac-System-Clean-Up-MBAM-Free-Onyx.md)
 - [Mac/Apple System Log Diagnostics](./mac/Mac-Apple-System-Log-Diagnostics.md)
 - [Mac MS Office Troubleshooting](./mac/Mac-MS-Office-Troubleshooting.md)
 - [Mac Outlook Troubleshooting](./mac/Mac-Outlook-Troubleshooting.md)
 - [Data Backup/Restore (Mac)](./mac/Data-Backup-Restore-Mac.md)
 - [New Printer Setup (Mac)](./mac/New-Printer-Setup-Mac.md)
+- [Printer Installation (OSX)](./printers/Printer-Installation-OSX.md)
 - [Printer Troubleshooting (OSX)](./mac/Printer-Troubleshooting-OSX.md)
 - **External Blog Resource:** [How to Clean Up a Slow Mac](https://pnwcomputers.blogspot.com/search/label/clean%20my%20pc)
+- **External Blog Resource:** [Recommended Mac Apps, Programs & Utilities](https://pnwcomputers.blogspot.com/2018/10/our-favorite-imac-and-macbookpro-apps.html)
+- **External Blog Resource:** [*OLDER* Recommended Mac Apps, Programs & Utilities](https://pnwcomputers.blogspot.com/2015/04/pnw-computers-favorite-mac-apps.html)
+- **External Blog Resource:** [Calibrate Your Mac's Battery](https://pnwcomputers.blogspot.com/2022/02/calibrating-power-management-system-of.html)
 
 ### 🖨️ Printers
 - [Printer/New Printer Setup (PC & Mac)](./printers/Printer-New-Printer-Setup-PC-Mac.md)
+- [New Printer Setup (Mac)](./mac/New-Printer-Setup-Mac.md)
 - [Printer Installation (OSX)](./printers/Printer-Installation-OSX.md)
 - [Printer Troubleshooting Windows OS](./printers/Printer-Troubleshooting-Windows-OS.md)
 - [Printer Troubleshooting (OSX)](./printers/Printer-Troubleshooting-OSX.md)
@@ -99,7 +105,8 @@ A centralized knowledge base for IT professionals providing:
 - [Software to Remove if Found](./software/Software-to-Remove-if-Found.md)
 - [Software Download & Reinstall](./diagnostics/Software-Download-Reinstall.md)
 - [Find MS Office Product/License Key](./software/Find-MS-Office-Product-License-Key.md)
-- **External Blog Resource:** [Recommended PC Apps, Programs & Utilities](https://pnwcomputers.blogspot.com/)
+- **External Blog Resource:** [Recommended PC Apps, Programs & Utilities](https://pnwcomputers.blogspot.com/2022/10/recommended-pc-apps-programs-tools.html)
+- **External Blog Resource:** [Recommended Mac Apps, Programs & Utilities](https://pnwcomputers.blogspot.com/2018/10/our-favorite-imac-and-macbookpro-apps.html)
 - **External Blog Resource:** [OneDrive for Business Troubleshooting](https://pnwcomputers.blogspot.com/search/label/file%20sharing)
 
 ### 🔐 Security
