@@ -70,6 +70,7 @@ A centralized knowledge base for IT professionals providing:
 - [Setting Network Location (Private/Public)](./windows/Setting-Network-Location-Private-Public-Windows-10-11.md)
 - [Diagnostic Websites & Assistance](./windows/Websites-Diagnostics-Assistance.md)
 - [Microsoft Outlook Troubleshooting](./software/Microsoft-Outlook-Troubleshooting.md)
+- **External Blog Resource:** [OneDrive for Business Troubleshooting](https://pnwcomputers.blogspot.com/search/label/file%20sharing)
 - **External Blog Resource:** [Windows 10 ESU Program: Free & Paid Options](https://pnwcomputers.blogspot.com/)
 - **External Blog Resource:** [Windows 10 & 11: Security Policies Block Unauthenticated](https://pnwcomputers.blogspot.com/search/label/windows)
 
@@ -101,13 +102,13 @@ A centralized knowledge base for IT professionals providing:
 - **External Blog Resource:** [Printer Driver Downloads & Support Sites](https://pnwcomputers.blogspot.com/search/label/Brother%20printer%20support)
 
 ### 💻 Software
-- [Software We Install & Use](./software/Software-We-Install-Use.md)
+- [Software We Install, Use & Recommend](./software/Software-We-Install-Use.md)
 - [Software to Remove if Found](./software/Software-to-Remove-if-Found.md)
-- [Software Download & Reinstall](./diagnostics/Software-Download-Reinstall.md)
+- [Software You May Need to Download & Reinstall For a Client](./diagnostics/Software-Download-Reinstall.md)
 - [Find MS Office Product/License Key](./software/Find-MS-Office-Product-License-Key.md)
+- **External Blog Resource:** [Links & Recommended Software](https://pnwcomputers.blogspot.com/)
 - **External Blog Resource:** [Recommended PC Apps, Programs & Utilities](https://pnwcomputers.blogspot.com/2022/10/recommended-pc-apps-programs-tools.html)
 - **External Blog Resource:** [Recommended Mac Apps, Programs & Utilities](https://pnwcomputers.blogspot.com/2018/10/our-favorite-imac-and-macbookpro-apps.html)
-- **External Blog Resource:** [OneDrive for Business Troubleshooting](https://pnwcomputers.blogspot.com/search/label/file%20sharing)
 
 ### 🔐 Security
 - [Check for Malware and Adware](./security/Check-for-Malware-and-Adware.md)
@@ -136,6 +137,7 @@ A centralized knowledge base for IT professionals providing:
 - [New PC Setup/Migration Checklist](./setup-migration/New-PC-Setup-Migration-Checklist.md)
 - [New Computer Set-up (Detailed)](./setup-migration/New-Computer-Set-up-Detailed.md)
 - [New PC Client To-Do List](./setup-migration/New-PC-Client-To-Do-List.md)
+- [Software You May Need to Download & Reinstall](./diagnostics/Software-Download-Reinstall.md)
 - [Data Backup/Restore (PC)](./setup-migration/Data-Backup-Restore-PC.md)
 - [Email Address Change To-Do List](./setup-migration/Email-Address-Change-To-Do-List.md)
 - [POP to IMAP Email Migration](./setup-migration/POP-to-IMAP-Email-Migration.md)
@@ -150,7 +152,6 @@ A centralized knowledge base for IT professionals providing:
 - ["SystemTester" Sysinternals Testing/Diagnotics Utility](https://github.com/Pnwcomputers/SystemTester) *(example open-source toolkit)*
 - **External Blog Resource:** [Snappy Driver Installer Origin (SDIO)](https://pnwcomputers.blogspot.com/search/label/portable-tools)
 - **External Blog Resource:** [Hardware Testing & Diagnostic Tools](https://pnwcomputers.blogspot.com/search/label/Cinebench)
-- **External Blog Resource:** [Links & Recommended Software](https://pnwcomputers.blogspot.com/)
 
 ### 📝 Templates & Forms
 - [Communication Guidelines](./templates/Communication.md)
@@ -184,9 +185,6 @@ A centralized knowledge base for IT professionals providing:
 - [NDA (Non-Disclosure Agreement)](./business/NDA.md)
 - [NCA (Non-Compete Agreement)](./business/NCA.md)
 - [Dispute Resolution](./business/Disputes.md)
-
-
-
 
 ---
 
