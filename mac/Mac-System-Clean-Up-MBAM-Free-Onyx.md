@@ -8,7 +8,7 @@ To keep your Mac running smoothly, you can use **Malwarebytes Free** for malware
 
 Malwarebytes is excellent for detecting and removing adware, PUPs (Potentially Unwanted Programs), and general malware.
 
-1.  **Install Malwarebytes Free:** - https://www.malwarebytes.com/mac
+1.  **Install Malwarebytes Free:**
     * Download [Malwarebytes Free for Mac](https://www.malwarebytes.com/mac) from the official website.
     * Open the `.dmg` file and install it by dragging it into the **Applications** folder.
 2.  **Run a Malware Scan:**
