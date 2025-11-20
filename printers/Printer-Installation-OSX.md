@@ -36,7 +36,7 @@ Download and install any needed printer drivers/software from the official manuf
     * **USB Printer:** Your printer should appear automatically—select it and click **Add**.
     * **Wireless or Network Printer:** Select your printer from the list (AirPrint-supported printers appear automatically).
     * **If not listed, click IP,** enter the printer’s **IP address**, and choose the appropriate driver.
-4.  **Install Printer Drivers & Software:** macOS may install drivers automatically. If not, download the latest drivers from the [manufacturer’s website.]](https://pnwcomputers.blogspot.com/2025/05/official-printer-scanner-driver.html)
+4.  **Install Printer Drivers & Software:** macOS may install drivers automatically. If not, download the latest drivers from the [manufacturer’s website.](https://pnwcomputers.blogspot.com/2025/05/official-printer-scanner-driver.html)
 5.  After adding the printer, set it as default if needed.
 
 ---
