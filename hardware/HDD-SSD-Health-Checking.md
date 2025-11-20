@@ -51,7 +51,7 @@ Disk Utility is the native macOS tool for managing and diagnosing drives.
     * **"Failing"** $\rightarrow$ The drive is in poor condition and should be replaced soon.
 4.  **Run First Aid:** Click **First Aid** in the top menu, then click **Run** to check for file system errors and attempt repairs.
 
-### 2. SMART Utility via Terminal (Built-in)
+### 2. [SMART Utility via Terminal](https://www.liquidweb.com/blog/smartctl-utility-in-smartmontools-for-linux/) (Built-in)
 
 You can check the basic SMART status directly using the Terminal application.
 
