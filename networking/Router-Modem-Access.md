@@ -59,3 +59,8 @@ After making changes, **save settings** and **reboot the router** if prompted.
 | **TP-Link** | `192.168.0.1` / `192.168.1.1` | `admin` | `admin` |
 | **Ubiquiti (UniFi)** | `192.168.1.1` | `ubnt` | `ubnt` |
 | **ZyXEL** | `192.168.1.1` | `admin` | `1234` |
+
+---
+
+# Security and Ethical Considerations ⚠️
+### IMPORTANT: This information is for *authorized* use **only**. Unauthorized access to network OR network devices is illegal.
