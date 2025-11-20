@@ -71,3 +71,4 @@ This guide covers systematic steps to diagnose and fix connectivity, driver, and
 
 * **Reset to Factory Settings:** As a last resort, reset the printer to factory settings via the printer’s control panel (reset or restore menu) and reconfigure it.
 * **Contact Support:** If no steps resolve the issue, contact the printer manufacturer’s support.
+* **Reinstall or Update [Printer Drivers and/or Software](https://pnwcomputers.blogspot.com/2025/05/official-printer-scanner-driver.html).
