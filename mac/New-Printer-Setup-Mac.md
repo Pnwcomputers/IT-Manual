@@ -50,4 +50,4 @@ Download and install any needed printer drivers/software from the official manuf
 
 * **Printer Not Showing Up?** Restart your Mac and the printer. Check if the printer is on the same network as the Mac.
 * **Printer Offline?** Go to **System Settings -> Printers & Scanners**, select your printer, and click **Resume**.
-* **Need Manufacturer Software?** Download drivers from HP, Canon, Brother, Epson, etc., official websites.
+* **Need Manufacturer Software?** [Click here to download drivers DIRECTLY from manufacturers such as HP, Canon, Brother, Epson, etc., from their official websites.](https://pnwcomputers.blogspot.com/2025/05/official-printer-scanner-driver.html)
