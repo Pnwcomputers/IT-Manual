@@ -12,7 +12,7 @@ Booting a system using a USB bootable drive involves creating the drive and then
     * **Windows:** Download the ISO from Microsoft's official website.
     * **Linux:** Download the ISO from the respective distribution's website.
 2.  **Download and Install Rufus:**
-    * Download Rufus from `https://rufus.ie/`.
+    * Download [Rufus](https://rufus.ie/) from `https://rufus.ie/`.
     * Install and run Rufus.
 3.  **Create the Bootable USB Drive:**
     * Insert a USB drive (at least **$8\text{GB}$**).
