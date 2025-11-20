@@ -1,10 +1,10 @@
-# 🧹 Clean-up Temp & Junk Data: Windows [(BleachBit)](https://www.bleachbit.org/) & Mac (OnyX) Guide
+# 🧹 Clean-up Temp & Junk Data: Windows (BleachBit) & Mac (OnyX) Guide
 
 This guide details the use of two essential, free tools for technicians to perform deep cleaning and system maintenance on both Windows and macOS systems.
 
 ---
 
-## I. Windows: Junk File Clean-up - BleachBit (Windows 10/11)
+## I. Windows: Junk File Clean-up - [BleachBit](https://www.bleachbit.org/) (Windows 10/11)
 
 **BleachBit** is a free, open-source application used to quickly clean system junk, temporary files, and application caches on Windows.
 
