@@ -12,7 +12,7 @@ The **Target drive MUST be the same size as, or larger than, the Source drive!**
 This method requires no computer connection for the cloning process.
 
 ### ✅ What You Need
-* A disk cloning dock (e.g., Sabrent EC-HD2B).
+* A disk cloning dock (e.g., [Sabrent EC-HD2B](https://sabrent.com/products/ec-hd2b?srsltid=AfmBOorrSIe5MYXaIG5UJhbgKDaEhtgKsW248R3xFiSnWxuiB7remy2T)).
 * **Source drive** (with data to clone).
 * **Target drive** (equal to or larger than the source drive).
 
