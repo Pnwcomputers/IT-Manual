@@ -32,7 +32,7 @@ This method requires no computer connection for the cloning process.
 
 ## Option 2: Using Clonezilla (Software-Based Cloning)
 
-Clonezilla is a free, open-source utility ideal for advanced users.
+[Clonezilla](https://clonezilla.org/) is a free, open-source utility ideal for advanced users.
 
 ### ✅ What You Need
 * A **USB drive ($\text{min } 2\text{GB}$)** with Clonezilla Live installed (created via Rufus or BalenaEtcher).
