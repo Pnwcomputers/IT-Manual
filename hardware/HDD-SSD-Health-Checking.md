@@ -38,7 +38,7 @@ Use dedicated third-party software to check SSD and HDD health stats and **SMART
 
 ## 🍏 Mac HDD/SSD Health Checking
 
-### 1. Disk Utility (Built-in macOS Tool)
+### 1. [Disk Utility](https://support.apple.com/guide/disk-utility/welcome/mac) (Built-in macOS Tool)
 
 Disk Utility is the native macOS tool for managing and diagnosing drives.
 
