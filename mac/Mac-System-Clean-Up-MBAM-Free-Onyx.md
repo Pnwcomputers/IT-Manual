@@ -8,8 +8,8 @@ To keep your Mac running smoothly, you can use **Malwarebytes Free** for malware
 
 Malwarebytes is excellent for detecting and removing adware, PUPs (Potentially Unwanted Programs), and general malware.
 
-1.  **Install Malwarebytes Free:**
-    * Download Malwarebytes Free from the official website.
+1.  **Install Malwarebytes Free:** - https://www.malwarebytes.com/mac
+    * Download [Malwarebytes Free for Mac](https://www.malwarebytes.com/mac) from the official website.
     * Open the `.dmg` file and install it by dragging it into the **Applications** folder.
 2.  **Run a Malware Scan:**
     * Open **Malwarebytes** and click **"Scan"**.
@@ -22,8 +22,8 @@ Malwarebytes is excellent for detecting and removing adware, PUPs (Potentially U
 
 OnyX is a powerful Mac maintenance tool that can clear caches, logs, and optimize performance.
 
-1.  **Install OnyX:**
-    * Download **OnyX** from the Titanium Software website.
+1.  **Install [OnyX](https://www.titanium-software.fr/en/onyx.html):**
+    * Download **OnyX** from the Titanium Software website - www.titanium-software.fr/en/onyx.html
     * **Crucial:** Make sure to get the version that **matches your macOS version**.
     * Open the `.dmg` file and move OnyX to the **Applications** folder.
 2.  **Grant OnyX Permissions:**
