@@ -33,14 +33,14 @@ These applications offer live monitoring and control beyond the native tools.
 
 | Tool | Type | Key Functionality | Notes |
 | :--- | :--- | :--- | :--- |
-| **iStat Menus** | Freemium | **Best for Live Monitoring.** Shows CPU/GPU usage, temperatures, fan speeds, RAM usage, and more. | Powerful system monitor. |
-| **Intel Power Gadget** | Free | Monitors CPU frequency, temperature, and power usage. | **Only works on Intel Macs.** |
-| **Macs Fan Control** | Free | Monitors and controls fan speeds, CPU/GPU temperatures, and sensor data. | Useful for managing heat and noise. |
+| [**iStat Menus**](https://bjango.com/mac/istatmenus/) | Freemium | **Best for Live Monitoring.** Shows CPU/GPU usage, temperatures, fan speeds, RAM usage, and more. | Powerful system monitor. |
+| [**Intel Power Gadget**](https://intel-power-gadget.macupdate.com/) | Free | Monitors CPU frequency, temperature, and power usage. | **Only works on Intel Macs.** |
+| [**Macs Fan Control**](https://crystalidea.com/macs-fan-control) | Free | Monitors and controls fan speeds, CPU/GPU temperatures, and sensor data. | Useful for managing heat and noise. |
 
 ---
 
 ### 3. Open Source Alternatives
 
-* **MacCPUID:** Provides **Detailed CPU info**.
-* **XRG:** Free and open-source system monitor with CPU, RAM, network, and battery statistics.
-* **Stats:** Open-source system monitor for macOS.
+* [**MacCPUID:**](https://macdownload.informer.com/maccpuid/) Provides **Detailed CPU info**.
+* [**XRG:**](https://xrg.com/en) Free and open-source system monitor with CPU, RAM, network, and battery statistics.
+* [**Stats:**](https://mac-stats.com/) Open-source system monitor for macOS.
