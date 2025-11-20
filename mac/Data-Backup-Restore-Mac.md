@@ -4,7 +4,7 @@ This section covers essential methods for backing up and restoring data on macOS
 
 ---
 
-## Time Machine (Local Backup)
+## [Time Machine](https://support.apple.com/en-us/104984) (Local Backup)
 
 **Time Machine** is the built-in backup feature of macOS that works with an external drive (HDD/SSD) connected to your Mac.
 
@@ -21,4 +21,8 @@ Online (cloud-based) backup services provide off-site data protection, which is 
 * **Physical Theft or Fire:** Local backups (like Time Machine) are vulnerable if kept near the computer.
 * **Ransomware:** Cloud backups are typically isolated from your active computer, meaning ransomware cannot encrypt the remote backups, providing a clean recovery point.
 
-**Recommendation:** Utilize a service (like Backblaze, Carbonite, or similar) to complement your Time Machine backup, adhering to the **3-2-1 backup rule** (3 copies of data, on 2 different media types, with 1 copy off-site).
+### For general cloud backup, we personally use and recommend:
+* [**Backblaze**](https://www.backblaze.com/) - www.backblaze.com
+
+**Recommendation:**
+* To complement your Time Machine, or *ANY* kind of local backup, we **HIGHLY** advise adhering to the [**3-2-1 backup rule**](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/); 3 copies of data, on 2 different media types, with 1 copy off-site!!
