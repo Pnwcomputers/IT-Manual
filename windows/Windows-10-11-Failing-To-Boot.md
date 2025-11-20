@@ -4,7 +4,7 @@ This guide provides a structured, tiered approach for technicians to diagnose an
 
 ---
 
-## I. Initial Hardware & Power Checks (Tier 1)
+## I. Initial Hardware & Power Checks (Start Here)
 
 **Objective:** Rule out simple physical and power-related issues before focusing on the OS.
 
@@ -23,8 +23,7 @@ This guide provides a structured, tiered approach for technicians to diagnose an
 
 ---
 
-## II. BIOS/UEFI Configuration & Boot Order (Tier 2)
-
+## II. BIOS/UEFI Configuration & Boot Order
 **Objective:** Ensure the system is attempting to boot from the correct device.
 
 * **2.1 Access BIOS/UEFI:**
@@ -39,7 +38,7 @@ This guide provides a structured, tiered approach for technicians to diagnose an
 
 ---
 
-## III. Windows Recovery Environment (WinRE) (Tier 3)
+## III. Windows Recovery Environment (WinRE)
 
 **Objective:** Utilize built-in Windows tools to repair OS files, configuration data, and boot sectors. This requires a **Windows Installation/Recovery Media USB/DVD**.
 
@@ -56,7 +55,7 @@ This guide provides a structured, tiered approach for technicians to diagnose an
 
 ---
 
-## IV. Advanced Command Prompt Recovery (Tier 4)
+## IV. Advanced Command Prompt Recovery
 
 **Objective:** Manually repair critical boot components (MBR, Boot Sector, BCD) and check for system file/disk corruption.
 
@@ -85,7 +84,7 @@ This guide provides a structured, tiered approach for technicians to diagnose an
 
 ---
 
-## V. Data Recovery and Reinstallation (Tier 5)
+## V. Data Recovery and Reinstallation (Last Resort)
 
 **Objective:** If all repairs fail, prioritize data preservation before attempting a full OS reset or clean install.
 
