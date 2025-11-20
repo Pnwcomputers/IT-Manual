@@ -59,7 +59,7 @@ Comcast/Xfinity Fiber service is typically limited to specific properties (like 
   
 ---
 
-## 🌐 Ziply Fiber (Fiber & DSL)
+## [Ziply Fiber (Fiber & DSL) 🌐)](https://ziplyfiber.com/helpcenter/categories/internet/installation-setup/self-installation)
 
 Ziply Fiber uses an **Optical Network Terminal (ONT)** for fiber service or a direct DSL connection, and then connects to your router/gateway.
 
@@ -73,7 +73,7 @@ Ziply Fiber uses an **Optical Network Terminal (ONT)** for fiber service or a di
 
 ---
 
-## ⚛️ Quantum Fiber
+## [Quantum Fiber ⚛️](https://www.quantumfiber.com/support/equipment/user-guides/gui-settings.html)
 
 Quantum Fiber (formerly CenturyLink Fiber) typically installs a **SmartNID** device, or, in some cases, the fiber connects directly to the gateway/modem. You'll primarily use their mobile app or a web interface for setup.
 
