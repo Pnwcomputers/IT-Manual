@@ -65,7 +65,7 @@ The password is NOT displayed in plain text, but server settings can be found:
 
 ---
 
-## ⚠️ Using MailPassView or Similar Tools
+## ⚠️ Using [MailPassView](https://www.nirsoft.net/utils/mailpv.html) or Similar Tools
 
 Tools like MailPassView (from NirSoft) can extract email account information (including passwords) from clients like Outlook and Thunderbird, but they come with **Important Considerations**:
 
@@ -73,7 +73,7 @@ Tools like MailPassView (from NirSoft) can extract email account information (in
 * **Alternative Approach (Recommended):** Attempt to retrieve credentials using the **built-in system tools (Credential Manager / Keychain Access)** first.
 
 ### MailPassView Usage (If client consents)
-1.  **Download and Use:** Download from the official NirSoft website. The tool typically runs without installation.
+1.  **Download and Use:** [Download](https://www.nirsoft.net/utils/mailpv.html) from the official NirSoft website. The tool typically runs without installation.
 2.  **Precautions:**
     * You may need to **temporarily disable antivirus software** as it might block the tool.
     * **After usage, delete the tool** to avoid unnecessary risk.
