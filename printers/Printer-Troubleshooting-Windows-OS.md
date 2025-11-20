@@ -1,5 +1,3 @@
-I've combined the detailed, repetitive content into one comprehensive Markdown guide for printer troubleshooting.
-
 # 🖨️ Printer Troubleshooting Guide
 
 This guide covers systematic steps to diagnose and fix connectivity, driver, and network-related issues for both wired and wireless printers.
