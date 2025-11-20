@@ -62,5 +62,5 @@ After making changes, **save settings** and **reboot the router** if prompted.
 
 ---
 
-# Security and Ethical Considerations ⚠️
-### IMPORTANT: This information is for *authorized* use **only**. Unauthorized access to network OR network devices is illegal.
+# Legality & Ethics ⚠️
+### IMPORTANT: This information is for *authorized* use **only**. Unauthorized access to networks OR network devices is illegal.
