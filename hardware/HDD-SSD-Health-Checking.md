@@ -25,8 +25,8 @@ This guide provides methods and tools for diagnosing the health and integrity of
 
 Use dedicated third-party software to check SSD and HDD health stats and **SMART** (Self-Monitoring, Analysis, and Reporting Technology) information:
 
-* **CrystalDiskInfo**
-* **GSmartControl**
+* [**CrystalDiskInfo**](https://crystalmark.info/en/software/crystaldiskinfo/)
+* [**GSmartControl**](https://gsmartcontrol.shaduri.dev/downloads)
 
 #### Key SMART Attributes to Look For:
 
@@ -66,6 +66,6 @@ You can check the basic SMART status directly using the Terminal application.
 
 | Tool | Type | Key Features | Notes |
 | :--- | :--- | :--- | :--- |
-| **DriveDx** | Free Trial (Paid Full) | **Best Mac monitor.** Detailed SMART attributes, failure prediction, works with internal and external drives. | `https://binaryfruit.com/drivedx` |
-| **SMARTReporter** | Free | Monitors SMART status from the menu bar and alerts you before a potential failure. | `https://www.corecode.io/smartreporter/` |
-| **Blackmagic Disk Speed Test** | Free | **Performance Testing.** Checks read/write speeds, which can indicate drive degradation. | Download from the Mac App Store. |
+| [**DriveDx**](https://binaryfruit.com/drivedx) | Free Trial (Paid Full) | **Best Mac monitor.** Detailed SMART attributes, failure prediction, works with internal and external drives. | `https://binaryfruit.com/drivedx` |
+| [**SMARTReporter**](https://www.corecode.io/smartreporter/) | Free | Monitors SMART status from the menu bar and alerts you before a potential failure. | `https://www.corecode.io/smartreporter/` |
+| [**Blackmagic Disk Speed Test**](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) | Free | **Performance Testing.** Checks read/write speeds, which can indicate drive degradation. | Download from the Mac App Store. |
