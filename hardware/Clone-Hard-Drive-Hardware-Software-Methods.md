@@ -52,7 +52,7 @@ This method requires no computer connection for the cloning process.
 
 ## Option 3: Using Macrium Reflect (Windows-Based Cloning)
 
-Macrium Reflect Free is a reliable tool for cloning and imaging within Windows.
+[Macrium Reflect Free](https://www.majorgeeks.com/files/details/macrium_reflect_free_edition.html) is a reliable tool for cloning and imaging within Windows.
 
 ### ✅ What You Need
 * A Windows PC with both **source and target drives connected**.
