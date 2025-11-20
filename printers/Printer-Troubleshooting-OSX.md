@@ -37,7 +37,7 @@ If your printer isn't working properly with your Mac, use these steps to diagnos
 
 ### Update and Re-Add
 * **Update macOS:** $\text{Apple menu} (\text{}) \rightarrow \text{System Settings} \rightarrow \text{Software Update}$.
-* **Update Drivers:** Download the **latest drivers** from the printer manufacturer’s website (especially for scanning).
+* [**Update Drivers:**](https://pnwcomputers.blogspot.com/2025/05/official-printer-scanner-driver.html) Download the **latest drivers** from the printer manufacturer’s website (especially for scanning).
 * **Remove and Re-Add:**
     1.  Go to **System Settings $\rightarrow$ Printers \& Scanners**.
     2.  Select the printer and click the **( - )** button to remove it.
@@ -48,6 +48,7 @@ If your printer isn't working properly with your Mac, use these steps to diagnos
 2.  **Right-click (or Control + Click)** anywhere in the printer list.
 3.  Select **"Reset printing system…"**.
 4.  Restart your Mac and re-add the printer.
+5.  Reinstall or update [printer drivers/software](https://pnwcomputers.blogspot.com/2025/05/official-printer-scanner-driver.html) if/as needed.
 
 ---
 
@@ -72,3 +73,4 @@ If your printer isn't working properly with your Mac, use these steps to diagnos
 ### Reset Printer to Factory Settings (Last Resort)
 * Refer to the printer’s manual for reset instructions.
 * **Reset the printer**, then reconnect it to the Wi-Fi network and re-add it to the Mac.
+* **Reinstall or update [printer drivers and/or software](https://pnwcomputers.blogspot.com/2025/05/official-printer-scanner-driver.html).
