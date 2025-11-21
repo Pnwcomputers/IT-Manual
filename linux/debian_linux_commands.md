@@ -1,4 +1,4 @@
-# Linux Command Cheat Sheet and Reference 🛠️
+# Debian Bassed Linux Command Cheat Sheet & Reference 🛠️
 
 This document serves as a quick reference for common system administration, networking, and security auditing commands on Debian/Ubuntu-based systems.
 
