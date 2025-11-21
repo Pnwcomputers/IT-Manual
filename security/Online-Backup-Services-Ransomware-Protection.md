@@ -4,6 +4,6 @@ These services offer cloud-based and off-site backup solutions that are essentia
 
 | Service | Key Feature | Link/Notes |
 | :--- | :--- | :--- |
-| **Backblaze** | External Drive Backup Capable | Known for unlimited personal backup, including external drives. |
-| **CrashPlan** | Server Backup | Primarily focused on business and server environment backups. |
-| **IDrive** | NAS Backup Capable | Supports backing up Network Attached Storage (NAS) devices. |
+| [**Backblaze**](https://www.backblaze.com/) | External Drive Backup Capable | Known for unlimited personal backup, including external drives. |
+| [**CrashPlan**](https://www.crashplan.com/) | Server Backup | Primarily focused on business and server environment backups. |
+| [**IDrive**](https://www.idrive.com/) | NAS Backup Capable | Supports backing up Network Attached Storage (NAS) devices. |
