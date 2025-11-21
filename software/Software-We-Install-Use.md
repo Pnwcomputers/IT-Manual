@@ -4,8 +4,8 @@
 
 | Tool | Platform | Description | Link |
 | :--- | :--- | :--- | :--- |
-| **Ninite.com** | PC | Great "update-all-at-once" site that lets you install/update multiple programs without dealing with individual installers, prompts, etc. | - |
-| **MacApps** | Mac | The best alternative to Ninite for Mac. Choose apps for quiet, fast, and easy automatic installation. | - |
+| **Ninite.com** | PC | Great "update-all-at-once" site that lets you install/update multiple programs without dealing with individual installers, prompts, etc. | https://ninite.com/ |
+| **MacApps** | Mac | The best alternative to Ninite for Mac. Choose apps for quiet, fast, and easy automatic installation. | https://macapps.link/ |
 
 ---
 
@@ -20,10 +20,11 @@
 
 | Tool | Description | Link |
 | :--- | :--- | :--- |
-| **TeamViewer** | The main remote support application we use (subscription). We mainly use **TeamViewerQS**. | - |
-| **LogMeIn** | Our go-to remote support solution for companies that need remote support/access for **10 or more** computers. | - |
-| **RealVNC** | A free alternative/solution for **1-2** systems. | - |
-| **AnyDesk** | Used if/as needed. | - |
+| **TeamViewer** | The main remote support application we use (subscription). We mainly use **TeamViewerQS**. | https://www.teamviewer.com/en-us/ |
+| **LogMeIn** | Our go-to remote support solution for companies that need remote support/access for **10 or more** computers. | https://www.logmein.com/ |
+| **RealVNC** | A free alternative/solution for **1-2** systems. | https://www.realvnc.com/en/ |
+| **AnyDesk** | Used if/as needed. | https://anydesk.com/en |
+| **RustDesk** | Open source remote desktop alternavite with self-hosting capabilites. | https://rustdesk.com/ |
 
 ---
 
