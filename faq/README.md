@@ -29,9 +29,3 @@ This section is designed to be highly searchable for rapid problem resolution:
 3.  **Contribute:** If a common question or issue is **not** answered here, please document the solution and submit a Pull Request to expand the FAQ for future reference.
 
 ---
-
-## 📢 Requesting Support
-
-If the solution is not found within this FAQ, please use the official channel for help:
-
-> **Submit a support ticket** via [LINK TO TICKET SYSTEM HERE] or call the Help Desk at [PHONE NUMBER HERE].
