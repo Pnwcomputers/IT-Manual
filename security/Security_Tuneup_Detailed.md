@@ -1,4 +1,5 @@
-# Security Tune-up/Clean-up (Detailed)
+# Windows Security Tune-up/Clean-up (Detailed)
+### [Mac Security Check-up & System Clean-up Instructions](mac/Mac-System-Clean-Up-MBAM-Free-Onyx.md)
 
 **General Instructions:**
 
@@ -31,15 +32,22 @@ Use **Ninite.com** for installing most apps on the Security Clean-up Software Li
 
 ## Security Scanning & Virus/Malware Removal
 
-### 1. Virus and Malware Scanning
+### 1. Run Windows Malicious Software Removal Tool (MRT)
+
+* Run the built-in **Microsoft Malicious Software Removal Tool (MRT)** to catch common, widespread malware.
+    * Access MRT by pressing **Windows Key + R**, typing `mrt`, and hitting **Enter**.
+    * Choose the **Full Scan** option.
+
+### 2. Virus and Malware Scanning
 
 * Run full Virus Scans with **Local AV** as well as **Malwarebytes** and **ADW Cleaner**.
+    * **Malwarebytes Configuration:** Before running the Malwarebytes scan, go into its settings and **enable the rootkit scanning option**. Then run the full scan.
     * *ADWCleaner Download Link:* `https://adwcleaner.malwarebytes.com/adwcleaner?channel=release`
 * Take note of any/all detections found and also the number of detections found.
     * Note any specifics on any malware/virus files found, and copy the data if wanted/needed for further research.
     * If any banking viruses, key-loggers, data miners, etc. are found, **let the client know IMMEDIATELY** and advise that any compromised accounts need to have their log information updated/changed.
 
-### 2. Web Browser Clean-up
+### 3. Web Browser Clean-up
 
 * Check all Installed Web Browsers’ **Extensions/Add-ons** for anything unwanted/needed.
 * Check the general browser settings (**Start Page, Default Search Engine, Etc.**) for any tampering or modifications and **reset to defaults if needed.**
