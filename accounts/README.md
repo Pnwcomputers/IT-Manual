@@ -39,6 +39,3 @@ We welcome contributions to keep these procedures current, accurate, and aligned
 * New documentation should cover a complete process (e.g., start-to-finish account creation) and be placed in a clearly named markdown file.
 
 ---
-
-[How to create your first GitHub repository: A beginner's guide | Tutorial](https://www.youtube.com/watch?v=-RZ03WHqkaY)
-This video is relevant as it provides a tutorial on creating a GitHub repository, which is the foundational step for structuring and sharing documentation like this IT manual.
