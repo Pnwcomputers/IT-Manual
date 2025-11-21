@@ -1,5 +1,5 @@
 # Windows Security Tune-up/Clean-up (Detailed)
-### [Mac Security Check-up & System Clean-up Instructions](mac/Mac-System-Clean-Up-MBAM-Free-Onyx.md)
+### [Mac Security Check-up & System Clean-up Instructions](https://github.com/Pnwcomputers/IT-Manual/blob/main/mac/Mac-System-Clean-Up-MBAM-Free-Onyx.md)
 
 **General Instructions:**
 
