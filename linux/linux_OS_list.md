@@ -40,7 +40,11 @@ These are the industry standards for mission-critical servers, cloud environment
 | **Red Hat Enterprise Linux (RHEL)** | The leading commercial Linux server platform, known for its extreme stability, security, and extensive support contracts. | `dnf` (RPM-based) | [https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) |
 | **CentOS Stream** | A community-driven, upstream development platform for RHEL. It's the testing ground for RHEL and offers a look at future features. | `dnf` (RPM-based) | [https://www.centos.org/centos-stream/](https://www.centos.org/centos-stream/) |
 
+---
+
 ## Security Oriented Operating Systems
+
+These distributions are optimized for specific use cases like penetration testing, system hardening, reverse engineering, malware assessment, OSINT, etc.
 
 | Distribution | Link |
 | :--- | :--- |
