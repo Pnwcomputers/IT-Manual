@@ -95,48 +95,48 @@
 | Tool | Description | Link |
 | :--- | :--- | :--- |
 | **Mac OSX Installation Media** | Download and install current, or previous versions, of Mac OSX operating systems. | [https://support.apple.com/en-us/HT211683](https://support.apple.com/en-us/HT211683) |
-| **Macs Fan Control** | Application for real-time monitoring of fan speeds and temperatures. Helps solve overheating and fan noise problems. | - |
-| **Hot** | A macOS menu bar application that displays the CPU speed limit due to thermal issues. | - |
-| **Stats** | Mac OS system monitoring software. | - |
-| **Onyx** | A multifunction utility used to verify system file structure; run maintenance/cleaning tasks; configure Finder, Dock, Safari parameters; delete caches; rebuild databases, and more. | - |
-| **Mac Cleaner Pro** | Professional tools for Mac cleanup. Keep your Mac always fast, clean, and organized! | - |
-| **GmsartControl** | Graphical user interface for `smartctl` to query and control SMART data on hard disk and solid-state drives. | - |
-| **DriveDX** | Advanced hard drive health diagnostics, drive health monitoring, and hard drive health testing software. | - |
-| **Disk Inventory X** | A disk usage utility for Mac OS X that shows the sizes of files and folders using a "treemaps" graphical view. | - |
-| **coconutBattery** | Shows live information about your battery health, charge cycles, and current maximum capacity in relation to the original capacity. | - |
+| **Macs Fan Control** | Application for real-time monitoring of fan speeds and temperatures. Helps solve overheating and fan noise problems. | https://crystalidea.com/macs-fan-control |
+| **Hot** | A macOS menu bar application that displays the CPU speed limit due to thermal issues. | https://hot.macupdate.com/ |
+| **Stats** | Mac OS system monitoring software. | https://mac-stats.com/ |
+| **Onyx** | A multifunction utility used to verify system file structure; run maintenance/cleaning tasks; configure Finder, Dock, Safari parameters; delete caches; rebuild databases, and more. | https://www.titanium-software.fr/en/onyx.html |
+| **Mac Cleaner Pro** | Professional tools for Mac cleanup. Keep your Mac always fast, clean, and organized! | https://nektony.com/mac-cleaner-pro?srsltid=AfmBOoowXj9MxGxH07ec4zTA0-sNbVnYl7aEC_q9DBQ29dH4SzttXjaw |
+| **GmsartControl** | Graphical user interface for `smartctl` to query and control SMART data on hard disk and solid-state drives. | https://gsmartcontrol.shaduri.dev/downloads |
+| **DriveDX** | Advanced hard drive health diagnostics, drive health monitoring, and hard drive health testing software. | https://binaryfruit.com/drivedx |
+| **Disk Inventory X** | A disk usage utility for Mac OS X that shows the sizes of files and folders using a "treemaps" graphical view. | https://www.derlien.com/ |
+| **coconutBattery** | Shows live information about your battery health, charge cycles, and current maximum capacity in relation to the original capacity. | https://coconut-flavour.com/coconutbattery/ |
 
 ### Security (Mac)
 
 | Tool | Description | Link |
 | :--- | :--- | :--- |
-| **Malwarebytes AntiMalware (MBAM)** | Protection specifically designed to catch malware on Mac without hogging system resources. | - |
-| **ClamXAV** | Provides effective malware protection on a single Mac or an entire network. ClamAV is one of the oldest Unix AntiVirus programs. | - |
-| **Clario** | Modern protection for your Apple Computer and digital identity from viruses, unsecured Wi-Fi, ID theft, or hacking, in real time (100% Detection rate). | - |
+| **Malwarebytes AntiMalware (MBAM)** | Protection specifically designed to catch malware on Mac without hogging system resources. | https://www.malwarebytes.com/mac |
+| **ClamXAV** | Provides effective malware protection on a single Mac or an entire network. ClamAV is one of the oldest Unix AntiVirus programs. | https://www.clamxav.com/ |
+| **Clario** | Modern protection for your Apple Computer and digital identity from viruses, unsecured Wi-Fi, ID theft, or hacking, in real time (100% Detection rate). | https://clario.com/ |
 
 ### General Programs (Mac)
 
 | Tool | Description | Link |
 | :--- | :--- | :--- |
-| **Caffeine** | A tiny menu bar program. Click it to prevent your Mac from automatically going to sleep, dimming the screen, or starting screen savers. | - |
-| **VNC** | Securely access and manage any device, from anywhere! | - |
-| **Sublime Text** | Text editing, done right! | - |
-| **The Unarchiver** | The only app you need to open RAR on Mac. Supports infinitely more archive formats than the native macOS utility. | - |
-| **Keka** | Mac OS file archiver. | - |
-| **PDF Expert** | A uniquely fast, reliable, and easy-to-use PDF software with powerful features in an intuitive interface. | - |
-| **BitWarden** | Secure cloud syncing password manager with regular third-party security audits (GDPR, SOC 2, HIPAA, etc. compliant). | - |
+| **Caffeine** | A tiny menu bar program. Click it to prevent your Mac from automatically going to sleep, dimming the screen, or starting screen savers. | https://www.caffeine-app.net/ |
+| **VNC** | Securely access and manage any device, from anywhere! | https://www.realvnc.com/en/connect/download/viewer/macos/ |
+| **Sublime Text** | Text editing, done right! | https://www.sublimetext.com/ |
+| **The Unarchiver** | The only app you need to open RAR on Mac. Supports infinitely more archive formats than the native macOS utility. | https://theunarchiver.com/ |
+| **Keka** | Mac OS file archiver. | https://www.keka.io/en/ |
+| **PDF Expert** | A uniquely fast, reliable, and easy-to-use PDF software with powerful features in an intuitive interface. | https://pdfexpert.com/ |
+| **BitWarden** | Secure cloud syncing password manager with regular third-party security audits (GDPR, SOC 2, HIPAA, etc. compliant). | https://bitwarden.com/ |
 
 ### Software Removal Tools (Mac)
 
 | Tool | Description | Link |
 | :--- | :--- | :--- |
-| **AppCleaner** | A small application that thoroughly uninstalls unwanted apps by finding and safely deleting all associated files. | - |
-| **TrashMe** | Used to remove junk files and large macOS files (app caches, system updates, log reports, Xcode files) to recover gigabytes of space. | - |
+| **AppCleaner** | A small application that thoroughly uninstalls unwanted apps by finding and safely deleting all associated files. | https://freemacsoft.net/appcleaner/ |
+| **TrashMe** | Used to remove junk files and large macOS files (app caches, system updates, log reports, Xcode files) to recover gigabytes of space. | https://www.jibapps.com/apps/trashme3/ |
 
 ### Web Browsers
 
 | Tool | Description | Link |
 | :--- | :--- | :--- |
-| **Brave Browser** | 3x faster than Chrome. Better protection from Google and Big Tech. Built with privacy in mind. | - |
-| **Vivaldi** | Offers features and add-ons from various browsers with unrivaled customization options and built-in features for better performance, productivity, and privacy. | - |
-| **Choosy** | Prompts you to select from the browsers on your Mac so you can decide which browser is right for a particular link. | - |
-| **OpenIn** | A native application that allows you to choose what happens when you click on a web link or an email link, and even open specific programs for certain file types. | - |
+| **Brave Browser** | 3x faster than Chrome. Better protection from Google and Big Tech. Built with privacy in mind. | https://brave.com/ |
+| **Vivaldi** | Offers features and add-ons from various browsers with unrivaled customization options and built-in features for better performance, productivity, and privacy. | https://vivaldi.com/ |
+| **Choosy (Mac Only)** | Prompts you to select from the browsers on your Mac so you can decide which browser is right for a particular link. | https://choosy.app/ |
+| **OpenIn (Mac Only)** | A native application that allows you to choose what happens when you click on a web link or an email link, and even open specific programs for certain file types. | https://loshadki.app/openin4/ |
