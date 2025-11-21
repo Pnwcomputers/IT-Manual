@@ -1,4 +1,4 @@
-# Arch Linux Command Cheat Sheet and Reference 🛠️
+# Arch-Based Linux Command Cheat Sheet & Reference 🛠️
 
 This document serves as a quick reference for common system administration, networking, and security auditing commands on **Arch Linux** and systems using the **`pacman`** package manager (like Manjaro).
 
