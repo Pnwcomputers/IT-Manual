@@ -44,8 +44,10 @@
 6. **Presentation** - WMV, JPEG, MOV, (media files)
 7. **Application** - HTTP, SMTP, SSH, etc
 
-![OSI Model Layers](../images/osi-model-layers.png)
-*OSI Model 7 Layers diagram*
+*OSI Model 7 Layers diagram:*
+<p align="center">
+  <img src="/images/osi-model-layers.png" width="400" height="600" alt="The OSI Model Layers">
+</p>
 
 ---
 
@@ -121,8 +123,10 @@ Your router acts as a middleman, replacing private IP addresses with its public 
 | 5 | FIN | This packet is used to cleanly (properly) close the connection after it has been complete. |
 | # | RST | This packet abruptly ends all communication. This is the last resort and indicates there was some problem during the process. For example, if the service or application is not working correctly, or the system has faults such as low resources. |
 
-![TCP 3-Way Handshake](../images/tcp-handshake.png)
-*TCP 3-way handshake between Alice and Bob*
+*TCP 3-way handshake between Alice and Bob:*
+<p align="center">
+  <img src="/images/tcp-handshake.png" width="400" height="600" alt="The OSI Model Layers">
+</p>
 
 1. **SYN** - Client: Here's my Initial Sequence Number(ISN) to SYNchronise with (0)
 2. **SYN/ACK** - Server: Here's my Initial Sequence Number (ISN) to SYNchronise with (5,000), and I ACKnowledge your initial number sequence (0)
@@ -141,8 +145,11 @@ Your router acts as a middleman, replacing private IP addresses with its public 
 | Destination Port | This value is the port number that an application or service is running on the remote host (the one receiving the data); for example, a webserver running on port 80. Unlike the source port, this value is not chosen at random. |
 | Data | This header is where data, i.e. bytes of a file that is being transmitted, is stored. |
 
-![UDP Communication](../images/udp-communication.png)
-*UDP request/response between Alice and Bob*
+
+*UDP request/response between Alice and Bob:*
+<p align="center">
+  <img src="/images/udp-communication.png" width="400" height="600" alt="UDP Request and Reponse Example">
+</p>
 
 ---
 
@@ -176,8 +183,10 @@ Your router acts as a middleman, replacing private IP addresses with its public 
 4. The TLD Server directs to the domain's **Authoritative DNS Server** (Nameserver).
 5. The Authoritative Server provides the specific **DNS Record** (A, AAAA, CNAME, etc.) back to the Recursive Server, which caches it (based on **TTL**) and relays it to your computer.
 
-![DNS Request Flow](../images/dns-request-flow.jpg)
-*DNS request process from client through recursive, root, and authoritative servers*
+*DNS request process from client through recursive, root, and authoritative servers:*
+<p align="center">
+  <img src="/images/dns-request-flow.jpg" width="400" height="600" alt="DNS Request Flow">
+</p>
 
 #### DNS Records
 
@@ -399,8 +408,10 @@ Occurs when a website doesn't properly protect (or remove) sensitive clear-text 
 
 A vulnerability where an attacker injects HTML code into a vulnerable website due to a failure to **sanitize** (filter) user input before it is displayed on the page.
 
-![HTML Injection Example](../images/html-injection-example.jpg)
-*Example of HTML injection through a form input*
+*Example of HTML injection through a form input:*
+<p align="center">
+  <img src="/images/html-injection-example.jpg" width="400" height="600" alt="HTML Injection Example">
+</p>
 
 ### Other Components (Infrastructure)
 
@@ -408,8 +419,10 @@ A vulnerability where an attacker injects HTML code into a vulnerable website du
 
 Ensures high traffic websites can handle the load and provides a failover if a server becomes unresponsive. Uses algorithms like **round-robin** or **weighted** to distribute client requests to servers and performs **health checks**.
 
-![Load Balancer Diagram](../images/load-balancer.jpg)
-*Load balancer distributing traffic across multiple servers*
+*Load balancer distributing traffic across multiple servers:*
+<p align="center">
+  <img src="/images/load-balancer.jpg" width="400" height="600" alt="Load Balancer">
+</p>
 
 #### CDN (Content Delivery Networks)
 
@@ -423,8 +436,10 @@ Used by webservers to store and recall information for users. Common types: MySQ
 
 Sits between your web request and the web server to protect the server from attacks. It analyzes requests for common attack techniques, checks for bots, and utilizes **rate limiting**.
 
-![WAF Diagram](../images/waf-diagram.png)
-*Web Application Firewall protecting a web server*
+*Web Application Firewall protecting a web server:*
+<p align="center">
+  <img src="/images/waf-diagram.png" width="400" height="600" alt="Load Balancer">
+</p>
 
 ### HTTP - HyperText Transfer Protocol
 
@@ -486,8 +501,10 @@ An instruction on how to access a resource on the internet.
 
 It's possible to make a request to a web server with just one line **"GET / HTTP/1.1"**
 
-![HTTP Request Method](../images/http-request-method.jpg)
-*Diagram showing HTTP request components*
+*Diagram showing HTTP request components:*
+<p align="center">
+  <img src="/images/http-request-method.jpg" width="400" height="600" alt="HTTP Request Method">
+</p>
 
 #### Example Request:
 ```
@@ -555,8 +572,10 @@ Welcome To TryHackMe.com
 
 Cookies are saved when a client receives a **"Set-Cookie"** header. They are sent back with every further request to help the web server track the user, as HTTP is **stateless**.
 
-![Cookie Example](../images/cookie-example.jpg)
-*Example showing how cookies are set and used across multiple requests*
+*Example showing how cookies are set and used across multiple requests:*
+<p align="center">
+  <img src="/images/cookie-example.jpg" width="400" height="600" alt="Cookie Example">
+</p>
 
 ## Web Servers
 
