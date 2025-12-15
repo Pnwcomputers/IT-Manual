@@ -93,7 +93,7 @@ function findEmailByName(clientName) {
   // MANUAL OVERRIDES (add problem cases here)
   // ============================================
   const manualOverrides = {
-  'name': 'user@user.com'
+  'name': 'user@user.com' // <-Enter email addresses for terms not found by the automated search
   // etc.
 };
   
@@ -202,9 +202,9 @@ function sendFollowUpEmail(email, clientName, appointmentDate, location) {
     'America/Los_Angeles', 
     "EEEE, MMMM dd, yyyy");
   
-  const PHONE = '(888) 888-8888';
-  const EMAIL = 'email@user.com';
-  const FEEDBACK_FORM = 'https://';
+  const PHONE = '(888) 888-8888'; // <-Enter your contact phone number
+  const EMAIL = 'email@user.com'; // <-Enter your contact email
+  const FEEDBACK_FORM = 'https://'; // <-Enter address to any feedbark form(s)
   
   const body = `
 Hello,
