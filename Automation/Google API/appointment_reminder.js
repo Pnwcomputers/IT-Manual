@@ -71,7 +71,7 @@ function shouldSkipEvent(title) {
   const titleLower = title.toLowerCase();
   
   const excludePatterns = [
-    'term one',
+    'term one', // <- Enter terms to exclude
     'term 2',
   ];
   
@@ -83,7 +83,7 @@ function findEmailByName(clientName) {
   // MANUAL OVERRIDES (add problem cases here)
   // ============================================
   const manualOverrides = {
-  'name': 'user@user.com',
+  'name': 'user@user.com', // <- Enter static email address and associated terms
   // etc.
 };
   
@@ -192,8 +192,8 @@ function sendReminderEmail(email, clientName, appointmentTime, location, descrip
     'America/Los_Angeles', 
     "EEEE, MMMM dd, yyyy 'at' h:mm a");
   
-  const PHONE = '(888) 888-8888';
-  const EMAIL = 'email@user.com';
+  const PHONE = '(888) 888-8888'; // <- Enter your phone number
+  const EMAIL = 'email@user.com'; // <- Enter your contact email
   
   const body = `
 Hello,
@@ -209,8 +209,8 @@ Otherwise we will plan to see you then!
 
 Thank you,
 
-Company Name
-Location
+Company Name 
+Location 
 ${PHONE}
 ${EMAIL}
   `.trim();
