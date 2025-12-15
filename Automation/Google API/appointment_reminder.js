@@ -5,10 +5,10 @@
 
 function sendWeeklyAppointmentReminders() {
   // Get specific calendar by name
-  const calendars = CalendarApp.getCalendarsByName('Pacific NW Computers');
+  const calendars = CalendarApp.getCalendarsByName('default');  // <- Enter Calendar Name
   
   if (calendars.length === 0) {
-    Logger.log('ERROR: Calendar "Pacific NW Computers" not found!');
+    Logger.log('ERROR: Calendar "Calendar" not found!');
     Logger.log('Available calendars:');
     CalendarApp.getAllCalendars().forEach(cal => {
       Logger.log(`  - ${cal.getName()}`);
@@ -193,12 +193,12 @@ function sendReminderEmail(email, clientName, appointmentTime, location, descrip
     "EEEE, MMMM dd, yyyy 'at' h:mm a");
   
   const PHONE = '(888) 888-8888';
-  const EMAIL = 'support@user.com';
+  const EMAIL = 'email@user.com';
   
   const body = `
 Hello,
 
-This is a reminder that you have an upcoming appointment with Pacific Northwest Computers:
+This is a reminder that you have an upcoming appointment:
 
 Date & Time: ${formattedTime}
 ${location ? 'Location: ' + location : ''}
