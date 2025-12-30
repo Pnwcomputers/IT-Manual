@@ -1,1 +1,5 @@
 {subject:(re: OR fw: OR fwd:) from:(noreply OR no-reply OR donotreply) "do not reply" "tracking number" "shipment" "delivery" "order confirmation" "invoice" "receipt" "password reset" "verification code" "Support Team" "Customer Service" "unsubscribe" "automated message" "auto-reply" "out of office" ">"}
+
+or
+
+{subject:(re: fw: fwd:) "do not reply" noreply "tracking" "shipment" "delivery" "order" "invoice" "receipt" "password reset" "verification code" "Support Team" "Customer Service" "unsubscribe" "welcome" "getting started" "quickstart" ">"}
