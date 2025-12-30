@@ -1,5 +1,5 @@
 
-# IT Service & Communication Automation Suite
+# IT Service & Communication Automation
 
 This directory contains the automation logic used to streamline the customer lifecycle—from initial inquiry and scheduling to post-service follow-up and financial reporting.
 
