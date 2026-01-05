@@ -73,10 +73,23 @@ Your goal is to provide high-utility, accurate, and concise responses.
 
 ---
 
-## ✅ 5. Final Prompt Health Checklist
+## 📚 5. Prompt Library (Quick-Start Examples)
+
+| Use Case | Prompt Pattern Fragment |
+| :--- | :--- |
+| **Code Refactoring** | "Analyze this code for O(n) efficiency. Rewrite it using standard libraries only. Explain each change." |
+| **Summarization** | "Extract the 5 most important 'Action Items' and 'Key Decisions' from these meeting notes. Format as a table." |
+| **Creative Writing** | "Write a story intro in the style of [Author]. Do not use clichés. Focus on sensory details (smell/touch)." |
+| **Data Extraction** | "Extract all names, dates, and prices from the text below. Return strictly as a valid JSON object." |
+| **Strategic Planning** | "I want to [Goal]. Perform a SWOT analysis and identify the 3 highest-risk blockers to this plan." |
+
+---
+
+## ✅ 6. Final Prompt Health Checklist
 - [ ] **Positive Framing:** Told the AI what *to do* instead of what *not* to do.
 - [ ] **Strong Verbs:** Started with "Analyze," "Write," "Summarize," or "Debug."
 - [ ] **Few-Shot Examples:** Included at least one example of the desired output.
 - [ ] **Specific Constraints:** Replaced "short" with "under 100 words" or "3 bullet points."
 
 ---
+*Created for the Prompt Engineering Resource Hub (2026).*
