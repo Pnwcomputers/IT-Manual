@@ -21,3 +21,9 @@ Cloud-based backup services provide off-site data protection, crucial for compre
 * **Ransomware Defense:** Cloud backups are typically isolated from the active computer, meaning ransomware cannot encrypt the remote backups, providing a clean recovery point.
 * **Disaster Recovery:** Protects data against physical loss (theft, fire) where local backups would also be destroyed.
 * **Recommendation:** Utilize an online service (e.g., Backblaze, CrashPlan, IDrive) to supplement your local backups, adhering to the **3-2-1 backup rule** (3 copies of data, on 2 different media types, with 1 copy off-site).
+
+---
+
+# [Full/Detailed Databackup Guide](procedures/Data_Backup.md)
+
+---
