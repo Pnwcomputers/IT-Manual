@@ -40,12 +40,31 @@ This document outlines the standard operating procedure for transitioning a user
 
 ---
 
+## 🛡️ Post-Transfer Data Integrity & Security
+*After moving data to the new system or external storage, perform the following checks:*
+
+### A. File System Integrity (CHKDSK)
+Run a disk check to ensure no data corruption occurred during the transfer process, especially if using older external hard drives.
+1. Open **Command Prompt** as Administrator.
+2. Run the following command (replace `X:` with the drive letter containing the moved data):
+   `chkdsk X: /f`
+3. If the data is on the main OS drive, you may need to schedule the scan for the next reboot.
+
+### B. Malware & Virus Scanning (MBAM)
+Scan the transferred data to ensure no dormant threats are migrated to the new system.
+1. Open **Malwarebytes (MBAM)**.
+2. **Right-Click Method:** Navigate to the folder or drive where the data was moved in File Explorer, right-click it, and select **"Scan with Malwarebytes."**
+3. **Custom Scan Method:** In the MBAM app, go to **Scanner > Custom Scan > Configure Scan** and select the specific drive/folders to be verified.
+
+---
+
 ## ✅ Summary Checklist
 - [ ] **Data Sweep:** All user folders + `C:\` root verified.
 - [ ] **Browsers:** Bookmarks and Passwords exported/synced.
 - [ ] **Credentials:** Windows Vault/Credential Manager noted.
 - [ ] **Email:** PST files, Signatures, and Rules backed up.
 - [ ] **Licensing:** All product keys located or extracted.
+- [ ] **Integrity:** `chkdsk` and Malware scan completed on moved data.
 
 ---
 
