@@ -1,69 +1,74 @@
-# 💻 Data Backup Procedure(s)
+# 💻 Data Backup & System Migration Procedure
 
-This document outlines the standard operating procedure for transitioning a user from an old workstation to a new system. It ensures data integrity, software continuity, and environment familiarity.
+This document outlines the standard operating procedure for backing up data for archiving or migrating to a new system. It ensures data integrity, software continuity, and environment familiarity.
 
 ---
 
 ## 1. Core Data Backup
 * **User Profile Folders:** Backup all standard user data: `Documents`, `Desktop`, `Favorites`, `Music`, `Pictures`, `Videos`, and `Downloads`.
 * **Root Directory Check:** **Check `C:\` root directory** for any data folders stored outside the user profile (e.g., `C:\Scans`, `C:\QuickBooksData`, or custom project folders).
-* **Redundancy Check:** Double-check `Documents`, `Desktop`, and `Pictures` specifically to ensure they aren't being redirected to OneDrive or Dropbox; if they are, verify that files are "Always kept on this device" before backing up.
+* **Cloud Redundancy Check:** Double-check `Documents`, `Desktop`, and `Pictures` to ensure they aren't being redirected to **OneDrive** or **Dropbox**. 
+    * *Note:* If redirected, verify files are set to "Always kept on this device" before copying to physical backup media.
 
-## 2. Credentials & Browser Data
-* **Windows Credential Manager:** Backup Windows Credentials to preserve saved network passwords, server logins, and certificate-based identities.
-* **Browser Data:** Backup bookmarks, history, and saved passwords for **ALL** browsers (Chrome, Firefox, Edge, etc.).
-* **Account Synchronization:**
-    * Note the user account used for **Web Browser data synchronization**.
-    * Note the **Microsoft Account address** used for Windows setup, Office activation, or OneDrive.
-    * Navigate to **Settings > Accounts > Email & Accounts** and document all listed accounts.
+## 2. Browser Data & Account Sync
+### A. Built-in Sync (Cloud-Based / Preferred)
+* **Google Chrome:** Sign in > **Settings > Sync and Google services > Manage sync**. Enable "Sync everything."
+* **Mozilla Firefox:** Sign in > **Settings > Sync**. Ensure Bookmarks, Passwords, History, and Add-ons are selected.
+* **Microsoft Edge:** Sign in > **Settings > Profiles > Sync**. Enable all data toggles.
+
+### B. Manual Backup (Offline / Local Transfer)
+* **Bookmarks (HTML Export):** Access Bookmark Manager (`Ctrl+Shift+O`) > Export as **HTML file**.
+* **Chromium-based (Chrome, Edge, Brave):** * **Manual:** Copy the `User Data` folder from `%LocalAppData%\Google\Chrome\User Data`.
+    * **Tools:** Use **B4C All-in-One Browser Backup** for automated local migration.
+* **Firefox-based:** Use **Hekasoft Backup & Restore** to migrate profiles between Firefox-engine browsers.
+* **Opera:** Save open tabs to Speed Dial folders, then perform the HTML Bookmark export.
+
+### C. System Credentials & Identity
+* [**Windows Credential Manager:**](https://support.microsoft.com/en-us/windows/credential-manager-in-windows-1b5c916a-6a16-889f-8581-fc16e8165ac0) Backup Windows Credentials to preserve saved network passwords and server logins.
+* **Microsoft Account:** Note the [**Microsoft Account address**](https://account.microsoft.com/account) used for Windows setup, Office activation, or OneDrive.
+* **Account Review:** Navigate to **Settings > Accounts > Email & Accounts** and document all listed work or school accounts.
 
 ## 3. Email Configuration
-* **Data Files:** Locate and backup `.PST` or `.OST` files for Outlook or the specific profile folders for Thunderbird.
-* **Account Metadata:** Export or manually document:
-    * Email Signatures
-    * Custom Rules and Alerts
-    * Auto-Complete (NK2) lists
+### A. Microsoft Outlook
+* **Data Files:** Locate and backup `.PST` files (POP3) or check for `.OST` files (IMAP/Exchange).
+* **Metadata:** Export or manually document **Signatures**, **Custom Rules**, and **Auto-Complete (NK2) lists**.
+
+### B. Mozilla Thunderbird
+* **Built-in Export:** **Menu > Tools > Export**. Creates a single `.zip` containing the entire profile.
+* **Manual Profile:** Copy the `%AppData%\Thunderbird\Profiles\` folder (e.g., `xxxxxxxx.default`).
+    * **Note:** You must also copy the `profiles.ini` file located one level up to maintain profile mapping.
+* **Local Folders:** Specifically verify if the user has "Local Folders" archives that exist outside of the mail server sync.
 
 ## 4. Software & Licensing
 > [!IMPORTANT]
-> **Software vs. Data:** Data is easily transferable, but software is not. Most programs must be reinstalled and reactivated on the new system.
+> **Software vs. Data:** Data is easily transferable; software is not. Most programs must be reinstalled and reactivated on the new system.
 
 * **Installers:** If the original software installer is found on the old computer, copy it to the backup drive.
-* **Product Keys:** * Locate physical media (CDs/USBs) or digital purchase receipts.
-    * **Extraction:** If keys are lost, a tool will be used to attempt extraction from the registry. *Success is not guaranteed.*
-* **Vendor Portals:** Check for online accounts (Adobe, Microsoft Dashboard, Intuit) to verify available "seats" and download fresh installers.
-
-## 5. Peripherals & Environment
-* **Printers:** Identify all installed printers and note which is the "Default." Pre-download the latest drivers for the new Operating System.
-* **Visual Continuity:** Take a screenshot of the **Desktop icon placement** and the Taskbar.
-* **Network Mapping:** Document any mapped network drives (e.g., `Z:\` drive paths) and shared folder permissions.
+* **Product Keys:** * Locate physical media or digital receipts.
+    * **Extraction:** If keys are lost, use a tool to attempt extraction from the registry. *Success is not guaranteed for modern versions.*
+* **Vendor Portals:** Log in to vendor accounts (Adobe, Microsoft, Intuit) to verify available "seats" and download fresh installers.
 
 ---
 
 ## 🛡️ Post-Transfer Data Integrity & Security
-*After moving data to the new system or external storage, perform the following checks:*
+*After moving data to the new system or external storage, perform these verification steps:*
 
 ### A. File System Integrity (CHKDSK)
-Run a disk check to ensure no data corruption occurred during the transfer process, especially if using older external hard drives.
 1. Open **Command Prompt** as Administrator.
-2. Run the following command (replace `X:` with the drive letter containing the moved data):
-   `chkdsk X: /f`
-3. If the data is on the main OS drive, you may need to schedule the scan for the next reboot.
+2. Run: `chkdsk X: /f` (Replace `X:` with the backup/data drive letter).
 
 ### B. Malware & Virus Scanning (MBAM)
-Scan the transferred data to ensure no dormant threats are migrated to the new system.
 1. Open **Malwarebytes (MBAM)**.
-2. **Right-Click Method:** Navigate to the folder or drive where the data was moved in File Explorer, right-click it, and select **"Scan with Malwarebytes."**
-3. **Custom Scan Method:** In the MBAM app, go to **Scanner > Custom Scan > Configure Scan** and select the specific drive/folders to be verified.
+2. Right-click the backup folder/drive and select **"Scan with Malwarebytes"** to ensure no dormant threats are migrated.
 
 ---
 
 ## ✅ Summary Checklist
 - [ ] **Data Sweep:** All user folders + `C:\` root verified.
-- [ ] **Browsers:** Bookmarks and Passwords exported/synced.
-- [ ] **Credentials:** Windows Vault/Credential Manager noted.
-- [ ] **Email:** PST files, Signatures, and Rules backed up.
-- [ ] **Licensing:** All product keys located or extracted.
+- [ ] **Browsers:** Cloud Sync enabled OR HTML/Profile folders exported.
+- [ ] **Credentials:** Windows Vault/Credential Manager noted/backed up.
+- [ ] **Email:** PST files (Outlook) or Profile Zip (Thunderbird) captured.
+- [ ] **Licensing:** All product keys located or extraction attempted.
 - [ ] **Integrity:** `chkdsk` and Malware scan completed on moved data.
 
 ---
