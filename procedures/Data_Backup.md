@@ -40,27 +40,12 @@ This document outlines the standard operating procedure for transitioning a user
 
 ---
 
-## 🛠️ Software Reinstallation Checklist
-*Verify and check off programs that require fresh installation:*
-
-| Category | Application Name |
-| :--- | :--- |
-| **Productivity** | Paint.net, LibreOffice, Adobe Suite, Inkscape, Teams |
-| **Communications** | Skype, Signal, Zoom, Slack |
-| **Remote Access** | TeamViewer, AnyDesk, RustDesk, GoToMeeting, LogMeIn |
-| **Finance/Tax** | Quicken, QuickBooks, Sage, TurboTax, H&R Block |
-| **Other** | __________________________________________________ |
-
----
-
 ## ✅ Summary Checklist
 - [ ] **Data Sweep:** All user folders + `C:\` root verified.
 - [ ] **Browsers:** Bookmarks and Passwords exported/synced.
 - [ ] **Credentials:** Windows Vault/Credential Manager noted.
 - [ ] **Email:** PST files, Signatures, and Rules backed up.
 - [ ] **Licensing:** All product keys located or extracted.
-- [ ] **Hardware:** Printer drivers downloaded and ready.
-- [ ] **Reference:** Screenshots of Desktop layout and Network paths taken.
 
 ---
 
