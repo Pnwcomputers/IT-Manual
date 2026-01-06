@@ -10,14 +10,19 @@ The goal is to ensure **consistency, quality, and accuracy** in performing all t
 
 SOPs provide the "how-to" for complex or critical tasks, reducing errors and reliance on individual memory:
 
-| File / Folder | Description | Key Focus |
+| File | Description | Key Focus |
 | :--- | :--- | :--- |
-| `backup_verification_sop.md` | Daily/weekly procedure for checking, testing, and confirming the successful completion and integrity of all system backups. | **Data Integrity** |
-| `server_patching_sop.md` | Detailed steps and schedule for applying security and feature patches to core servers, including change management and rollback plans. | **Change Management** |
-| `new_drive_installation_sop.md` | Standardized procedure for installing, partitioning, and formatting new hard drives or SSDs in workstations and servers. | **System Setup** |
-| `vpn_certificate_renewal_sop.md` | Step-by-step guide for generating, installing, and deploying replacement security certificates for VPN and other critical services. | **Security Maintenance** |
-| `disaster_recovery_test_sop.md` | Formal procedure for conducting annual or semi-annual tests of the organization's Disaster Recovery (DR) plan. | **Business Continuity** |
-| `network_device_provisioning_sop.md` | Procedure for factory resetting, initial configuration, and deploying new network switches or access points. | **Infrastructure Deployment** |
+| `Account_Login_Issues.md` | Troubleshooting steps for resolving common online account and credential access problems. | **User Access** |
+| `Clean-up-Temp-Junk-Data.md` | Procedures for identifying and removing temporary or unnecessary files to free up disk space. | **Maintenance** |
+| `Data_Backup.md` | Standardized workflows for archiving user data and performing system migrations. | **Data Integrity** |
+| `Electronics_Diagnostics.md` | General hardware testing and diagnostic protocols for identifying component failure. | **Hardware Support** |
+| `Eliminate_Startup_Apps.md` | Optimization guide for managing startup services and applications to improve boot times. | **Optimization** |
+| `Find_Passwords.md` | Methods and tools for locating and extracting saved credentials and license keys. | **Credential Recovery** |
+| `General-Job-Procedures.md` | High-level operational workflow and best practices for standard service requests. | **Operations** |
+| `Improvised-Diagnostics-OODA-Loop.md` | A framework for agile problem-solving and rapid troubleshooting in complex scenarios. | **Strategy** |
+| `In-Shop-Service-How-Its-Done.md` | Internal logistics and procedures for hardware serviced within the shop environment. | **Internal Workflow** |
+| `On-Site-Service-How-Its-Done.md` | Protocol for customer interactions and technical execution during on-site service calls. | **Client Relations** |
+| `Security_Tuneup_Detailed.md` | Comprehensive checklist for hardening system security and verifying defensive configurations. | **Security** |
 
 ---
 
@@ -32,4 +37,4 @@ SOPs provide the "how-to" for complex or critical tasks, reducing errors and rel
 ## 🔗 Related Documentation
 
 * **[Policies Documentation](../policies):** SOPs are the technical implementation of the high-level rules defined in the Policies directory.
-* **[Linux Documentation](../linux):** SOPs often reference specific commands or configuration files found in the platform-specific documentation.
+* **[How-To-Procedures-FULL-LIST.md](./How-To-Procedures-FULL-LIST.md):** A master index of all available technical guides and procedural documentation.
