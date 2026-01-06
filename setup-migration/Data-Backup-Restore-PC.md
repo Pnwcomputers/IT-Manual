@@ -24,6 +24,6 @@ Cloud-based backup services provide off-site data protection, crucial for compre
 
 ---
 
-# [Full/Detailed Databackup Guide](/procedures/Data_Backup.md)
+# [Full/Detailed Data Backup Guide](/procedures/Data_Backup.md)
 
 ---
