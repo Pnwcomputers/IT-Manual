@@ -11,7 +11,7 @@ Please select the operating system environment below to view specific standard o
 ### [🐧 Linux Administration](linux/)
 Documentation for managing Linux-based servers and workstations.
 * **Includes:** Command line operations, package management, SSH configuration, and service deployment.
-* **Key Distros:** *(Add your specific distros here, e.g., Ubuntu, CentOS, Debian)*
+* **Key Distros:** Debian, Ubuntu, SUSE, DietPi, Alma, Rocky, etc.
 
 ### [🪟 Windows Administration](windows/)
 Documentation for managing Windows Server environments.
