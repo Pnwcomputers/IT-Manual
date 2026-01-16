@@ -1,5 +1,5 @@
 # Supported Workgroup Remote Desktop Services (RDS) Install 
-## *NO DOMAIN*
+## *(NO DOMAIN)*
 
 Microsoft’s official stance is that Remote Desktop Services (RDS) generally requires an Active Directory Domain. However, for small environments, standalone servers, or specific test cases, you can set up a **Workgroup RDS Deployment**.
 
