@@ -1,4 +1,4 @@
-# How to Set Up Active Directory Domain Services on Windows Server 2025
+# Set Up Active Directory Domain Services; Windows Server 2025
 
 This guide walks through installing and configuring Active Directory Domain Services (AD DS) on Windows Server 2025 to create a new domain controller for your network.
 
