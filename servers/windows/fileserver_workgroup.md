@@ -1,4 +1,5 @@
-# Workgroup File Server & Public Share Guide (NO DOMAIN)
+# Workgroup File Server & Public Share Guide
+## *(NO DOMAIN)*
 
 Setting up a file share in a Workgroup environment (no Active Directory) requires handling permissions differently than in a Domain. By default, Windows blocks unauthenticated access.
 
