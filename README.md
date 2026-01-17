@@ -61,6 +61,12 @@ A centralized knowledge base for IT professionals providing:
 - **External Blog Resource:** [Windows File & Print Sharing Troubleshooting](https://pnwcomputers.blogspot.com/search/label/file%20sharing)
 - **External Blog Resource:** [Wireless IoT Devices Troubleshooting](https://pnwcomputers.blogspot.com/search/label/wireless)
 
+### 🗄️ Servers
+- [Linux Server Guides & Information](./servers/linux)
+- [Winodws Server Guides & Information](./servers/windows)
+- [Windows Server Domain Configurations](./servers/windows/domain)
+- [Windows Server Workgroup Configurations](./servers/windows/workgroup)
+
 ### 🖥️ Windows
 - [Windows 10/11 Failing To Boot](./windows/Windows-10-11-Failing-To-Boot.md)
 - [Windows 11 Product Key Retrieval](./windows/Windows-11-Product-Key-Retrieval.md)
