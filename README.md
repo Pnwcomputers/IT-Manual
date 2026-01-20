@@ -62,6 +62,7 @@ A centralized knowledge base for IT professionals providing:
 - **External Blog Resource:** [Wireless IoT Devices Troubleshooting](https://pnwcomputers.blogspot.com/search/label/wireless)
 
 ### 🗄️ Servers
+- [Linux & Windows Server Guides & Information](./servers)
 - [Linux Server Guides & Information](./servers/linux)
 - [Winodws Server Guides & Information](./servers/windows)
 - [Windows Server Domain Configurations](./servers/windows/domain)
