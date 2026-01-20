@@ -156,6 +156,7 @@ A centralized knowledge base for IT professionals providing:
 - [Bootable USB Creation](./tools/Bootable-USB.md)
 - [Diagnostic Websites & Assistance](./tools/Websites-Diagnostics-Assistance.md)
 - [Google Scripts Automation](./Automation)
+- [Artificial Intelligence](./AI)
 - ["DeployWorkstation" Debloat/System Setup/Basic App Install Utility](https://github.com/Pnwcomputers/DeployWorkstation) *(example open-source toolkit)*
 - ["SystemTester" Sysinternals Testing/Diagnotics Utility](https://github.com/Pnwcomputers/SystemTester) *(example open-source toolkit)*
 - **External Blog Resource:** [Snappy Driver Installer Origin (SDIO)](https://pnwcomputers.blogspot.com/search/label/portable-tools)
