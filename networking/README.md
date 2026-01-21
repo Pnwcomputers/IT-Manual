@@ -1,56 +1,50 @@
-# 🌐 Networking Module
+# 🌐 Networking Resources
 
-**Part of the [IT-Manual](../README.md)** *Essential resources, troubleshooting protocols, and standard operating procedures for field network diagnostics.*
-
----
-
-## 📖 Overview
-This directory contains guidelines and tools for setting up, maintaining, and troubleshooting network infrastructure in the field. It is designed for independent technicians handling SOHO (Small Office/Home Office) and SMB (Small to Medium Business) environments.
-
-## 📂 Contents
-
-### 🛠️ Troubleshooting & SOPs
-*Standard Operating Procedures for diagnosing common network issues.*
-- **[Connectivity Diagnostics](./connectivity-troubleshooting.md)**: Steps to isolate WAN vs. LAN issues.
-- **[Wi-Fi Optimization](./wifi-optimization.md)**: Signal strength mapping, channel selection, and interference mitigation.
-- **[DNS & DHCP Issues](./dns-dhcp-guide.md)**: Resolving IP conflicts and name resolution failures.
-- **[Printer Networking](./network-printing.md)**: Static IP assignment and discovery protocols (Bonjour/WSD).
-
-### 📚 Reference & Cheatsheets
-*Quick-reference materials for on-site work.*
-- **[Common Ports & Protocols](./common-ports.md)**: A list of standard ports (20/21 FTP, 22 SSH, 80/443 HTTP, etc.).
-- **[Cabling Standards](./cabling-standards.md)**: T568A vs. T568B pinouts and termination guides.
-- **[Subnetting Table](./subnetting-cheatsheet.md)**: Quick reference for CIDR notation and subnet masks (/24, /30, etc.).
-- **[Hardware Defaults](./hardware-defaults.md)**: Default IP addresses and credentials for common router brands (Ubiquiti, TP-Link, Cisco, Netgear).
-
-### 💻 Scripts & Tools
-*Automation and diagnostic scripts.*
-> *Ensure you have the necessary permissions before running network scans.*
-- **`/scripts`**: Directory containing Python/PowerShell utilities.
-  - `network_scanner.py`: Basic LAN discovery tool.
-  - `speedtest_logger.ps1`: Automated bandwidth logging.
+**Part of the [IT-Manual](../README.md)**
+*Guides, configurations, and reference logs for network infrastructure.*
 
 ---
 
-## ⚡ Quick Command Reference
-*Essential CLI commands for Windows/Linux/macOS.*
+## 📚 Core Concepts
+*Fundamental knowledge for network technicians.*
 
-| Command (Windows) | Command (Linux/Mac) | Purpose |
-| :--- | :--- | :--- |
-| `ipconfig /all` | `ifconfig` / `ip a` | View interface configuration |
-| `tracert <IP>` | `traceroute <IP>` | Trace the path to a destination |
-| `nslookup <domain>` | `dig <domain>` | Query DNS records |
-| `netstat -an` | `netstat -tuln` | Show active connections and listening ports |
-| `arp -a` | `arp -a` | View the ARP table (MAC-to-IP mapping) |
+- **[Networking 101](./Networking-101.md)**
+  
+  Basic networking concepts, terminology, and standard configurations. Start here if you are new to network troubleshooting.
+
+## 🛠️ Installation & Setup
+*SOPs for hardware installation and infrastructure upgrades.*
+
+- **[Modem Installation How-To](./Modem-Installation-How-To.md)**
+  Step-by-step guide for provisioning and installing ISP modems.
+- **[Router Setup](./Router-Setup.md)**
+  Standard configuration procedures for deploying new routers.
+- **[Network Migration (Old to New)](./Network-Migration-Old-to-New.md)**
+  Checklist and process for migrating a client from legacy network hardware to a new stack without downtime.
+
+## 🔐 Access & Configuration
+*Credentials, login locations, and specific settings.*
+
+- **[Router & Modem Access](./Router-Modem-Access.md)**
+  Methods for accessing gateway administrative interfaces (IPs, local domains, and physical connections).
+- **[Local Wi-Fi Network Info & Logins](./Local-Wifi-Network-Info-Logins.md)**
+  Template/Log for recording client Wi-Fi SSIDs, encryption types, and passphrases.
+- **[Network Location](./Network_Location.md)**
+  Documentation regarding Network Location profiles (Private vs. Public) and physical location mapping.
 
 ---
 
-## 🤝 Contributing
-If you have a useful script, a new SOP, or a correction:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/networking-update`).
-3. Commit your changes.
-4. Open a Pull Request.
+## ⚡ Quick Reference: Common Gateways
+*Standard default IPs for hardware often encountered in the field.*
+
+| Brand | Default IP | Common User | Common Pass |
+| :--- | :--- | :--- | :--- |
+| **Comcast/Xfinity** | `10.0.0.1` | `admin` | `password` |
+| **CenturyLink** | `192.168.0.1` | `admin` | *(on sticker)* |
+| **Netgear** | `192.168.1.1` | `admin` | `password` |
+| **Linksys** | `192.168.1.1` | `admin` | `admin` |
+| **Asus** | `192.168.1.1` | `admin` | `admin` |
+| **Ubiquiti** | `192.168.1.20` | `ubnt` | `ubnt` |
 
 ---
 *Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
