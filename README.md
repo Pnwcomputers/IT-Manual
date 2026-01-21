@@ -1,21 +1,33 @@
-# IT Field Handbook
+# 📘 IT Field Manual
 
-> **Your Comprehensive Guide For IT Fieldwork**
+**A comprehensive knowledge base for independent IT technicians, MSPs, and repair shops.**
 
-This handbook is designed to equip independent IT technicians with essential resources, troubleshooting tips, standard operating procedures, and best practices for efficient on-site service. Access guidelines for diagnostics, repair, and system optimization, along with quick-reference materials for hardware, software, and network troubleshooting.
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Pnwcomputers/IT-Manual/graphs/commit-activity)
+[![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](./LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
 ---
 
 ## 📖 About This Handbook
+This repository is designed to equip field technicians and bench engineers with standard operating procedures (SOPs), troubleshooting workflows, and quick-reference checklists. It replaces "tribal knowledge" with documented standards to ensure consistent service delivery. My hope is for it to serve as a centralized knowledge base for IT professionals providing:
 
-A centralized knowledge base for IT professionals providing:
-
-- Standard operating procedures
-- Diagnostic and repair guides
-- On-site service protocols
-- Customer communication templates
+- Diagnostic and repairs support
+- On-site services
+- Customer communications
 - Tools and software references
 - Best practices for quality service delivery
+
+---
+
+### 🎯 Quick Navigation (The Dashboard)
+
+| **Operations** | **Platforms** | **Hardware & Net** |
+| :--- | :--- | :--- |
+| **[✍️ Procedures](./procedures/README.md)**<br>SOPs for In-Shop & On-Site workflows. | **[🪟 Windows](./windows/README.md)**<br>Boot fixes, updates, and networking. | **[🔧 Hardware](./hardware/README.md)**<br>No-power, POST failure, and testing. |
+| **[💼 Business](./business/README.md)**<br>Contracts, payments, and conduct. | **[🍎 macOS](./mac/README.md)**<br>Startup repair, accounts, and tools. | **[🌐 Networking](./networking/README.md)**<br>Routers, modems, and diagnostics. |
+| **[📋 Policies](./policies/README.md)**<br>Service guarantees and liability. | **[🐧 Linux](./linux/README.md)**<br>Command references for Debian/Arch. | **[🖨️ Printers](./printers/README.md)**<br>Setup, static IPs, and troubleshooting. |
+| **[📝 Templates](./templates/README.md)**<br>Email scripts, invoices, and notes. | **[🗄️ Servers](./servers/README.md)**<br>Windows Server and infrastructure. | **[🔍 Diagnostics](./diagnostics/README.md)**<br>Bench testing and log analysis. |
+| **[📄 Worksheets](./worksheets/README.md)**<br>Printable checklists for the bench. | **[🤖 AI Tools](./AI/README.md)**<br>Prompts and automation workflows. | **[🛠️ Tools](./tools/README.md)**<br>Boot USBs, ISOs, and software. |
 
 ---
 
@@ -267,27 +279,25 @@ A centralized knowledge base for IT professionals providing:
 - [Mouser](https://www.mouser.com/) - Elecronic components; SMD & Through-hole components, Transistors, Capacitors, Diodes, Chips, Tools & Equipment, etc.
 - [JLPCB](https://jlcpcb.com/) - PCB Manufacturing, 3D Printing, CNC & Laser Services, etc.
 
-
-**Note**: All parts should have a 30-day free return policy
-
 ---
 
 ## 📋 Resource & Contact Information:
 
-## Field Service Resource Hub - [Linktree](http://www.linktr.ee/pnwcomputers) *(example curated link collection)*
-
-For questions, issues, or contributions to this handbook, contact the documentation maintainer via the primary support mailbox (e.g., **support@example.com**).
+For questions, issues, or contributions to this handbook, contact us via our primary support email which is: [support@pnwcomputers.com](support@pnwcomputers.com)
 
 ---
+
+## 🤝 Contributing
+Found a mistake? Have a better way to fix a printer?
+1.  Fork the repo.
+2.  Create a branch (`git checkout -b feature/new-fix`).
+3.  Submit a Pull Request.
 
 ## Copyright & License
 
-© 2025 Field Service Reference. All rights reserved.
-
-This handbook is proprietary and confidential. Unauthorized distribution, modification, or use is prohibited without express written permission.
+**© 2026 Pacific Northwest Computers. All rights reserved.**
+*This handbook is proprietary and confidential. Unauthorized distribution is prohibited.*
 
 ---
 
-**Last Updated**: October 2025
 
-**Total Resources**: 106 documents across 17 categories + 20+ blog articles
