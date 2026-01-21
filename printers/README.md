@@ -1,35 +1,54 @@
-# 🖨️ Printer and Imaging Management
+# 🖨️ Printer Setup & Troubleshooting
 
-This directory contains all documentation, procedures, and configuration standards related to the deployment, management, and troubleshooting of **printers, scanners, and multi-function devices (MFDs)** throughout the organization.
-
-The objective is to standardize the fleet, ensure reliable printing services, and document common fixes to minimize printing-related support calls.
-
----
-
-## 📚 Contents Overview
-
-This documentation covers the full lifecycle of the organization's printing and imaging solutions:
-
-| File / Folder | Description | Key Focus |
-| :--- | :--- | :--- |
-| `approved_printer_models.md` | List of all standard, approved printer and MFD models, including recommended purchase locations and expected lifespan. | **Standardization** |
-| `installation_setup_guide.md` | Step-by-step instructions for installing and configuring new network printers on Windows, macOS, and common mobile platforms. | **Deployment** |
-| `driver_management_sop.md` | Standard operating procedure for testing, packaging, and deploying printer drivers across the network using group policy or MDM. | **Software Management** |
-| `troubleshooting_guide.md` | Common fixes for printer errors (e.g., paper jams, spooler issues, network disconnects) and ink/toner replacement procedures. | **Tier 1 Support** |
-| `scanning_to_email_setup.md` | Guide for configuring MFDs to securely scan documents and deliver them to internal email addresses or network folders. | **Workflow Integration** |
-| `print_server_configuration.md` | Documentation for the central print server setup, including shared queues, user permissions, and backup/recovery procedures. | **Infrastructure** |
+**Part of the [IT-Manual](../README.md)**
+*Guides for installing, configuring, and fixing printers for macOS and Windows clients.*
 
 ---
 
-## 💡 Support & Maintenance
+## 📖 Overview
+Printers are the most common source of frustration for clients. This directory contains the standard operating procedures for installing local/network printers, troubleshooting connectivity drop-outs, and locating official drivers.
 
-* **Consumables:** Documented procedures for reordering toner, ink, and paper are located within the `maintenance` section of this repository (if one exists), or referenced within the `approved_printer_models.md` file.
-* **Security:** All MFDs must be configured with secure default settings, including disabled public access to settings and documented administrator passwords.
-* **Cost Reduction:** Staff should be encouraged to utilize double-sided (duplex) printing as the default setting, as documented in the `driver_management_sop.md`.
+## 📂 Contents
+
+### 📦 Installation & Setup
+*Procedures for new deployments or reinstallations.*
+
+- **[Printer New Printer Setup (PC & Mac)](./Printer-New-Printer-Setup-PC-Mac.md)**
+  General workflow for unboxing, removing shipping tape, installing ink/toner, and performing the initial network handshake.
+- **[Printer Installation (OSX)](./Printer-Installation-OSX.md)**
+  Specific steps for adding printers on macOS, including AirPrint vs. Driver decisions.
+- **[Static IP & Hostname Setup](./Static-IP-Hostname-Setup.md)**
+  **Critical for Stability:** How to assign a persistent IP address to a printer to prevent it from going "Offline" when the router reboots.
+
+### 🛠️ Troubleshooting
+*Platform-specific fixes for common errors.*
+
+- **[Printer Troubleshooting (Windows OS)](./Printer-Troubleshooting-Windows-OS.md)**
+  Fixes for "Print Spooler" errors, stuck queues, and the dreaded "Driver Unavailable" status.
+- **[Printer Troubleshooting (OSX)](./Printer-Troubleshooting-OSX.md)**
+  Resolving "Filter Failed" errors, communication blocks, and resetting the macOS printing system.
+
+### 🔗 Resources
+*Driver downloads and manuals.*
+
+- **[Printer & Scanner Support Sites](./Printer-Scanner-Support-Sites.md)**
+  A curated list of official driver download pages (HP, Brother, Epson, Canon) to avoid "driver scams" and bloatware sites.
 
 ---
 
-## 🔗 Related Documentation
+## ⚡ Quick Tip: WSD vs. TCP/IP
+*The #1 cause of "Printer Offline" issues on Windows.*
 
-* **[Networking Documentation](../networking):** Reference for static IP assignments, VLANs, and firewall rules required for network printing.
-* **[Diagnostics Documentation](../diagnostics):** General troubleshooting principles for diagnosing connectivity problems between workstations and the print server.
+[Image of Windows Printer Port Selection screen showing TCP/IP vs WSD]
+
+When installing a network printer on Windows, the OS often defaults to **WSD (Web Services for Devices)** ports. These are unstable and often cause the printer to show as "Offline" after a reboot.
+
+**The Golden Rule:**
+Always force the installation to use a **Standard TCP/IP Port**.
+
+1.  **Find the IP:** Print a Network Configuration page from the printer.
+2.  **Lock the IP:** Follow the **[Static IP Setup](./Static-IP-Hostname-Setup.md)** guide.
+3.  **Install Port:** On Windows, go to *Printer Properties -> Ports -> Add Port -> Standard TCP/IP Port* and enter the static IP.
+
+---
+*Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
