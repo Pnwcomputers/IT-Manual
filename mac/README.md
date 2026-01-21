@@ -1,36 +1,59 @@
-# 🍎 macOS Documentation
+# 🍎 Apple macOS Support
 
-This directory is the dedicated section for all guides, configuration standards, and procedures specific to **Apple macOS** machines (MacBook, iMac, Mac mini) within the organization.
-
-The objective is to ensure that all Mac devices are **uniformly deployed, securely configured, and efficiently managed** in a professional environment, supporting various business and creative roles.
+**Part of the [IT-Manual](../README.md)**
+*Troubleshooting, optimization, and repair guides for Apple computers.*
 
 ---
 
-## 📚 Contents Overview
+## 📖 Overview
+This directory contains standard operating procedures for servicing macOS devices (MacBook, iMac, Mac mini). It covers startup failures, software conflicts (specifically Microsoft Office on Mac), and routine maintenance/cleanup.
 
-This documentation focuses on the unique aspects of managing macOS:
+## 📂 Contents
 
-| File / Folder | Description | Key Focus |
+### 🚑 System Recovery & Startup
+*Diagnosing boot failures and cleaning up the OS.*
+
+- **[Mac Computer Start-up Repairs](./Mac-Computer-Start-up-Repairs.md)**
+  Procedures for resolving boot loops, "Folder with Question Mark" errors, and using Disk Utility in Recovery Mode.
+- **[Mac & Apple System Log Diagnostics](./Mac-Apple-System-Log-Diagnostics.md)**
+  How to use Console.app to read Kernel Panics and crash reports to identify hardware vs. software faults.
+- **[System Clean Up (MBAM & Onyx)](./Mac-System-Clean-Up-MBAM-Free-Onyx.md)**
+  The standard "Tune-Up" procedure: Using Malwarebytes (MBAM) for removal and Onyx for clearing system caches/font databases.
+- **[Data Backup & Restore](./Data-Backup-Restore-Mac.md)**
+  Methods for using Time Machine, Carbon Copy Cloner, and manual user profile migration.
+
+### 💿 Software & Accounts
+*Solving application and identity issues.*
+
+- **[Apple ID Login Troubleshooting](./Apple-ID-Login-Troubleshooting.md)**
+  Resolving iCloud sync issues, App Store lockouts, and password loops.
+- **[Mac MS Office Troubleshooting](./Mac-MS-Office-Troubleshooting.md)**
+  Fixing Word/Excel crashes, license activation errors, and corrupted preferences.
+- **[Mac Outlook Troubleshooting](./Mac-Outlook-Troubleshooting.md)**
+  Specific fixes for Outlook profile corruption, database rebuilding, and sync errors on macOS.
+
+### 🖨️ Peripherals
+*Connectivity for external devices.*
+
+- **[New Printer Setup (Mac)](./New-Printer-Setup-Mac.md)**
+  Standard installation using AirPrint vs. Manufacturer Drivers.
+- **[Printer Troubleshooting (OSX)](./Printer-Troubleshooting-OSX.md)**
+  Resolving "Filter Failed" errors, paused print queues, and communication issues.
+
+---
+
+## ⚡ Quick Reference: Boot Modes
+*The method to access Recovery Mode depends on the processor architecture.*
+
+[Image of Apple Silicon M1 chip versus Intel Processor logo]
+
+| Mode | Intel Macs | Apple Silicon (M1/M2/M3) |
 | :--- | :--- | :--- |
-| `initial_setup_and_enrollment.md` | Step-by-step guide for deploying new Macs, including MDM enrollment (e.g., Jamf, Intune), initial user setup, and standard provisioning. | **Deployment & Provisioning** |
-| `security_hardening_macos.md` | Procedures for enforcing security policies, including **FileVault** disk encryption, native firewall configuration, and user permissions best practices. | **Endpoint Security** |
-| `software_deployment_guide.md` | Instructions for installing, updating, and patching standard applications using management tools or scripting (e.g., Munki, MDM payload). | **Application Management** |
-| `common_troubleshooting.md` | Guide to diagnosing and resolving common macOS issues unique to the platform (e.g., Keychain issues, PRAM reset, network settings). | **Tier 1 & 2 Support** |
-| `terminal_commands_cheat_sheet.md` | A quick reference for essential macOS command-line tools for IT support and advanced diagnostics (e.g., `dscl`, `launchctl`). | **Advanced Troubleshooting** |
+| **Recovery Mode** | Hold `Cmd + R` immediately after power on. | Hold **Power Button** until "Loading Startup Options" appears. |
+| **Boot Menu** | Hold `Option` (Alt). | Hold **Power Button** (same as above). |
+| **Safe Mode** | Hold `Shift`. | Select disk in Boot Menu, hold `Shift`, click "Continue in Safe Mode". |
+| **Diagnostics** | Hold `D`. | Hold `Cmd + D` at the Boot Menu screen. |
+| **Reset NVRAM** | Hold `Cmd + Opt + P + R`. | *N/A (Reset automatically on restart).* |
 
 ---
-
-## 🔒 Security Focus
-
-Mac security is a core concern, and is enforced through specific procedures detailed here:
-
-* **Zero-Touch Deployment:** Leveraging Apple Business Manager (ABM) and MDM for streamlined and standardized setup.
-* **Full Disk Encryption:** Mandatory FileVault encryption on all portable devices.
-* **Configuration Profiles:** Use of MDM profiles to ensure consistent settings and prevent unauthorized changes.
-
----
-
-## 🔗 Related Documentation
-
-* **[Hardware Documentation](../hardware):** Reference documentation for approved Mac models and their specifications.
-* **[Diagnostics Documentation](../diagnostics):** For general troubleshooting principles applicable across all platforms.
+*Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
