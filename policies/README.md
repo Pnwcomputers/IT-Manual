@@ -1,35 +1,46 @@
-# 📜 IT Policies and Governance
+# 📜 Company Policies & Guarantees
 
-This directory is the official location for all **formal, high-level policies** that govern the use of information technology resources within the organization.
-
-The objective of this section is to document the mandatory rules and expectations for staff, contractors, and third parties to ensure **legal compliance, data security, and ethical use** of IT systems.
+**Part of the [IT-Manual](../README.md)**
+*Definitions of service warranties, liability limitations, and internal staff expectations.*
 
 ---
 
-## 📚 Contents Overview
+## 📖 Overview
+This directory houses the formal rules that define our relationship with clients and the behavioral standards for our staff. It includes the "Fine Print" regarding what we are liable for, as well as our promises regarding repair quality.
 
-The policies outlined here dictate behavior, security requirements, and operational guidelines:
+## 📂 Contents
 
-| File / Folder | Description | Key Focus |
+### 🛡️ Client Guarantees & Liabilities
+*What the client agrees to, and what we promise them.*
+
+- **[Our Service Guarantee](./Our-Service-Guarantee.md)**
+  **Sales Tool:** The written warranty policy. Defines the rework period (e.g., 30 days) and conditions under which a repair will be redone at no cost.
+- **[3rd Party Software Support Disclaimer](./3rd-Party-Software-Support-Disclaimer.md)**
+  **Critical Protection:** Explicitly states that we do not own, code, or license software (like QuickBooks, Outlook, or Adobe). We support the *installation*, not the *code*.
+- **[Disclaimers](./Disclaimers.md)**
+  General liability limits regarding data loss, unforeseen hardware failure during repair, and unclaimed property.
+- **[Terms of Service](./Terms-of-Service.md)**
+  The master agreement governing all work performed.
+
+### 👥 Staff Standards
+*Internal rules for employees.*
+
+- **[Client Confidentiality Policies](./Client-Confidentiality-Policies.md)**
+  **Zero Tolerance:** Rules regarding data privacy. Technicians must never access client files (photos, docs) unless explicitly required for data recovery, and must never discuss client data outside the shop.
+- **[Tardiness](./Tardiness.md)**
+  HR policy regarding shift start times, calling in sick, and consequences for repeated lateness.
+
+---
+
+## ⚡ Policy "Cheat Sheet"
+*Key takeaways for quick reference during client disputes.*
+
+| Issue | Policy Reference | Standard Stance |
 | :--- | :--- | :--- |
-| `acceptable_use_policy.md` | Defines the acceptable and prohibited use of company-owned IT equipment, networks, and internet access by all personnel. | **Employee Conduct** |
-| `data_classification_policy.md` | Establishes how data should be categorized (e.g., Public, Internal, Confidential) and the mandatory security controls required for each category. | **Data Security** |
-| `incident_response_policy.md` | The formal plan detailing the steps, roles, and communication protocol to follow upon the detection of a security breach or major IT outage. | **Crisis Management** |
-| `remote_work_policy.md` | Rules governing secure remote access, requirements for home office setups, and guidelines for protecting company data when working off-site. | **Operational Security** |
-| `software_licensing_policy.md` | Mandates for managing and auditing software licenses to ensure compliance and avoid legal penalties for unauthorized use or installation. | **Compliance & Audit** |
-| `communication_policy.md` | Rules for proper use of company email, instant messaging, and collaboration tools, including retention requirements. | **Communication Standards** |
+| **"You updated my Outlook and now it's buggy!"** | `3rd-Party-Software...` | "We configure the software, but we cannot fix bugs in Microsoft's code. You may need to wait for a patch." |
+| **"The issue came back 2 weeks later."** | `Our-Service-Guarantee` | "Since it is within our warranty window, bring it back and we will re-diagnose it for free." |
+| **"I lost data during the virus removal."** | `Disclaimers` | "As per the waiver signed at drop-off, we are not liable for data loss. We always recommend a backup." |
+| **"Can you just copy these photos to your drive?"** | `Client-Confidentiality` | "I cannot store your personal data on my personal or shop machines due to our strict privacy policy." |
 
 ---
-
-## ⚖️ Governance and Enforcement
-
-* **Mandatory Reading:** All employees are required to read, understand, and adhere to these policies as a condition of employment and IT access.
-* **Enforcement:** Violations of these policies will result in disciplinary action, up to and including termination or legal action, as determined by Human Resources and Legal Counsel.
-* **Regular Review:** Policies are reviewed and updated annually, or as required by changes in technology or regulatory requirements.
-
----
-
-## 🔗 Related Documentation
-
-* **[Accounts Documentation](../accounts):** Specific procedures for enforcing policies like the acceptable use policy (e.g., password complexity, account auditing).
-* **[Security Documentation](../security):** Technical procedures that implement the requirements mandated in these high-level policies.
+*Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
