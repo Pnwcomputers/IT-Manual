@@ -1,35 +1,47 @@
-# 🔧 Tools and Utilities Documentation
+# 🔧 Tools & Utilities
 
-This directory is dedicated to the documentation, guides, and configuration details for **essential IT tools, utilities, and scripts** used by the support and engineering teams.
-
-The objective is to standardize the use of diagnostic software, administrative consoles, and custom scripts, ensuring that all technicians use the approved methods and configurations for efficiency and security.
+**Part of the [IT-Manual](../README.md)**
+*Guides for bootable media, physical tools, and trusted online resources.*
 
 ---
 
-## 📚 Contents Overview
+## 📖 Overview
+This directory acts as the inventory and instruction manual for the "Technician's Toolkit." It covers how to create the necessary boot drives (USBs) for OS installation, which physical tools to use for hardware repairs, and which websites are trusted for drivers and firmware.
 
-This documentation covers the usage and management of key administrative software:
+## 📂 Contents
 
-| File / Folder | Description | Key Focus |
+### 💾 Bootable Media (The "Rescue Drive")
+*How to create and use the digital tools we carry.*
+
+- **[Bootable USB](./Bootable-USB.md)**
+  **The Most Important Tool:** Instructions for creating a multi-boot USB drive (using tools like Ventoy or Rufus). Covers loading Windows Installers (ISOs), Linux Live environments, and diagnostic tools (MemTest) onto a single stick.
+
+### 🛠️ Hardware & Software Lists
+*What to use and how to use it.*
+
+- **[General Tools](./General_Tools.md)**
+  A master list of the physical hardware (screwdrivers, spudgers, thermal paste) and software utilities (Ninite, TreeSize, etc.) recommended for the bench.
+- **[Tools Usage](./Tools-Usage.md)**
+  Best practices and safety guidelines for handling specific tools to avoid damaging client hardware (e.g., proper torque, ESD safety, prying techniques).
+
+### 🌐 Web Resources
+*Where to find drivers and manuals.*
+
+- **[Websites for Diagnostics & Assistance](./Websites-Diagnostics-Assistance.md)**
+  A curated list of trusted URLs. Includes official driver pages (avoiding "driver scam" sites), service manual repositories (like iFixit), and firmware lookups.
+
+---
+
+## ⚡ The Essential USB Drive
+*Every technician's USB drive must contain the following ISOs at minimum (Ref: `Bootable-USB.md`):*
+
+| Category | ISO / Tool | Purpose |
 | :--- | :--- | :--- |
-| `admin_tools_list.md` | The comprehensive list of all authorized third-party administrative and diagnostic tools (e.g., remote desktop clients, network scanners, disk utilities). | **Standardization** |
-| `remote_access_setup.md` | Configuration guides for the primary remote access and remote control software used to support end-users and manage servers. | **Remote Support** |
-| `custom_scripts/` | Directory containing documentation and usage instructions for internally developed or essential shell/PowerShell scripts used for automation and bulk tasks. | **Automation** |
-| `monitoring_system_guide.md` | The operational guide for the organization's network and system monitoring platform (e.g., how to acknowledge alerts, run custom reports). | **System Visibility** |
-| `asset_inventory_system_guide.md` | Instructions for managing, updating, and running reports within the central IT asset and configuration management database (CMDB). | **Inventory Control** |
-| `backup_software_operations.md` | Detailed instructions on the daily operation, restoration process, and troubleshooting for the centralized backup solution. | **Data Recovery** |
+| **OS Installers** | **Windows 10 & 11** | Clean installs and "Repair your computer" environment. |
+| **Live Linux** | **Ubuntu** or **Mint** | Data recovery when Windows won't boot. |
+| **Diagnostics** | **MemTest86** | RAM testing (boots outside the OS). |
+| **Partitioning** | **GParted Live** | Resizing partitions or wiping drives securely. |
+| **Password Reset** | **Hirens BootCD** (or similar) | Resetting local Windows passwords. |
 
 ---
-
-## 🔒 Security and Access
-
-* **Approved Use Only:** Only the tools documented in `admin_tools_list.md` are permitted for use on company systems. Unauthorized tools pose a security risk.
-* **Credentials:** Never embed sensitive credentials directly into scripts. All automation scripts must follow documented best practices for secure secret management.
-* **Licensing:** Ensure all licensed tools are tracked according to the `software_licensing_policy.md` (in the `../software` directory).
-
----
-
-## 🔗 Related Documentation
-
-* **[Software Documentation](../software):** Policies and licensing information for the commercial tools listed here.
-* **[Diagnostics Documentation](../diagnostics):** Procedures that often reference the use of specific diagnostic tools found in this directory.
+*Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
