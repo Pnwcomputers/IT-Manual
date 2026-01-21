@@ -18,13 +18,17 @@ This directory serves as the central storage for all static assets used in the d
 
 | File | Description |
 | :--- | :--- |
-| `Howtoapplythermalpaste.png` | Correct application patterns (pea size, X-pattern). |
-| `Howtocleanthermalpasteoff.png` | Safe removal of old compound using isopropyl alcohol. |
-| `bad_psu.png` | Visual indicators of a failed power supply. |
+| `ic_chip1.png` | Integrated Circuit (IC) identification reference #1. |
+| `ic_chip2.png` | Integrated Circuit (IC) identification reference #2. |
+| `ic_chip3.png` | Integrated Circuit (IC) identification reference #3. |
+| `ic_chip4.png` | Integrated Circuit (IC) identification reference #4. |
+| `pwm_IC.png` | Pulse Width Modulation chip identification (board repair). |
 | `cmos_battery.png` | Identification of CR2032 batteries on motherboards. |
 | `motherboard_speaker.jpg` | The internal "Beeper" used for POST codes. |
-| `pwm_IC.png` | Pulse Width Modulation chip identification (board repair). |
+| `Howtoapplythermalpaste.png` | Correct application patterns (pea size, X-pattern). |
+| `Howtocleanthermalpasteoff.png` | Safe removal of old compound using isopropyl alcohol. |
 | `thermal_compund.jpg` | Types of thermal paste packaging. |
+| `bad_psu.png` | Visual indicators of a failed power supply. |
 | `electric_screwdriver.jpg` | Reference for approved torque-limited drivers. |
 | `toolkit.jpg` | Standard technician field kit contents. |
 
@@ -84,15 +88,6 @@ This directory serves as the central storage for all static assets used in the d
 
 ### 3. Compression
 Please run large images through a compressor (like TinyPNG) before uploading to keep the repository size manageable.
-
----
-
-## ⚠️ Maintenance Required
-*The following files need to be reviewed and renamed to describe their contents:*
-* `image 2.png`
-* `image 3.png`
-* `image 4.png`
-* `image 5.png`
 
 ---
 *Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
