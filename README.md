@@ -19,6 +19,16 @@ This repository is designed to equip field technicians and bench engineers with 
 
 ---
 
+## 💡 Philosophy
+
+> "It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so." - Mark Twain
+
+> "In technology, mastery is an illusion. There's only the pursuit of understanding. After 20 years, I'm still learning every day. I don't claim to know it all, only to give it my all." - Senior Field Technician
+
+> "There are no mistakes; only opportunities for improvement."
+
+---
+
 ### 🎯 Quick Navigation (The Dashboard)
 
 | **Operations** | **Platforms** | **Hardware & Net** |
@@ -240,16 +250,6 @@ This repository is designed to equip field technicians and bench engineers with 
 6. Prepare for job/work using the appropriate work order form
 8. Reference relevant diagnostic procedures
 9. Follow proper documentation protocols
-
----
-
-## 💡 Philosophy
-
-> "It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so." - Mark Twain
-
-> "In technology, mastery is an illusion. There's only the pursuit of understanding. After 20 years, I'm still learning every day. I don't claim to know it all, only to give it my all." - Senior Field Technician
-
-> "There are no mistakes; only opportunities for improvement."
 
 ---
 
