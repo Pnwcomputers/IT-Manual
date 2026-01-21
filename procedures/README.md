@@ -1,40 +1,62 @@
 # ✍️ Standard Operating Procedures (SOPs)
 
-This directory is dedicated to housing all **Standard Operating Procedures (SOPs)**—the detailed, step-by-step guides for executing repeatable tasks and essential maintenance activities across the IT environment.
-
-The goal is to ensure **consistency, quality, and accuracy** in performing all technical operations, regardless of which team member is executing the task.
-
----
-
-## 📚 Contents Overview
-
-SOPs provide the "how-to" for complex or critical tasks, reducing errors and reliance on individual memory:
-
-| File | Description | Key Focus |
-| :--- | :--- | :--- |
-| `Account_Login_Issues.md` | Troubleshooting steps for resolving common online account and credential access problems. | **User Access** |
-| `Clean-up-Temp-Junk-Data.md` | Procedures for identifying and removing temporary or unnecessary files to free up disk space. | **Maintenance** |
-| `Data_Backup.md` | Standardized workflows for archiving user data and performing system migrations. | **Data Integrity** |
-| `Electronics_Diagnostics.md` | General hardware testing and diagnostic protocols for identifying component failure. | **Hardware Support** |
-| `Eliminate_Startup_Apps.md` | Optimization guide for managing startup services and applications to improve boot times. | **Optimization** |
-| `Find_Passwords.md` | Methods and tools for locating and extracting saved credentials and license keys. | **Credential Recovery** |
-| `General-Job-Procedures.md` | High-level operational workflow and best practices for standard service requests. | **Operations** |
-| `Improvised-Diagnostics-OODA-Loop.md` | A framework for agile problem-solving and rapid troubleshooting in complex scenarios. | **Strategy** |
-| `In-Shop-Service-How-Its-Done.md` | Internal logistics and procedures for hardware serviced within the shop environment. | **Internal Workflow** |
-| `On-Site-Service-How-Its-Done.md` | Protocol for customer interactions and technical execution during on-site service calls. | **Client Relations** |
-| `Security_Tuneup_Detailed.md` | Comprehensive checklist for hardening system security and verifying defensive configurations. | **Security** |
+**Part of the [IT-Manual](../README.md)**
+*The master playbook for service workflows, optimization routines, and standard repairs.*
 
 ---
 
-## 📐 Purpose of SOPs
+## 📖 Overview
+This directory contains the "How-To" guides for the most frequent tasks in the shop. While other directories focus on specific hardware or software, this folder defines the **process**—from how we handle an on-site visit to the exact steps for a system tune-up.
 
-* **Consistency:** Ensures that every task is performed in the exact same manner, every time.
-* **Training:** Serves as a primary training document for new IT staff and cross-training for existing personnel.
-* **Auditing:** Provides documented evidence for compliance and security audits that critical systems are managed correctly.
+## 📂 Contents
+
+### 🏢 Core Workflows
+*The logistics of how we deliver service.*
+
+- **[General Job Procedures](./General-Job-Procedures.md)**
+  The baseline expectations for any ticket, regardless of location.
+- **[In-Shop Service: How It's Done](./In-Shop-Service-How-Its-Done.md)**
+  Logistics for the bench: Intake, tagging, queue management, and checkout.
+- **[On-Site Service: How It's Done](./On-Site-Service-How-Its-Done.md)**
+  Protocol for field visits: Arrival etiquette, client communication, and closing out the job site.
+- **[How-To Procedures FULL LIST](./How-To-Procedures-FULL-LIST.md)**
+  A master index of all technical guides across the entire repository.
+
+### 🚀 System Optimization (The "Tune-Up")
+*Standard steps for the "My computer is slow" ticket.*
+
+- **[Clean up Temp & Junk Data](./Clean-up-Temp-Junk-Data.md)**
+  Safe removal of temp files, caches, and bloatware to free up disk space.
+- **[Eliminate Startup Apps](./Eliminate_Startup_Apps.md)**
+  Methodology for identifying and disabling high-impact startup processes to improve boot time.
+- **[Security Tune-up Detailed](./Security_Tuneup_Detailed.md)**
+  Hardening the OS, verifying antivirus status, and checking for vulnerabilities.
+
+### 🔍 Diagnostics & Recovery
+*Techniques for solving problems and retrieving access.*
+
+- **[Improvised Diagnostics (OODA Loop)](./Improvised-Diagnostics-OODA-Loop.md)**
+  **Essential Reading:** A mental framework (Observe, Orient, Decide, Act) for troubleshooting unknown or complex issues when standard checklists fail.
+  
+- **[Electronics Diagnostics](./Electronics_Diagnostics.md)**
+  General protocols for testing physical components.
+- **[Account Login Issues](./Account_Login_Issues.md)**
+  Steps for resolving generic access problems across various platforms.
+- **[Find Passwords](./Find_Passwords.md)**
+  Tools and methods for recovering saved credentials from browsers and keychains.
+- **[Data Backup](./Data_Backup.md)**
+  The definitive procedure for securing user data before attempting risky repairs or migrations.
 
 ---
 
-## 🔗 Related Documentation
+## ⚡ The "Tune-Up" Workflow
+*When a client requests a General Service or Tune-Up, follow this order of operations:*
 
-* **[Policies Documentation](../policies):** SOPs are the technical implementation of the high-level rules defined in the Policies directory.
-* **[How-To-Procedures-FULL-LIST.md](./How-To-Procedures-FULL-LIST.md):** A master index of all available technical guides and procedural documentation.
+1.  **Backup** (`Data_Backup.md`) - *Always save data first.*
+2.  **Diagnostics** (`Electronics_Diagnostics.md`) - *Ensure the drive/RAM isn't failing.*
+3.  **Cleanup** (`Clean-up-Temp-Junk-Data.md`) - *Remove the garbage.*
+4.  **Optimization** (`Eliminate_Startup_Apps.md`) - *Speed up the boot.*
+5.  **Security** (`Security_Tuneup_Detailed.md`) - *Patch holes and scan for malware.*
+
+---
+*Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
