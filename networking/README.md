@@ -1,37 +1,56 @@
-# 🌐 Networking Infrastructure & Configuration
+# 🌐 Networking Module
 
-This directory is the central repository for all documentation, diagrams, and configuration standards related to the organization's **network infrastructure**.
-
-The objective is to provide comprehensive, up-to-date information on the network's design, addressing schemes, security rules, and critical services to facilitate **rapid deployment, troubleshooting, and maintenance**.
+**Part of the [IT-Manual](../README.md)** *Essential resources, troubleshooting protocols, and standard operating procedures for field network diagnostics.*
 
 ---
 
-## 📚 Contents Overview
+## 📖 Overview
+This directory contains guidelines and tools for setting up, maintaining, and troubleshooting network infrastructure in the field. It is designed for independent technicians handling SOHO (Small Office/Home Office) and SMB (Small to Medium Business) environments.
 
-This documentation is essential for managing the core connectivity of the organization:
+## 📂 Contents
 
-| File / Folder | Description | Key Focus |
+### 🛠️ Troubleshooting & SOPs
+*Standard Operating Procedures for diagnosing common network issues.*
+- **[Connectivity Diagnostics](./connectivity-troubleshooting.md)**: Steps to isolate WAN vs. LAN issues.
+- **[Wi-Fi Optimization](./wifi-optimization.md)**: Signal strength mapping, channel selection, and interference mitigation.
+- **[DNS & DHCP Issues](./dns-dhcp-guide.md)**: Resolving IP conflicts and name resolution failures.
+- **[Printer Networking](./network-printing.md)**: Static IP assignment and discovery protocols (Bonjour/WSD).
+
+### 📚 Reference & Cheatsheets
+*Quick-reference materials for on-site work.*
+- **[Common Ports & Protocols](./common-ports.md)**: A list of standard ports (20/21 FTP, 22 SSH, 80/443 HTTP, etc.).
+- **[Cabling Standards](./cabling-standards.md)**: T568A vs. T568B pinouts and termination guides.
+- **[Subnetting Table](./subnetting-cheatsheet.md)**: Quick reference for CIDR notation and subnet masks (/24, /30, etc.).
+- **[Hardware Defaults](./hardware-defaults.md)**: Default IP addresses and credentials for common router brands (Ubiquiti, TP-Link, Cisco, Netgear).
+
+### 💻 Scripts & Tools
+*Automation and diagnostic scripts.*
+> *Ensure you have the necessary permissions before running network scans.*
+- **`/scripts`**: Directory containing Python/PowerShell utilities.
+  - `network_scanner.py`: Basic LAN discovery tool.
+  - `speedtest_logger.ps1`: Automated bandwidth logging.
+
+---
+
+## ⚡ Quick Command Reference
+*Essential CLI commands for Windows/Linux/macOS.*
+
+| Command (Windows) | Command (Linux/Mac) | Purpose |
 | :--- | :--- | :--- |
-| `network_diagrams/` | Directory containing up-to-date visual maps of the network topology (physical and logical), including key endpoints and demarcation points. | **Architecture**  |
-| `ip_address_management.md` | Documentation for the **IP Address Management (IPAM)** scheme, including subnetting, DHCP scopes, and static IP assignments. | **Address Planning** |
-| `vlan_configurations.md` | Detailed list of all **VLAN IDs**, their purpose (e.g., Data, Voice, Guest, Management), and corresponding port assignments on core/access switches. | **Segmentation** |
-| `firewall_ruleset.md` | Documentation of the security appliance configuration, including inbound/outbound rules, NAT/PAT, and VPN tunnels. | **Security Policy** |
-| `vpn_setup_guide.md` | Procedures for configuring the VPN server endpoint and client setup for remote access, including authentication methods (e.g., MFA). | **Remote Access** |
-| `monitoring_and_alerts.md` | Configuration details for the network monitoring system, including alert thresholds, reporting intervals, and escalation procedures. | **Proactive Maintenance** |
+| `ipconfig /all` | `ifconfig` / `ip a` | View interface configuration |
+| `tracert <IP>` | `traceroute <IP>` | Trace the path to a destination |
+| `nslookup <domain>` | `dig <domain>` | Query DNS records |
+| `netstat -an` | `netstat -tuln` | Show active connections and listening ports |
+| `arp -a` | `arp -a` | View the ARP table (MAC-to-IP mapping) |
 
 ---
 
-## 🛠️ Key Network Principles
-
-The network design adheres to the following core principles, which should guide all changes and documentation updates:
-
-* **Segmentation:** Utilizing **VLANs** and access control lists (ACLs) to logically separate traffic and enforce security boundaries between network zones.
-* **Redundancy:** Implementation of failover mechanisms (e.g., HSRP, VRRP, or link aggregation) for critical services and hardware to ensure high availability.
-* **Security First:** All network changes must be reviewed against the documented firewall ruleset to maintain a strong security posture.
+## 🤝 Contributing
+If you have a useful script, a new SOP, or a correction:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/networking-update`).
+3. Commit your changes.
+4. Open a Pull Request.
 
 ---
-
-## 🔗 Related Documentation
-
-* **[Diagnostics Documentation](../diagnostics):** Guides on troubleshooting network connectivity issues using command-line tools (e.g., `ping`, `tracert`, `nslookup`).
-* **[Security Documentation](../security):** Overarching security policies that govern firewall rule approval and network access control.
+*Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
