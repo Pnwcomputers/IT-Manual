@@ -1,23 +1,48 @@
-# 👥 Accounts and Identity Management
+# 👥 Accounts & Login Support
 
-This directory contains comprehensive guides, policies, and standard operating procedures (SOPs) related to **user accounts, identity management, and access control** within the organization's IT infrastructure.
-
-The primary goal of this documentation is to ensure **consistent, secure, and auditable management** of all user and system accounts across various platforms (e.g., Active Directory, cloud services, and local systems).
+**Part of the [IT-Manual](../README.md)**
+*Troubleshooting guides for client account recovery, password management, and platform-specific login issues.*
 
 ---
 
-## 📚 Contents Overview
+## 📖 Overview
+This directory contains resources for technicians assisting clients who are locked out of their accounts or experiencing authentication issues. It covers specific platforms (Apple/Microsoft) as well as general password recovery techniques and support limitations.
 
-The following files and folders detail the lifecycle and management of various account types:
+## 📂 Contents
 
-| File / Folder | Description | Key Focus |
-| :--- | :--- | :--- |
-| `onboarding.md` | Step-by-step procedure for provisioning new accounts for employees, contractors, or new systems, including initial access level assignments. | **User Provisioning** |
-| `offboarding.md` | Checklist and steps for the secure suspension, deactivation, or deletion of accounts for departing personnel, ensuring timely access revocation. | **Access Revocation** |
-| `password_policy.md` | Documentation on the organization's mandated password complexity, rotation schedule, and multi-factor authentication (MFA) enforcement. | **Security Policy** |
-| `privileged_access.md` | Guidelines for the creation, management, and auditing of administrative accounts and elevated permissions (e.g., root, local admin). | **Least Privilege Principle** |
-| `service_accounts.md` | Instructions for creating and managing non-human accounts used by applications or services, focusing on credential security and rotation. | **System Automation Security** |
-| `audit_logs.md` | Procedures for regularly reviewing account activity, change logs, and access reports to maintain compliance and detect anomalies. | **Compliance & Auditing** |
+### 🍎 Platform-Specific Troubleshooting
+*Guides for the most common ecosystem accounts.*
+
+- **[Apple ID Login Troubleshooting](./Apple-ID-Login-Troubleshooting.md)**
+  Steps for resolving iCloud login failures, 2FA prompt issues, and "Account Locked" status.
+- **[Microsoft Account Issues](./Microsoft-Account-Issues.md)**
+  Troubleshooting for Microsoft 365, Outlook.com, and Windows user profile sign-in problems.
+
+### 🔐 Password Recovery & General Access
+*Techniques for retrieving credentials and resolving generic errors.*
+
+- **[Find Passwords / Password Help](./Find-Passwords-Password-Help.md)**
+  Methods for locating saved credentials in web browsers (Chrome, Edge), Keychain, and password managers to assist clients who have forgotten their logins.
+- **[General Accounts Login Issues](./General-Accounts-Login-Issues.md)**
+  A checklist for diagnosing login failures that aren't platform-specific (e.g., keyboard layout issues, network blocks, browser cache).
+
+### ⚠️ Policy & Scope
+*Guidelines on what support we can and cannot provide.*
+
+- **[Account Recovery Support Limitations](./Account-Recovery-Support-Limitations.md)**
+  **Critical Read:** Defines the boundaries of our support. Clarifies when a client must contact the vendor directly and protects the technician from liability during high-risk recovery attempts.
+
+---
+
+## 🔗 Quick Recovery Links
+*Official vendor portals for immediate account recovery actions.*
+
+| Platform | Recovery URL |
+| :--- | :--- |
+| **Microsoft** | [account.live.com/password/reset](https://account.live.com/password/reset) |
+| **Apple** | [iforgot.apple.com](https://iforgot.apple.com) |
+| **Google** | [accounts.google.com/signin/recovery](https://accounts.google.com/signin/recovery) |
+| **Yahoo** | [login.yahoo.com/account/challenge](https://login.yahoo.com/account/challenge) |
 
 ---
 
@@ -39,3 +64,5 @@ We welcome contributions to keep these procedures current, accurate, and aligned
 * New documentation should cover a complete process (e.g., start-to-finish account creation) and be placed in a clearly named markdown file.
 
 ---
+
+*Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
