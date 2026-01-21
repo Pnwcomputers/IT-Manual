@@ -1,35 +1,54 @@
-# 🪟 Windows Documentation
+# 🪟 Windows 10 & 11 Support
 
-This directory serves as the dedicated section for all documentation, guides, and configuration standards related to the **Microsoft Windows operating system**, covering both Windows Server and Windows client machines (workstations/laptops).
-
-The objective is to ensure that all Windows environments are **uniformly deployed, securely managed via Group Policy/MDM, and correctly maintained** to meet organizational standards.
-
----
-
-## 📚 Contents Overview
-
-This documentation focuses on the deployment, configuration, and support of Windows environments:
-
-| File / Folder | Description | Key Focus |
-| :--- | :--- | :--- |
-| `os_deployment_guide.md` | Standardized procedure for imaging, installing, and joining new Windows machines to the domain or management system (e.g., Autopilot, SCCM). | **System Provisioning** |
-| `group_policy_management.md` | Documentation of key Group Policy Objects (GPOs), including security baselines, folder redirection, and standardized desktop settings. | **Centralized Configuration** |
-| `security_hardening_windows.md` | Checklist and procedures for essential security controls, including Windows Defender configuration, BitLocker encryption, and user access control (UAC) settings. | **Endpoint Security** |
-| `powershell_scripting_library.md` | Collection of approved and documented PowerShell scripts used for routine administration, diagnostics, and automation tasks. | **Automation** |
-| `common_troubleshooting.md` | Guide to diagnosing and resolving typical Windows issues (e.g., blue screens, corrupt profiles, Windows Update failures). | **Tier 1 & 2 Support** |
-| `active_directory_sop.md` | Standard operating procedure for managing Active Directory objects, including OUs, user/group creation, and domain controller maintenance. | **Identity Management** |
+**Part of the [IT-Manual](../README.md)**
+*Troubleshooting guides for boot failures, networking, and update errors on Microsoft OS.*
 
 ---
 
-## 🛠️ Key Administration Areas
+## 📖 Overview
+This directory serves as the troubleshooting hub for Windows workstations. It focuses on resolving "Break/Fix" issues: machines that won't boot, updates that refuse to install, and computers that can't "see" each other on the local network.
 
-* **Standardization:** All configurations should leverage Group Policy or management tools to minimize local variations.
-* **Patch Management:** Windows Update settings are centrally managed to ensure timely application of critical security patches.
-* **Security:** Focus on securing the endpoint, network communication, and access to privileged domain resources.
+## 📂 Contents
+
+### 🚑 Boot & Recovery
+*Fixing machines that won't start or need licensing help.*
+
+- **[Windows 10/11 Failing To Boot](./Windows-10-11-Failing-To-Boot.md)**
+  **Start Here for Blue Screens:** Procedures for using Automatic Repair, rebuilding the BCD (Boot Configuration Data), and fixing "Inaccessible Boot Device" errors.
+- **[Windows 11 Product Key Retrieval](./Windows-11-Product-Key-Retrieval.md)**
+  Methods for extracting the OEM product key embedded in the motherboard BIOS (useful when reinstalling Windows on a machine with no sticker).
+
+### 🌐 Networking & Sharing
+*Connectivity and local file sharing configuration.*
+
+- **[Setting Network Location (Private vs Public)](./Setting-Network-Location-Private-Public-Windows-10-11.md)**
+  **The #1 cause of printer/sharing failures.** How to switch a network profile from "Public" (Hidden) to "Private" (Discoverable) so the PC can talk to printers and other computers.
+- **[Windows File & Print Sharing](./Windows-File-Print-Sharing.md)**
+  Steps for enabling SMB protocols, turning on network discovery, and configuring folder permissions for simple workgroups.
+- **[Editing Windows Host File](./Editing-Windows-Host-File.md)**
+  How to manually override DNS for specific domains by editing `C:\Windows\System32\drivers\etc\hosts`.
+
+### 🛠️ Maintenance & Updates
+*Solving OS rot and update loops.*
+
+- **[Windows Update Troubleshooting](./Windows-Update-Troubleshooting.md)**
+  Scripts and commands to stop the update services, clear the `SoftwareDistribution` cache, and force a clean update check.
+- **[Websites for Diagnostics & Assistance](./Websites-Diagnostics-Assistance.md)**
+  A list of trusted repositories for Windows ISOs, drivers, and error code lookups.
 
 ---
 
-## 🔗 Related Documentation
+## ⚡ Quick CMD Reference
+*Run these in Command Prompt (Admin) for instant fixes.*
 
-* **[Active Directory SOPs](../accounts):** Detailed procedures for user and account management within the Active Directory framework.
-* **[Procedures Documentation](../procedures):** High-level guides that mandate the patching and maintenance schedules for Windows Server environments.
+| Task | Command / Procedure |
+| :--- | :--- |
+| **Get BIOS Key** | `wmic path softwarelicensingservice get OA3xOriginalProductKey` |
+| **Fix "Corrupt" System** | `sfc /scannow` |
+| **Fix Update Image** | `dism /online /cleanup-image /restorehealth` |
+| **Check Disk** | `chkdsk c: /f /r` |
+| **Force GPO Update** | `gpupdate /force` |
+| **Reset Network** | `netsh int ip reset` then `netsh winsock reset` |
+
+---
+*Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
