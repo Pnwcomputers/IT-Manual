@@ -1,41 +1,44 @@
-# 🐧 Linux Documentation
+# 🐧 Linux Command References
 
-This directory serves as the dedicated section for all documentation, guides, and configuration snippets related to the **Linux operating system** within the broader IT-Manual repository.
-
-The primary goal of this section is to provide **clear, actionable instructions** for standard operational tasks, system configuration, and troubleshooting on Linux-based machines.
+**Part of the [IT-Manual](../README.md)**
+*CLI cheatsheets and distribution guides for technician reference.*
 
 ---
 
-## 📚 Contents
+## 📖 Overview
+This directory serves as a quick lookup for Linux command-line syntax. It is specifically divided between the two major package management families most likely to be encountered in the field: **Debian-based** (Ubuntu, Mint, Kali) and **Arch-based** (Manjaro, SteamOS).
 
-Below is the structure of the files contained in this directory.
+## 📂 Contents
 
-| File / Folder | Description | Status |
+### ⌨️ Command Cheatsheets
+*Syntax guides for package management and system control.*
+
+- **[Debian Linux Commands](./debian_linux_commands.md)**
+  Reference for `apt` / `apt-get` systems. Covers Ubuntu, Linux Mint, Pop!_OS, and Kali Linux.
+- **[Arch Linux Commands](./arch_linux_commands.md)**
+  Reference for `pacman` / `yay` systems. Critical for working on Steam Decks, Manjaro laptops, or custom Arch installs.
+
+### 📋 General Reference
+*Distro identification and hierarchies.*
+
+- **[Linux OS List](./linux_OS_list.md)**
+  A catalog of common distributions, their upstream bases, and their primary use cases (e.g., General Desktop vs. Penetration Testing vs. Server).
+
+[Image of Linux distribution family tree simplified]
+
+---
+
+## ⚡ Quick Config: Package Managers
+*The most common commands needed when hopping between distributions.*
+
+| Action | Debian / Ubuntu (`apt`) | Arch / Manjaro (`pacman`) |
 | :--- | :--- | :--- |
-| `01_initial_setup.md` | Step-by-step guide for setting up a fresh Linux installation (e.g., specific distribution selection, partitioning, and initial user creation). | Draft |
-| `commands/` | Directory containing quick reference guides and cheat sheets for essential command-line tools and shell scripting basics. | In Progress |
-| `network_config.md` | Instructions for configuring static IP addresses, DNS resolution, and advanced network settings via the terminal. | **Complete** |
-| `ssh_setup.md` | Guide on generating SSH key pairs, configuring `sshd_config` for security, and setting up passwordless logins. | Needs Review |
-| `security_hardening.md` | Checklist and procedures for basic system hardening, including firewall (`ufw`) configuration and user permission best practices. | Planned |
-| `virtualization.md` | Guides for setting up and managing virtual machines using tools like KVM or VirtualBox on a Linux host. | Planned |
+| **Refresh Repos** | `sudo apt update` | `sudo pacman -Sy` |
+| **Upgrade System** | `sudo apt upgrade` | `sudo pacman -Syu` |
+| **Install Package** | `sudo apt install <name>` | `sudo pacman -S <name>` |
+| **Remove Package** | `sudo apt remove <name>` | `sudo pacman -Rs <name>` |
+| **Search** | `apt search <term>` | `pacman -Ss <term>` |
+| **Clean Cache** | `sudo apt autoremove` | `sudo pacman -Sc` |
 
 ---
-
-## 🛠️ Key Topics
-
-The documentation here focuses on areas critical to maintaining an enterprise or professional Linux environment:
-
-* **System Initialization:** Setting up the base system correctly.
-* **User & Permissions Management:** Ensuring least-privilege principles are followed.
-* **Connectivity:** Reliable network and secure remote access (**SSH**).
-* **Security:** Implementing core security controls (firewall, audit logs).
-
----
-
-## 🤝 Contributing
-
-We welcome contributions to improve the clarity and accuracy of these guides. If you notice a missing command, an outdated procedure, or an error, please:
-
-1.  **Fork** the repository.
-2.  Make your changes in a **new branch**.
-3.  Open a **Pull Request** with a clear description of the changes.
+*Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
