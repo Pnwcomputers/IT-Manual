@@ -1,37 +1,53 @@
-# 🚀 Setup and Migration Guides
+# 🚀 New System Setup & Data Migration
 
-This directory contains the essential, detailed guides for performing **major IT setup operations, system upgrades, and data migrations**.
-
-The objective is to provide structured, validated procedures for large-scale, non-routine tasks to ensure minimal downtime, data integrity, and consistent results when implementing new infrastructure or transitioning between systems.
+**Part of the [IT-Manual](../README.md)**
+*Procedures for setting up new workstations, migrating user data, and upgrading email protocols.*
 
 ---
 
-## 📚 Contents Overview
+## 📖 Overview
+This directory contains the workflows for the "New Computer Experience." It covers the entire lifecycle of replacing a client's machine: preparing the client for the switch, backing up the old data, setting up the new hardware, and performing the migration.
 
-This documentation focuses on methodical execution of high-impact technical changes:
+## 📂 Contents
 
-| File / Folder | Description | Key Focus |
+### 📦 The Migration Workflow
+*Technical checklists for the transfer process.*
+
+- **[New PC Setup & Migration Checklist](./New-PC-Setup-Migration-Checklist.md)**
+  **The Master List:** The start-to-finish tracking sheet for a migration job. Covers intake, backup, setup, transfer, and quality assurance.
+- **[New Computer Set-up Detailed](./New-Computer-Set-up-Detailed.md)**
+  Specific technical steps for the "Out of Box Experience" (OOBE)—removing bloatware, running updates, and configuring standard settings.
+- **[Data Backup & Restore (PC)](./Data-Backup-Restore-PC.md)**
+  Procedures for locating, copying, and verifying user data (Documents, Desktop, Pictures, Quickbooks, Outlook PSTs) during the move.
+
+### 📧 Email & Accounts
+*Handling identity and protocol changes.*
+
+- **[POP to IMAP Email Migration](./POP-to-IMAP-Email-Migration.md)**
+  A guide for upgrading clients from legacy POP3 (local storage) to IMAP/Exchange (cloud sync) to ensure their email syncs across multiple devices.
+- **[Email Address Change To-Do List](./Email-Address-Change-To-Do-List.md)**
+  A checklist to guide clients through the hassle of changing a primary email address (updating banks, utilities, subscriptions, and Amazon).
+
+### 📋 Client Homework
+*Lists to give the client *before* or *after* the job.*
+
+- **[New PC Client To-Do List](./New-PC-Client-To-Do-List.md)**
+  **Pre-Service Requirement:** A document sending the client to gather their passwords, license keys, and 2FA devices *before* the appointment to avoid delays.
+
+---
+
+## ⚡ Migration Order of Operations
+*Follow this path to ensure no data is lost.*
+
+[Image of data migration workflow diagram]
+
+| Phase | Step | Relevant Document |
 | :--- | :--- | :--- |
-| `new_server_deployment_guide.md` | Comprehensive procedure for racking, cabling, OS installation, initial hardening, and application provisioning for new servers. | **Infrastructure Deployment** |
-| `office_relocation_it_checklist.md` | A complete checklist of IT-related tasks required before, during, and after relocating an office (e.g., ISP coordination, hardware moving, network testing). | **Business Continuity** |
-| `email_platform_migration_sop.md` | Step-by-step guide for migrating user mailboxes, contacts, and calendar data between different email platforms (e.g., from local Exchange to cloud M365). | **Data Transition** |
-| `major_os_upgrade_plan.md` | The plan for rolling out major operating system version upgrades across the user base (e.g., Windows 10 to 11, or macOS Big Sur to Ventura). | **Client Management** |
-| `data_server_transfer_sop.md` | Standardized procedure for moving large volumes of data from an old server/storage unit to a new one, including verification steps. | **Storage Management** |
-| `post_migration_verification.md` | Standard checklist of tests and user confirmations required to formally sign-off on any major setup or migration project. | **Quality Assurance** |
+| **1. Prep** | Send client "homework" to get passwords ready. | `New-PC-Client-To-Do-List` |
+| **2. Protect** | **Backup the old machine completely.** | `Data-Backup-Restore-PC` |
+| **3. Setup** | Unbox and update the new machine. | `New-Computer-Set-up-Detailed` |
+| **4. Transfer** | Move files and configure email. | `POP-to-IMAP...` |
+| **5. Verify** | QC check using the master list. | `New-PC-Setup-Migration-Checklist` |
 
 ---
-
-## ⚠️ High-Impact Procedures
-
-Due to the critical nature of these processes, all setup and migration guides require adherence to the following:
-
-* **Testing Environment:** Procedures must first be validated in a non-production or staging environment.
-* **Rollback Plan:** Every migration and setup guide must include a clearly defined, tested plan to revert to the previous working state in case of failure.
-* **Communication:** Comprehensive communication with affected business units and users is mandatory prior to execution.
-
----
-
-## 🔗 Related Documentation
-
-* **[Procedures Documentation](../procedures):** High-level framework and templates that these specific guides follow.
-* **[Hardware Documentation](../hardware):** Reference for the specifications and physical requirements of the systems being set up or migrated.
+*Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
