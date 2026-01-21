@@ -23,7 +23,7 @@ This repository is designed to equip field technicians and bench engineers with 
 
 > "It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so." - Mark Twain
 
-> "In technology, mastery is an illusion. There's only the pursuit of understanding. After 20 years, I'm still learning every day. I don't claim to know it all, only to give it my all." - Senior Field Technician
+> "In technology, mastery is an illusion. There's only the pursuit of understanding. After 20 years, I'm still learning every day. I don't claim to know it all, only to give it my all." - Jon-Eric Pienkowski
 
 > "There are no mistakes; only opportunities for improvement."
 
