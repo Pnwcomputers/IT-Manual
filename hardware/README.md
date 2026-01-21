@@ -1,38 +1,61 @@
-# 💻 Hardware and Asset Management
+# 💻 Hardware Repair & Testing
 
-This directory serves as the definitive source for all documentation related to the organization's **physical IT assets**, including workstations, servers, network appliances, and peripherals.
-
-The objective is to **standardize hardware configurations**, streamline procurement, ensure accurate asset tracking, and document the complete lifecycle management from acquisition to secure disposal.
-
----
-
-## 📚 Contents Overview
-
-This section covers the entire lifecycle of physical IT equipment:
-
-| File / Folder | Description | Key Focus |
-| :--- | :--- | :--- |
-| `standard_workstation_specs.md` | Detailed specifications for approved desktop and laptop models, including ordering codes and required peripherals. | **Standardization** |
-| `server_specs_deployment.md` | Documentation on standardized server hardware, rack configurations, and physical installation procedures. | **Datacenter Management** |
-| `peripheral_catalog.md` | A list of approved accessories (monitors, docks, keyboards, mice) and vendor guidelines for compatibility. | **User Experience** |
-| `asset_management_procedure.md` | Step-by-step guide for tagging, recording, tracking, and auditing all physical assets within the inventory system. | **Inventory Control** |
-| `maintenance_checklists.md` | Checklists and schedules for preventative maintenance on key infrastructure hardware (e.g., server cleaning, UPS battery checks). | **Preventative Care** |
-| `eol_and_disposal_policy.md` | Policy and procedure for decommissioning, data sanitization, and environmentally responsible disposal of old hardware. | **Security & Compliance** |
+**Part of the [IT-Manual](../README.md)**
+*Procedures for physical repairs, component isolation, and storage management.*
 
 ---
 
-## ⚙️ Hardware Lifecycle Management
+## 📖 Overview
+This directory focuses on the "Nuts and Bolts" of the job. It contains guides for diagnosing specific hardware failures (Power, Motherboard, Storage) and procedures for hardware-level tasks like cloning drives and accessing BIOS interfaces.
 
-All hardware follows a standardized lifecycle documented here to ensure cost efficiency and security:
+## 📂 Contents
 
-1.  **Acquisition:** Based strictly on documented standards to simplify support.
-2.  **Deployment:** Includes mandatory asset tagging and inventory entry.
-3.  **Maintenance:** Guided by preventative maintenance schedules to maximize lifespan.
-4.  **Decommissioning:** Governed by the **End-of-Life (EoL)** policy for secure data sanitization.
+### 🔌 Power & Boot Issues
+*Troubleshooting devices that won't turn on or won't boot.*
+
+- **[No Power](./No-Power.md)**
+  **Start Here** for "Dead" machines. Steps to trace power delivery issues from the wall to the board.
+- **[POST Failure](./POST-Failure.md)**
+  Diagnosing machines that turn on (fans spin/lights on) but fail to display video or pass the Power-On Self-Test (Beep codes/LED debug).
+- **[How to Test Power Supply (PSU)](./How-to-Test-Power-Supply-PSU.md)**
+  Specific methods for validating PSU voltage rails (Paperclip test, Multimeter probing).
+- **[BIOS Access](./BIOS_Access.md)**
+  Key combinations and tricks for accessing UEFI/BIOS on various manufacturers (HP, Dell, Lenovo, etc.).
+
+### 💾 Storage & Data
+*Drive health and replication.*
+
+- **[HDD & SSD Health Checking](./HDD-SSD-Health-Checking.md)**
+  Interpreting S.M.A.R.T. data to detect failing drives before they die completely.
+- **[Clone Hard Drive (Hardware & Software Methods)](./Clone-Hard-Drive-Hardware-Software-Methods.md)**
+  Procedures for upgrading clients to SSDs or creating exact images for data recovery, using both software tools and hardware duplicators.
+
+### 🛠️ Component Isolation
+*Motherboard and form-factor specific guides.*
+
+- **[Motherboard Testing](./Motherboard-Testing.md)**
+  Visual inspection guides (blown capacitors, burn marks) and board-level testing.
+- **[Laptop Fault Diagnostics](./Laptop_Fault_Diagnostics.md)**
+  Troubleshooting issues unique to laptops: Battery charging circuits, LCD cables, and hinge sensors.
 
 ---
 
-## 🔗 Related Documentation
+## ⚡ Triage Decision Tree
+*Quick logic for hardware diagnosis.*
 
-* **[Business Documentation](../business):** Reference for procurement guidelines and budget planning for new hardware.
-* **[Diagnostics Documentation](../diagnostics):** Guides for troubleshooting hardware failures and intermittent component issues.
+[Image of computer hardware troubleshooting flowchart]
+
+1.  **Is it completely dead?** (No fans, no lights)
+    * &rarr; Go to **[No Power](./No-Power.md)**
+    * &rarr; Check **[PSU](./How-to-Test-Power-Supply-PSU.md)**
+
+2.  **Does it turn on, but black screen?**
+    * &rarr; Go to **[POST Failure](./POST-Failure.md)**
+    * &rarr; Check RAM seating and GPU.
+
+3.  **Does it show a Logo, but fail to load Windows?**
+    * &rarr; Check **[BIOS Access](./BIOS_Access.md)** (Is the drive detected?)
+    * &rarr; Go to **[HDD Health](./HDD-SSD-Health-Checking.md)**
+
+---
+*Maintained by [Pacific Northwest Computers](https://github.com/Pnwcomputers)*
